@@ -151,8 +151,14 @@ function initializeCompanyCards() {
   COMPANIES.forEach(createCompanyCard);
 }
 
+const MARKET_NEWS = '__market';
+
 function initializeNews() {
   const select = document.getElementById('news-symbol');
+  const marketOption = document.createElement('option');
+  marketOption.value = MARKET_NEWS;
+  marketOption.textContent = 'Top stories · US stocks';
+  select.appendChild(marketOption);
   COMPANIES.forEach(company => {
     const option = document.createElement('option');
     option.value = company.ticker;
@@ -160,21 +166,17 @@ function initializeNews() {
     select.appendChild(option);
   });
   select.addEventListener('change', () => renderNews(select.value));
-  renderNews(COMPANIES[0].ticker);
+  renderNews(MARKET_NEWS);
 }
 
-function renderNews(ticker) {
-  const company = COMPANIES.find(item => item.ticker === ticker) || COMPANIES[0];
-  registerWidget(document.getElementById('news-timeline'), 'timeline', {
-    feedMode: 'symbol',
-    symbol: company.symbol,
-    isTransparent: true,
-    displayMode: 'regular',
-    width: '100%',
-    height: 450,
-    colorTheme: currentTheme(),
-    locale: 'en'
-  }, 450);
+function renderNews(choice) {
+  const base = { isTransparent: true, displayMode: 'regular', width: '100%', height: 450, colorTheme: currentTheme(), locale: 'en' };
+  if (choice === MARKET_NEWS) {
+    registerWidget(document.getElementById('news-timeline'), 'timeline', { ...base, feedMode: 'market', market: 'stock' }, 450);
+    return;
+  }
+  const company = COMPANIES.find(item => item.ticker === choice) || COMPANIES[0];
+  registerWidget(document.getElementById('news-timeline'), 'timeline', { ...base, feedMode: 'symbol', symbol: company.symbol }, 450);
 }
 
 function openCompany(company) {
