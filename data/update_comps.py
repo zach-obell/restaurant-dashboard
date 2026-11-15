@@ -1,6 +1,6 @@
 """Daily comps updater, run by GitHub Actions.
 
-Reads data/fundamentals.json, fetches each ticker's latest closing price,
+Reads data/companies.json (shares and EPS for each company), fetches each ticker's latest closing price,
 recalculates market cap (price x shares) and P/E (price / EPS), and writes
 data/comps.json. Uses only the Python standard library.
 
@@ -16,7 +16,7 @@ from datetime import datetime, timezone
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-FUNDAMENTALS = ROOT / "data" / "fundamentals.json"
+COMPANIES = ROOT / "data" / "companies.json"
 OUTPUT = ROOT / "data" / "comps.json"
 HEADERS = {"User-Agent": "Mozilla/5.0 (restaurant-dashboard comps updater)"}
 
@@ -55,7 +55,7 @@ def get_price(ticker):
 
 
 def main():
-    fundamentals = json.loads(FUNDAMENTALS.read_text())
+    fundamentals = json.loads(COMPANIES.read_text())
     previous = {}
     if OUTPUT.exists():
         previous = {row["ticker"]: row for row in json.loads(OUTPUT.read_text()).get("rows", [])}
@@ -86,7 +86,7 @@ def main():
     as_of = max(dates) if dates else json.loads(OUTPUT.read_text()).get("as_of") if OUTPUT.exists() else None
     OUTPUT.write_text(json.dumps({
         "as_of": as_of,
-        "eps_period": fundamentals.get("eps_period", ""),
+        "eps_period": "Latest reported fiscal year",
         "rows": rows,
     }, indent=2) + "\n")
 
