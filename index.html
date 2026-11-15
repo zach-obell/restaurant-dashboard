@@ -43,8 +43,8 @@
         <div class="hero-byline"><span class="byline-rule" aria-hidden="true"></span><span>Built by <strong>Zachary O’Bell</strong> <span class="byline-separator">/</span> Finance student at Tulane University</span></div>
       </div>
       <div class="hero-aside" aria-label="Dashboard coverage summary">
-        <div class="hero-stat"><span class="stat-value">08</span><span class="stat-label">COMPANIES<br>IN COVERAGE</span></div>
-        <div class="hero-stat"><span class="stat-value">03</span><span class="stat-label">INDUSTRY<br>SEGMENTS</span></div>
+        <div class="hero-stat"><span class="stat-value" id="stat-companies">22</span><span class="stat-label">COMPANIES<br>IN COVERAGE</span></div>
+        <div class="hero-stat"><span class="stat-value" id="stat-segments">04</span><span class="stat-label">INDUSTRY<br>SEGMENTS</span></div>
         <div class="hero-note">A personal coverage universe<br><span>Updated as ideas develop</span></div>
       </div>
     </section>
@@ -65,12 +65,7 @@
         <div><p class="eyebrow">02 / COMPANY MONITOR</p><h2 id="companies-title">Coverage universe</h2></div>
         <p class="section-caption">Select any company to open its detailed market view. Analyst notes are yours to complete.</p>
       </div>
-      <div class="subsector-heading"><span class="subsector-index">A</span><h3>Fast casual</h3><span class="subsector-line"></span><span class="subsector-count">04 NAMES</span></div>
-      <div class="company-grid" id="fast-casual-grid" aria-label="Fast casual companies"></div>
-      <div class="subsector-heading"><span class="subsector-index">B</span><h3>Quick service</h3><span class="subsector-line"></span><span class="subsector-count">03 NAMES</span></div>
-      <div class="company-grid" id="quick-service-grid" aria-label="Quick service companies"></div>
-      <div class="subsector-heading"><span class="subsector-index">C</span><h3>Coffee</h3><span class="subsector-line"></span><span class="subsector-count">01 NAME</span></div>
-      <div class="company-grid coffee-grid" id="coffee-grid" aria-label="Coffee companies"></div>
+      <div id="coverage-segments"></div>
       <p class="widget-disclosure">Market widgets are provided by TradingView and require an internet connection. Quotes may be delayed.</p>
     </section>
 
@@ -95,24 +90,15 @@
         <p class="section-caption">Market cap and P/E update automatically after each trading day. Revenue growth and margins update with annual results.</p>
       </div>
       <div class="panel table-panel">
-        <div class="panel-topline"><span class="panel-label">RESTAURANT COMPANY COMPS</span><span class="panel-meta" id="comps-asof">Prices as of Nov 13, 2026 close · Financials: FY2025, GAAP</span></div>
+        <div class="panel-topline"><span class="panel-label">RESTAURANT COMPANY COMPS</span><span class="panel-meta" id="comps-asof">Prices: latest close · Financials: latest fiscal year, GAAP</span></div>
         <div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable trading comparables table">
           <table id="comps-table">
             <caption class="visually-hidden">Restaurant coverage universe trading comparables. Market cap and P/E update each weekday from the latest closing price.</caption>
-            <thead><tr><th scope="col">Company</th><th scope="col">Ticker</th><th scope="col">Sub-sector</th><th scope="col">Market cap</th><th scope="col">P/E</th><th scope="col">Revenue growth</th><th scope="col">Operating margin</th></tr></thead>
-            <tbody>
-              <tr><th scope="row">Chipotle Mexican Grill</th><td><span class="ticker-pill">CMG</span></td><td>Fast casual</td><td class="entry-cell">$44.6B</td><td class="entry-cell">30.9x</td><td class="entry-cell">+5.4%</td><td class="entry-cell">16.2%</td></tr>
-              <tr><th scope="row">CAVA Group</th><td><span class="ticker-pill">CAVA</span></td><td>Fast casual</td><td class="entry-cell">$6.8B</td><td class="entry-cell">107.8x</td><td class="entry-cell">+22.4%</td><td class="entry-cell">4.7%</td></tr>
-              <tr><th scope="row">Sweetgreen</th><td><span class="ticker-pill">SG</span></td><td>Fast casual</td><td class="entry-cell">$1.5B</td><td class="entry-cell">n/m</td><td class="entry-cell">+0.4%</td><td class="entry-cell">(20.5%)</td></tr>
-              <tr><th scope="row">Wingstop</th><td><span class="ticker-pill">WING</span></td><td>Fast casual</td><td class="entry-cell">$4.3B</td><td class="entry-cell">25.6x*</td><td class="entry-cell">+11.4%</td><td class="entry-cell">25.7%</td></tr>
-              <tr><th scope="row">McDonald’s</th><td><span class="ticker-pill">MCD</span></td><td>Quick service</td><td class="entry-cell">$192.5B</td><td class="entry-cell">22.8x</td><td class="entry-cell">+3.7%</td><td class="entry-cell">46.1%</td></tr>
-              <tr><th scope="row">Yum! Brands</th><td><span class="ticker-pill">YUM</span></td><td>Quick service</td><td class="entry-cell">$44.0B</td><td class="entry-cell">29.1x</td><td class="entry-cell">+8.7%</td><td class="entry-cell">31.3%</td></tr>
-              <tr><th scope="row">Domino’s Pizza</th><td><span class="ticker-pill">DPZ</span></td><td>Quick service</td><td class="entry-cell">$11.2B</td><td class="entry-cell">19.4x</td><td class="entry-cell">+5.0%</td><td class="entry-cell">19.3%</td></tr>
-              <tr><th scope="row">Starbucks</th><td><span class="ticker-pill">SBUX</span></td><td>Coffee</td><td class="entry-cell">$121.2B</td><td class="entry-cell">65.3x*</td><td class="entry-cell">+2.8%</td><td class="entry-cell">7.9%</td></tr>
-            </tbody>
+            <thead><tr><th scope="col">Company</th><th scope="col">Ticker</th><th scope="col">Segment</th><th scope="col">Fiscal year</th><th scope="col">Market cap</th><th scope="col">P/E</th><th scope="col">Revenue growth</th><th scope="col">Operating margin</th></tr></thead>
+            <tbody></tbody>
           </table>
         </div>
-        <p class="table-footnote">Market cap = latest closing price × latest reported shares outstanding (approximate). P/E = latest closing price ÷ FY2025 GAAP diluted EPS. Both update automatically each weekday after the market closes. Revenue growth and operating margin are GAAP, FY2025 vs. FY2024. n/m = not meaningful (net loss). *WING FY2025 EPS includes a one-time investment gain; on adjusted EPS of $4.08 the P/E is ~39x. *SBUX fiscal year ends in late September and FY2025 GAAP EPS was reduced by restructuring costs; on non-GAAP EPS of $2.13 the P/E is ~50x. Sources: company earnings releases, 10-K and 10-Q filings.</p>
+        <p class="table-footnote">Market cap = latest closing price × latest reported shares outstanding (approximate). P/E = latest closing price ÷ GAAP diluted EPS for the fiscal year shown. Both update automatically each weekday after the market closes. Revenue growth and operating margin are GAAP for the fiscal year shown vs. the prior year; fiscal years that don’t end in December are labeled with their closing month. n/m = not meaningful (net loss). — = price not loaded yet. * = GAAP EPS distorted by one-time items. <span id="comps-company-notes"></span> Sources: company earnings releases, 10-K and 10-Q filings.</p>
       </div>
     </section>
 
