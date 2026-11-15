@@ -1,14 +1,24 @@
 // COVERAGE UNIVERSE — keep every company and its TradingView exchange-prefixed symbol here.
 // Verified symbols: NYSE (CMG, CAVA, SG, MCD, YUM); NASDAQ (WING, DPZ, SBUX).
+// ANALYST NOTES: write each company's 2–3 sentence take between the backticks after note: `` (apostrophes are fine).
+// Leave it empty (``) to show the placeholder.
 const COMPANIES = [
-  { ticker: 'CMG', symbol: 'NYSE:CMG', name: 'Chipotle Mexican Grill', sector: 'Fast casual', grid: 'fast-casual-grid' },
-  { ticker: 'CAVA', symbol: 'NYSE:CAVA', name: 'CAVA Group', sector: 'Fast casual', grid: 'fast-casual-grid' },
-  { ticker: 'SG', symbol: 'NYSE:SG', name: 'Sweetgreen', sector: 'Fast casual', grid: 'fast-casual-grid' },
-  { ticker: 'WING', symbol: 'NASDAQ:WING', name: 'Wingstop', sector: 'Fast casual', grid: 'fast-casual-grid' },
-  { ticker: 'MCD', symbol: 'NYSE:MCD', name: 'McDonald’s', sector: 'Quick service', grid: 'quick-service-grid' },
-  { ticker: 'YUM', symbol: 'NYSE:YUM', name: 'Yum! Brands', sector: 'Quick service', grid: 'quick-service-grid' },
-  { ticker: 'DPZ', symbol: 'NASDAQ:DPZ', name: 'Domino’s Pizza', sector: 'Quick service', grid: 'quick-service-grid' },
-  { ticker: 'SBUX', symbol: 'NASDAQ:SBUX', name: 'Starbucks', sector: 'Coffee', grid: 'coffee-grid' }
+  { ticker: 'CMG', symbol: 'NYSE:CMG', name: 'Chipotle Mexican Grill', sector: 'Fast casual', grid: 'fast-casual-grid',
+    note: `` },
+  { ticker: 'CAVA', symbol: 'NYSE:CAVA', name: 'CAVA Group', sector: 'Fast casual', grid: 'fast-casual-grid',
+    note: `` },
+  { ticker: 'SG', symbol: 'NYSE:SG', name: 'Sweetgreen', sector: 'Fast casual', grid: 'fast-casual-grid',
+    note: `` },
+  { ticker: 'WING', symbol: 'NASDAQ:WING', name: 'Wingstop', sector: 'Fast casual', grid: 'fast-casual-grid',
+    note: `` },
+  { ticker: 'MCD', symbol: 'NYSE:MCD', name: 'McDonald’s', sector: 'Quick service', grid: 'quick-service-grid',
+    note: `` },
+  { ticker: 'YUM', symbol: 'NYSE:YUM', name: 'Yum! Brands', sector: 'Quick service', grid: 'quick-service-grid',
+    note: `` },
+  { ticker: 'DPZ', symbol: 'NASDAQ:DPZ', name: 'Domino’s Pizza', sector: 'Quick service', grid: 'quick-service-grid',
+    note: `` },
+  { ticker: 'SBUX', symbol: 'NASDAQ:SBUX', name: 'Starbucks', sector: 'Coffee', grid: 'coffee-grid',
+    note: `` }
 ];
 
 const WIDGET_BASE = 'https://s3.tradingview.com/external-embedding/embed-widget-';
@@ -80,7 +90,7 @@ function refreshWidgets() {
 
 function initializeTickerTape() {
   const symbols = COMPANIES.map(company => ({ proName: company.symbol, title: company.ticker }));
-  registerWidget(document.getElementById('ticker-tape'), 'ticker tape', {
+  registerWidget(document.getElementById('ticker-tape'), 'ticker-tape', {
     symbols,
     showSymbolLogo: true,
     displayMode: 'adaptive',
@@ -119,27 +129,21 @@ function createCompanyCard(company) {
       <span class="card-chart-label"><span>LIVE PRICE · 1Y VIEW</span><span>OPEN DETAIL →</span></span>
     </button>
     <div class="widget-slot mini-chart" id="mini-${company.ticker}" aria-label="Live one-year chart for ${company.name}"></div>
-    <div class="analyst-note"><div class="note-heading"><span class="note-icon" aria-hidden="true">✳</span><h3>Analyst note</h3></div><p>[Add your 2–3 sentence analyst take for ${company.ticker}.]</p></div>`;
+    <div class="analyst-note"><div class="note-heading"><span class="note-icon" aria-hidden="true">✳</span><h3>Analyst note</h3></div><p>${company.note || `[Add your 2–3 sentence analyst take for ${company.ticker}.]`}</p></div>`;
   const miniChart = card.querySelector('.mini-chart');
-  miniChart.style.cssText = 'position:relative;width:100%;height:clamp(200px, 22vw, 220px);overflow:hidden';
+  miniChart.style.cssText = 'position:relative;width:100%;height:220px;overflow:hidden';
   card.querySelector('.company-open').addEventListener('click', () => openCompany(company));
   document.getElementById(company.grid).appendChild(card);
-  registerWidget(document.getElementById(`mini-${company.ticker}`), 'symbol-overview', {
-    symbols: [[company.symbol]],
-    chartOnly: false,
+  registerWidget(document.getElementById(`mini-${company.ticker}`), 'mini-symbol-overview', {
+    symbol: company.symbol,
+    width: '100%',
+    height: '100%',
     dateRange: '12M',
     colorTheme: currentTheme(),
     isTransparent: true,
     autosize: true,
-    locale: 'en',
-    chartType: 'area',
-    scalePosition: 'right',
-    scaleMode: 'Normal',
-    fontFamily: 'DM Sans, sans-serif',
-    fontSize: '10',
-    noTimeScale: false,
-    valuesTracking: '1',
-    changeMode: 'price-and-percent'
+    largeChartUrl: '',
+    locale: 'en'
   }, null);
 }
 
@@ -177,7 +181,7 @@ function openCompany(company) {
   activeCompany = company;
   document.getElementById('dialog-title').textContent = company.name;
   document.getElementById('dialog-subtitle').textContent = `${company.ticker} · ${company.symbol} · ${company.sector}`;
-  document.querySelector('.detail-note-text').textContent = `[Your 2–3 sentence analyst take for ${company.ticker}. Personalize the Analyst Note placeholder in this card template in script.js.]`;
+  document.querySelector('.detail-note-text').textContent = company.note || `[Add your 2–3 sentence analyst take for ${company.ticker} in the COMPANIES list at the top of script.js.]`;
   registerWidget(document.getElementById('detail-chart'), 'advanced-chart', {
     autosize: true,
     symbol: company.symbol,
