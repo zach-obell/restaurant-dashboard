@@ -3,31 +3,31 @@
 // Leave it empty (``) to show the placeholder.
 const NOTES = {
   // Fast casual
-  CMG: ``,
-  CAVA: ``,
-  WING: ``,
-  SHAK: ``,
-  SG: ``,
+  CMG: `View: Neutral, leaning positive. Chipotle still runs one of the most profitable models in the group (16.2% operating margin), but FY2025 revenue growth of 5.4% was slow by its own standards and the stock fell sharply over the past year as traffic softened. September comps of +3.8%, with lower-income guests coming back, are the first sign of a turn. The thing to watch is whether the Smoked Brisket return and roughly 350 new openings a year can turn that into steady traffic growth in 2027.`,
+  CAVA: `View: Neutral. CAVA is the growth story of the group, with revenue up 22% and its restaurant count up about 20% to 500, but at over 100x FY2025 earnings the stock is priced as if that growth is guaranteed. Q3 same-restaurant sales slowed to 3.1% from about 9% in the first half, and restaurant margins slipped on labor and delivery costs. I would want to see comps reaccelerate before getting more positive.`,
+  WING: `View: Cautious. Wingstop's franchise-heavy model produces a 25.7% operating margin and it is still growing its store count about 14% a year, but domestic same-store sales keep falling and 2026 guidance now calls for a 6.5–7% decline. Average sales per restaurant dropped about 10% to $1.85M, which squeezes the franchisees who pay for all those new stores. Unit growth can only hide falling per-store sales for so long, so stabilizing comps is the key thing to watch.`,
+  SHAK: `View: Positive. Shake Shack pairs fast growth (revenue +15.4%) with something most of the group lacks right now: positive traffic, now five straight quarters, and 23 straight quarters of positive comps. The weak spot is profitability, a 4.3% operating margin, because new-store opening costs and labor weigh on results. If margins expand as the newer Shacks mature, earnings could grow much faster than sales.`,
+  SG: `View: Cautious. Sweetgreen is still losing money (a -20.5% operating margin) on flat FY2025 revenue. Management expects 2026 comps of about -5.5% and plans to cut new openings roughly in half in 2027 to fix the economics of existing restaurants. October comps turning positive after a summer food-safety scare is the first good news in a while, but until restaurant margins clearly improve this is a show-me story.`,
   // Quick service
-  MCD: ``,
-  YUM: ``,
-  QSR: ``,
-  DPZ: ``,
-  WEN: ``,
-  PZZA: ``,
-  DNUT: ``,
-  JACK: ``,
+  MCD: `View: Positive. McDonald's is the benchmark for the industry: with about 95% of restaurants franchised, it earns a 46.1% operating margin and keeps growing earnings even when sales are soft. The concern is U.S. traffic. U.S. comps slipped 0.2% in Q3, the first decline in over a year, as lower-income customers pulled back. The national entry-level value program planned for early 2027 is the catalyst I am watching to see if McDonald's can win those guests back.`,
+  YUM: `View: Neutral. Yum is now mainly a KFC and Taco Bell story after selling Pizza Hut in September for about $2.4B, which simplifies the business and funded debt paydown and buybacks (the FY2025 numbers in the table still include Pizza Hut). KFC's global unit growth of about 7% is the engine, while Taco Bell U.S. sales were hurt by a produce-related outbreak in Q3 before rebounding. The question is whether a smaller, more focused Yum can hit its 8% core profit growth target.`,
+  QSR: `View: Positive. Restaurant Brands (Burger King, Tim Hortons, Popeyes, Firehouse Subs) is seeing its Burger King U.S. turnaround pay off, with BK U.S. comps up 8.4% in Q3, well ahead of most burger peers. FY2025 revenue grew 12.2% with a 23.3% operating margin from a mostly franchised system. The key question is whether the other brands can keep pace now that Burger King is carrying growth.`,
+  DPZ: `View: Neutral. Domino's is a disciplined, mostly franchised operator (19.3% operating margin) that keeps growing earnings through buybacks and supply-chain profits, with Q3 EPS up 12.7%. But U.S. same-store sales have been under 1% for three straight quarters, and orders are getting smaller as customers trade down. With a new CEO in place, the next few quarters will show whether Domino's can get back to its 3% U.S. comp target.`,
+  WEN: `View: Cautious. Wendy's still earns a solid 15.8% operating margin, but revenue fell 3.1% in FY2025, U.S. traffic has dropped sharply, and hundreds of underperforming restaurants are closing. New CEO Bob Wright has openly said the brand lost ground on food quality and value, and activist investor Trian has pushed for change. It has the lowest P/E in the group, which says the market has little faith in the turnaround yet.`,
+  PZZA: `View: Cautious. Papa John's North America comps fell 8.3% in Q3, management cut guidance for the third straight quarter, and international, previously its bright spot, turned negative too. The operating margin is thin at 4.3%, and the company plans to close 200–250 North American restaurants this year. Its new Unbox Better plan sounds reasonable, but until North America sales stop shrinking I would stay on the sidelines.`,
+  DNUT: `View: Cautious. Krispy Kreme lost money in FY2025 (a -30.8% operating margin), mostly from write-downs tied to its failed McDonald's partnership, and revenue fell 8.6%. The turnaround (refranchising, outsourcing delivery and exiting unprofitable doors) has brought leverage down to about 5.5x, and the brand itself is still strong. This is a high-risk debt-reduction story: falling leverage and a return to organic sales growth are what to watch.`,
+  JACK: `View: Cautious. Jack in the Box lost money in FY2025 and is in the middle of a restructuring: it sold Del Taco for $115M to pay down debt, is closing underperforming restaurants and changed CEOs this year. Its market cap is now only a few hundred million dollars, which shows how much doubt is priced in. A return to positive same-store sales is the signal that would change my view.`,
   // Coffee
-  SBUX: ``,
-  BROS: ``,
+  SBUX: `View: Neutral, leaning positive. Starbucks' Back to Starbucks turnaround under Brian Niccol is starting to show up, with North America comps up 7.9% in fiscal Q4. But FY2026 revenue grew only 2%, the 9.7% operating margin is well below where it was a few years ago, and at close to 50x GAAP earnings the stock already prices in a lot of recovery. Fiscal 2027 adjusted EPS guidance of $3.15–3.25 is the bar to watch.`,
+  BROS: `View: Positive. Dutch Bros is the fastest grower in the coverage list (revenue +27.9%) and lifted its operating margin to 9.8% as its drive-thru model scales, with about 250 openings planned next year. The stock fell sharply after Q3 on worries that McDonald's new drinks and fast-growing 7 Brew are chasing the same customers. If same-shop sales and traffic hold up, the long-term growth story is intact.`,
   // Casual dining
-  DRI: ``,
-  TXRH: ``,
-  EAT: ``,
-  CAKE: ``,
-  CBRL: ``,
-  BLMN: ``,
-  DIN: ``
+  DRI: `View: Positive. Darden (Olive Garden, LongHorn and others) is the scale leader in casual dining, with a 12.0% operating margin and FY2026 revenue up 9.4%, about two points of which came from a 53rd week. LongHorn is the standout, and every segment posted positive same-restaurant sales in Q1 of fiscal 2027. The stock is not cheap, but Darden's scale gives it purchasing and advertising advantages smaller chains cannot match.`,
+  TXRH: `View: Neutral. Texas Roadhouse has been one of the best traffic stories in casual dining, but beef inflation held its operating margin to 8.1%, and comps slowed from about 6% in July and August to 1.5% in early Q4. Beef costs are easing, which should help margins, but the stock trades at roughly 30x earnings, a premium that depends on traffic holding up. Full Q4 traffic numbers are the key data point.`,
+  EAT: `View: Positive. Brinker has had the best turnaround in the industry: Chili's posted its 22nd straight quarter of same-store sales growth, up about 10% in Q1 of fiscal 2027 on top of +21% a year earlier. FY2026 revenue rose 7.9% with a 10.7% operating margin, and on P/E it is one of the cheaper names in the group. The risk is that it is now lapping huge numbers, so slower growth could hit the stock even if the business stays healthy.`,
+  CAKE: `View: Positive. The Cheesecake Factory's Q3 2026 was a standout, with comps at its namesake restaurants up 15.2% and traffic up 9.5%, proof that a differentiated, experience-driven casual dining brand can still win. Newer concepts like North Italia and Flower Child add unit growth, though the 5.0% operating margin leaves little room for cost pressure. The question is whether that traffic surge holds up next year.`,
+  CBRL: `View: Cautious. Cracker Barrel had a rough FY2026: revenue fell 4.7%, it posted an operating loss, and GAAP earnings were propped up by a $47M legal settlement. The balance sheet has improved and new CEO David Deno is guiding to 3–5% comps in fiscal 2027, but traffic was still down about 6% last quarter. I would want to see traffic stabilize before trusting the turnaround.`,
+  BLMN: `View: Cautious. Bloomin' Brands (Outback, Carrabba's, Bonefish Grill, Fleming's) is early in an Outback turnaround: guest scores have improved for five straight quarters, but traffic is still falling and the FY2025 operating margin was under 1%. The company suspended its dividend to fund the plan, and a large franchisee filed for bankruptcy. Positive Outback traffic is the proof point I am waiting for.`,
+  DIN: `View: Cautious. Dine Brands (Applebee's, IHOP) is almost fully franchised, which gives it an 11.7% margin before interest, but heavy debt eats most of that: FY2025 pre-tax income was just $25M after $78M of interest. Applebee's and IHOP both returned to small positive comps in Q3 2026, and dual-brand restaurants are the growth plan. The stock looks cheap on adjusted earnings for a reason, since its leverage leaves little room for error.`
 };
 
 const COMPANIES_URL = 'data/companies.json';
