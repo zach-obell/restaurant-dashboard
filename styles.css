@@ -107,8 +107,8 @@ h2 { margin-bottom: 0; font: 700 27px/1.2 var(--display); letter-spacing: -.04em
 .company-card:hover { border-color: color-mix(in srgb, var(--accent) 55%, var(--line)); transform: translateY(-2px); box-shadow: var(--shadow); }
 .company-open { display: block; width: 100%; padding: 16px 17px 0; border: 0; background: transparent; color: inherit; text-align: left; cursor: pointer; }
 .card-head { display: flex; align-items: start; justify-content: space-between; gap: 14px; }
-.company-name { margin: 0 0 4px; font: 600 16px var(--display); letter-spacing: -.02em; }
-.card-meta { color: var(--muted); font-size: 11px; }
+.company-name { display: block; margin: 0 0 4px; font: 600 16px var(--display); letter-spacing: -.02em; }
+.card-meta { display: block; color: var(--muted); font-size: 11px; }
 .ticker-pill { display: inline-flex; padding: 4px 7px; color: var(--accent); background: color-mix(in srgb, var(--accent) 9%, transparent); border: 1px solid color-mix(in srgb, var(--accent) 27%, transparent); border-radius: 3px; font: 10px var(--mono); letter-spacing: .03em; }
 .card-chevron { color: var(--faint); font-size: 18px; transition: color .15s, transform .15s; }
 .company-open:hover .card-chevron { color: var(--accent); transform: translateX(3px); }
