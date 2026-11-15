@@ -91,6 +91,9 @@ h2 { margin-bottom: 0; font: 700 27px/1.2 var(--display); letter-spacing: -.04em
 .panel-meta { color: var(--faint); font: 10px var(--mono); }
 .panel-meta strong { color: var(--accent); font-weight: 400; }
 .widget-slot { min-width: 0; background: var(--surface); }
+/* TradingView widgets load as light-scheme pages; matching their color-scheme stops the browser
+   from painting an opaque white backdrop behind transparent widgets in dark mode. */
+.widget-slot iframe, .tradingview-widget-container iframe { color-scheme: light; }
 .overview-widget { min-height: 365px; }
 .tradingview-widget-container { width: 100%; }
 .tradingview-widget-container__widget { width: 100%; }
