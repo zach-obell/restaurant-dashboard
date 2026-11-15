@@ -238,9 +238,44 @@ function initializeDialog() {
   });
 }
 
+// COMPS TABLE: market cap and P/E come from data/comps.json, which a GitHub Action
+// refreshes every weekday. The numbers typed into index.html are the fallback.
+const COMPS_URL = 'https://raw.githubusercontent.com/zach-obell/restaurant-dashboard/main/data/comps.json';
+
+async function loadCompsData() {
+  for (const url of [`${COMPS_URL}?t=${Date.now()}`, 'data/comps.json']) {
+    try {
+      const response = await fetch(url, { cache: 'no-store' });
+      if (response.ok) return await response.json();
+    } catch (error) { /* try the next source */ }
+  }
+  return null;
+}
+
+async function initializeComps() {
+  const data = await loadCompsData();
+  if (!data || !Array.isArray(data.rows)) return;
+  const table = document.getElementById('comps-table');
+  if (!table) return;
+  for (const row of data.rows) {
+    const pill = [...table.querySelectorAll('tbody .ticker-pill')].find(el => el.textContent.trim() === row.ticker);
+    if (!pill) continue;
+    const cells = pill.closest('tr').querySelectorAll('td');
+    if (cells.length < 4) continue;
+    cells[2].textContent = `$${Number(row.market_cap_billions).toFixed(1)}B`;
+    cells[3].textContent = row.pe === null || row.pe === undefined ? 'n/m' : `${Number(row.pe).toFixed(1)}x${row.pe_note || ''}`;
+  }
+  const label = document.getElementById('comps-asof');
+  if (label && data.as_of) {
+    const date = new Date(`${data.as_of}T12:00:00Z`).toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric', timeZone: 'UTC' });
+    label.textContent = `Prices as of ${date} close · Financials: ${data.eps_period || 'FY2025'}, GAAP`;
+  }
+}
+
 initializeTheme();
 initializeTickerTape();
 initializeMarketOverview();
 initializeCompanyCards();
 initializeNews();
 initializeDialog();
+initializeComps();
