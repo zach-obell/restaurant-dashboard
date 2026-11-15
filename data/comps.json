@@ -1,0 +1,70 @@
+{
+  "as_of": "2026-11-13",
+  "eps_period": "FY2025",
+  "rows": [
+    {
+      "ticker": "CMG",
+      "price": 35.28,
+      "price_date": "2026-11-13",
+      "market_cap_billions": 44.6,
+      "pe": 30.9,
+      "pe_note": ""
+    },
+    {
+      "ticker": "CAVA",
+      "price": 58.23,
+      "price_date": "2026-11-13",
+      "market_cap_billions": 6.8,
+      "pe": 107.8,
+      "pe_note": ""
+    },
+    {
+      "ticker": "SG",
+      "price": 12.26,
+      "price_date": "2026-11-13",
+      "market_cap_billions": 1.5,
+      "pe": null,
+      "pe_note": ""
+    },
+    {
+      "ticker": "WING",
+      "price": 158.86,
+      "price_date": "2026-11-13",
+      "market_cap_billions": 4.3,
+      "pe": 25.6,
+      "pe_note": "*"
+    },
+    {
+      "ticker": "MCD",
+      "price": 271.97,
+      "price_date": "2026-11-13",
+      "market_cap_billions": 192.5,
+      "pe": 22.8,
+      "pe_note": ""
+    },
+    {
+      "ticker": "YUM",
+      "price": 161.33,
+      "price_date": "2026-11-13",
+      "market_cap_billions": 44.0,
+      "pe": 29.1,
+      "pe_note": ""
+    },
+    {
+      "ticker": "DPZ",
+      "price": 341.72,
+      "price_date": "2026-11-13",
+      "market_cap_billions": 11.2,
+      "pe": 19.4,
+      "pe_note": ""
+    },
+    {
+      "ticker": "SBUX",
+      "price": 106.44,
+      "price_date": "2026-11-13",
+      "market_cap_billions": 121.2,
+      "pe": 65.3,
+      "pe_note": "*"
+    }
+  ]
+}
