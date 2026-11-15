@@ -110,7 +110,10 @@ h2 { margin-bottom: 0; font: 700 27px/1.2 var(--display); letter-spacing: -.04em
 .card-chevron { color: var(--faint); font-size: 18px; transition: color .15s, transform .15s; }
 .company-open:hover .card-chevron { color: var(--accent); transform: translateX(3px); }
 .card-chart-label { display: flex; justify-content: space-between; margin: 13px 0 0; color: var(--faint); font: 9px var(--mono); letter-spacing: .06em; }
-.mini-chart { height: 135px; }
+.mini-chart { height: 220px; padding: 0 8px; }
+.mini-chart .tradingview-widget-container,
+.mini-chart .tradingview-widget-container__widget { width: 100%; height: 100%; }
+@media (max-width: 640px) { .mini-chart { height: 200px !important; } }
 .analyst-note { padding: 13px 16px 15px; border-top: 1px solid var(--line-soft); }
 .note-heading { display: flex; align-items: center; gap: 7px; margin-bottom: 6px; }
 .note-heading h3 { margin: 0; color: var(--muted); font: 500 10px var(--mono); letter-spacing: .07em; text-transform: uppercase; }
