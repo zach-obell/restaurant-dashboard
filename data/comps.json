@@ -1,6 +1,6 @@
 {
   "as_of": "2026-11-13",
-  "eps_period": "FY2025",
+  "eps_period": "Latest reported fiscal year",
   "rows": [
     {
       "ticker": "CMG",
@@ -19,20 +19,28 @@
       "pe_note": ""
     },
     {
-      "ticker": "SG",
-      "price": 12.26,
-      "price_date": "2026-11-13",
-      "market_cap_billions": 1.5,
-      "pe": null,
-      "pe_note": ""
-    },
-    {
       "ticker": "WING",
       "price": 158.86,
       "price_date": "2026-11-13",
       "market_cap_billions": 4.3,
       "pe": 25.6,
       "pe_note": "*"
+    },
+    {
+      "ticker": "SHAK",
+      "price": 74.98,
+      "price_date": "2026-11-13",
+      "market_cap_billions": 3.2,
+      "pe": 68.8,
+      "pe_note": ""
+    },
+    {
+      "ticker": "SG",
+      "price": 12.26,
+      "price_date": "2026-11-13",
+      "market_cap_billions": 1.5,
+      "pe": null,
+      "pe_note": ""
     },
     {
       "ticker": "MCD",
@@ -51,6 +59,14 @@
       "pe_note": ""
     },
     {
+      "ticker": "QSR",
+      "price": 75.41,
+      "price_date": "2026-11-13",
+      "market_cap_billions": 34.0,
+      "pe": 28.7,
+      "pe_note": ""
+    },
+    {
       "ticker": "DPZ",
       "price": 341.72,
       "price_date": "2026-11-13",
@@ -59,11 +75,107 @@
       "pe_note": ""
     },
     {
+      "ticker": "WEN",
+      "price": 8.28,
+      "price_date": "2026-11-13",
+      "market_cap_billions": 1.6,
+      "pe": 9.7,
+      "pe_note": ""
+    },
+    {
+      "ticker": "PZZA",
+      "price": 19.92,
+      "price_date": "2026-11-13",
+      "market_cap_billions": 0.7,
+      "pe": 22.1,
+      "pe_note": ""
+    },
+    {
+      "ticker": "DNUT",
+      "price": 3.92,
+      "price_date": "2026-11-13",
+      "market_cap_billions": 0.7,
+      "pe": null,
+      "pe_note": ""
+    },
+    {
+      "ticker": "JACK",
+      "price": 14.75,
+      "price_date": "2026-11-13",
+      "market_cap_billions": 0.3,
+      "pe": null,
+      "pe_note": ""
+    },
+    {
       "ticker": "SBUX",
       "price": 106.44,
       "price_date": "2026-11-13",
       "market_cap_billions": 121.2,
-      "pe": 65.3,
+      "pe": 48.2,
+      "pe_note": "*"
+    },
+    {
+      "ticker": "BROS",
+      "price": 35.9,
+      "price_date": "2026-11-13",
+      "market_cap_billions": 6.3,
+      "pe": 56.1,
+      "pe_note": ""
+    },
+    {
+      "ticker": "DRI",
+      "price": 228.74,
+      "price_date": "2026-11-13",
+      "market_cap_billions": 25.8,
+      "pe": 21.9,
+      "pe_note": ""
+    },
+    {
+      "ticker": "TXRH",
+      "price": 185.98,
+      "price_date": "2026-11-13",
+      "market_cap_billions": 12.2,
+      "pe": 30.5,
+      "pe_note": ""
+    },
+    {
+      "ticker": "EAT",
+      "price": 198.33,
+      "price_date": "2026-11-13",
+      "market_cap_billions": 8.5,
+      "pe": 18.2,
+      "pe_note": ""
+    },
+    {
+      "ticker": "CAKE",
+      "price": 109.11,
+      "price_date": "2026-11-13",
+      "market_cap_billions": 5.4,
+      "pe": 35.7,
+      "pe_note": ""
+    },
+    {
+      "ticker": "CBRL",
+      "price": 66.95,
+      "price_date": "2026-11-13",
+      "market_cap_billions": 1.5,
+      "pe": 47.8,
+      "pe_note": "*"
+    },
+    {
+      "ticker": "BLMN",
+      "price": 10.37,
+      "price_date": "2026-11-13",
+      "market_cap_billions": 0.9,
+      "pe": 103.7,
+      "pe_note": "*"
+    },
+    {
+      "ticker": "DIN",
+      "price": 36.88,
+      "price_date": "2026-11-13",
+      "market_cap_billions": 0.5,
+      "pe": 33.2,
       "pe_note": "*"
     }
   ]
