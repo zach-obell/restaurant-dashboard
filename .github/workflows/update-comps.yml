@@ -1,0 +1,35 @@
+name: Update comps table
+
+on:
+  schedule:
+    # Weekdays at 22:30 UTC (5:30 PM Eastern in winter, 6:30 PM in summer), after the market closes
+    - cron: "30 22 * * 1-5"
+  workflow_dispatch: # lets you run it any time from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Fetch prices and recalculate
+        run: python scripts/update_comps.py
+
+      - name: Save changes
+        run: |
+          git config user.name "comps-bot"
+          git config user.email "comps-bot@users.noreply.github.com"
+          git add data/comps.json
+          if git diff --cached --quiet; then
+            echo "No changes"
+          else
+            git commit -m "Update comps data"
+            git push
+          fi
