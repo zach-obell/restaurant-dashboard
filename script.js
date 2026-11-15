@@ -46,12 +46,21 @@ function registerWidget(container, widgetName, config, height) {
 
 function renderWidget(container, widgetName, config, height) {
   container.replaceChildren();
+  const isMiniChart = container.classList.contains('mini-chart');
   const wrapper = document.createElement('div');
   wrapper.className = 'tradingview-widget-container';
-  if (height) wrapper.style.minHeight = `${height}px`;
+  if (isMiniChart) {
+    wrapper.style.cssText = 'position:relative;width:100%;height:100%;overflow:hidden';
+  } else if (height) {
+    wrapper.style.minHeight = `${height}px`;
+  }
   const inner = document.createElement('div');
   inner.className = 'tradingview-widget-container__widget';
-  if (height) inner.style.minHeight = `${height}px`;
+  if (isMiniChart) {
+    inner.style.cssText = 'position:relative;width:100%;height:100%;overflow:hidden';
+  } else if (height) {
+    inner.style.minHeight = `${height}px`;
+  }
   wrapper.appendChild(inner);
   const script = document.createElement('script');
   script.type = 'text/javascript';
@@ -106,11 +115,13 @@ function createCompanyCard(company) {
   card.className = 'company-card';
   card.innerHTML = `
     <button class="company-open" type="button" aria-label="Open ${company.name} company details">
-      <span class="card-head"><span><span class="company-name">${company.name}</span><span class="card-meta">${company.sector} <span aria-hidden="true">·</span> ${company.symbol}</span></span><span class="ticker-pill">${company.ticker}</span><span class="card-chevron" aria-hidden="true">→</span></span>
+      <span class="card-head"><span><span class="company-name">${company.name}</span><span class="card-meta">${company.sector} <span aria-hidden="true">·</span> ${company.symbol}</span></span><span class="ticker-pill">${company.ticker}</span><span class="card-chevron" aria-hidden="true">↗</span></span>
       <span class="card-chart-label"><span>LIVE PRICE · 1Y VIEW</span><span>OPEN DETAIL →</span></span>
     </button>
     <div class="widget-slot mini-chart" id="mini-${company.ticker}" aria-label="Live one-year chart for ${company.name}"></div>
     <div class="analyst-note"><div class="note-heading"><span class="note-icon" aria-hidden="true">✳</span><h3>Analyst note</h3></div><p>[Add your 2–3 sentence analyst take for ${company.ticker}.]</p></div>`;
+  const miniChart = card.querySelector('.mini-chart');
+  miniChart.style.cssText = 'position:relative;width:100%;height:clamp(200px, 22vw, 220px);overflow:hidden';
   card.querySelector('.company-open').addEventListener('click', () => openCompany(company));
   document.getElementById(company.grid).appendChild(card);
   registerWidget(document.getElementById(`mini-${company.ticker}`), 'symbol-overview', {
@@ -129,7 +140,7 @@ function createCompanyCard(company) {
     noTimeScale: false,
     valuesTracking: '1',
     changeMode: 'price-and-percent'
-  }, 135);
+  }, null);
 }
 
 function initializeCompanyCards() {
