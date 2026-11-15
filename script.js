@@ -152,21 +152,23 @@ function initializeCompanyCards() {
 }
 
 const MARKET_NEWS = '__market';
+const DEFAULT_NEWS_TICKER = 'MCD'; // company shown first in the news section
 
 function initializeNews() {
   const select = document.getElementById('news-symbol');
-  const marketOption = document.createElement('option');
-  marketOption.value = MARKET_NEWS;
-  marketOption.textContent = 'Top stories · US stocks';
-  select.appendChild(marketOption);
   COMPANIES.forEach(company => {
     const option = document.createElement('option');
     option.value = company.ticker;
     option.textContent = `${company.ticker} · ${company.name}`;
     select.appendChild(option);
   });
+  const marketOption = document.createElement('option');
+  marketOption.value = MARKET_NEWS;
+  marketOption.textContent = 'Top stories · All US stocks';
+  select.appendChild(marketOption);
   select.addEventListener('change', () => renderNews(select.value));
-  renderNews(MARKET_NEWS);
+  select.value = DEFAULT_NEWS_TICKER;
+  renderNews(DEFAULT_NEWS_TICKER);
 }
 
 function renderNews(choice) {
