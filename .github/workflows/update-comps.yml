@@ -20,7 +20,7 @@ jobs:
           python-version: "3.12"
 
       - name: Fetch prices and recalculate
-        run: python scripts/update_comps.py
+        run: python data/update_comps.py
 
       - name: Save changes
         run: |
