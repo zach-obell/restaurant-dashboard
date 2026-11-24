@@ -9,6 +9,10 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: data-commits # shared with the news workflow so the two never push at the same moment
+  cancel-in-progress: false
+
 jobs:
   update:
     runs-on: ubuntu-latest
@@ -31,5 +35,6 @@ jobs:
             echo "No changes"
           else
             git commit -m "Update comps data"
+            git pull --rebase
             git push
           fi
