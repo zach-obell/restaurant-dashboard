@@ -1,0 +1,132 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#101a24">
+  <meta name="description" content="A student-built equity research dashboard following publicly traded restaurant companies.">
+  <title>Restaurant Coverage Dashboard | Zachary O'Bell</title>
+    <meta property="og:title" content="Restaurant Coverage Dashboard">
+    <meta property="og:description" content="A student-built equity research dashboard following publicly traded restaurant companies.">
+    <meta property="og:url" content="https://zach-obell.github.io/restaurant-dashboard/">
+    <meta property="og:type" content="website">
+    <meta property="og:image" content="https://zach-obell.github.io/restaurant-dashboard/preview.png">
+    <meta name="twitter:card" content="summary_large_image">
+  <link rel="preconnect" href="https://s3.tradingview.com" crossorigin>
+  <link rel="preconnect" href="https://www.tradingview.com" crossorigin>
+  <link rel="stylesheet" href="styles.css">
+  <script src="script.js" defer></script>
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+  <header class="site-header">
+    <div class="header-inner">
+      <a class="brand" href="#top" aria-label="Restaurant Coverage Dashboard home">
+        <span class="brand-mark" aria-hidden="true">RC<span>.</span></span>
+        <span class="brand-copy"><strong>RESTAURANT COVERAGE</strong><small>PUBLIC EQUITIES · RESEARCH</small></span>
+      </a>
+      <nav class="header-nav" aria-label="Main navigation">
+        <a href="#overview">Overview</a>
+        <a href="#companies">Coverage</a>
+        <a href="#comps">Comps</a>
+        <a href="#about">About</a>
+      </nav>
+      <button class="theme-toggle" id="theme-toggle" type="button" aria-label="Switch to light mode" title="Switch color theme">
+        <span class="theme-icon" aria-hidden="true">◐</span><span class="theme-label">Light mode</span>
+      </button>
+    </div>
+    <div class="ticker-band" aria-label="Live market ticker">
+      <div class="ticker-embed" id="ticker-tape"></div>
+    </div>
+  </header>
+
+  <main id="main">
+    <section class="hero page-shell" id="top" aria-labelledby="page-title">
+      <div class="hero-copy">
+        <p class="eyebrow"><span class="live-dot" aria-hidden="true"></span> STUDENT EQUITY RESEARCH · COVERAGE UNIVERSE</p>
+        <h1 id="page-title">Restaurant Coverage<br><span>Dashboard</span></h1>
+        <p class="hero-description">A live-market research workspace tracking the publicly traded names shaping the restaurant industry.</p>
+        <div class="hero-byline"><span class="byline-rule" aria-hidden="true"></span><span>Built by <strong>Zachary O’Bell</strong> <span class="byline-separator">/</span> Finance student at Tulane University</span></div>
+      </div>
+      <div class="hero-aside" aria-label="Dashboard coverage summary">
+        <div class="hero-stat"><span class="stat-value" id="stat-companies">22</span><span class="stat-label">COMPANIES<br>IN COVERAGE</span></div>
+        <div class="hero-stat"><span class="stat-value" id="stat-segments">04</span><span class="stat-label">INDUSTRY<br>SEGMENTS</span></div>
+        <div class="hero-note">A personal coverage universe<br><span>Updated as ideas develop</span></div>
+      </div>
+    </section>
+
+    <section class="page-shell section-block" id="overview" aria-labelledby="overview-title">
+      <div class="section-heading">
+        <div><p class="eyebrow">01 / THE INDUSTRY</p><h2 id="overview-title">Market overview</h2></div>
+        <p class="section-caption">Recent market performance across the coverage universe, grouped by subsector.</p>
+      </div>
+      <div class="panel overview-panel">
+        <div class="panel-topline"><span class="panel-label">COVERAGE UNIVERSE · PRICE PERFORMANCE</span><span class="panel-meta">Live widget · TradingView</span></div>
+        <div class="widget-slot overview-widget" id="market-overview" aria-label="Market performance by restaurant subsector"></div>
+      </div>
+    </section>
+
+    <section class="page-shell section-block" id="companies" aria-labelledby="companies-title">
+      <div class="section-heading">
+        <div><p class="eyebrow">02 / COMPANY MONITOR</p><h2 id="companies-title">Coverage universe</h2></div>
+         <p class="section-caption">Select any company to open its detailed market view and full analyst note.</p>
+      </div>
+      <div id="coverage-segments"></div>
+      <p class="widget-disclosure">Market widgets are provided by TradingView and require an internet connection. Quotes may be delayed.</p>
+    </section>
+
+    <section class="page-shell section-block" id="news" aria-labelledby="news-title">
+      <div class="section-heading">
+        <div><p class="eyebrow">03 / THE TAPE</p><h2 id="news-title">Company news</h2></div>
+        <p class="section-caption">Headlines for every company in the coverage universe, pulled from Google News, Yahoo Finance and SEC filings and refreshed every two hours on weekdays.</p>
+      </div>
+      <div class="panel news-panel">
+        <div class="panel-topline news-controls">
+          <label for="news-symbol" class="panel-label">HEADLINES FOR</label>
+          <select id="news-symbol" class="symbol-select" aria-label="Choose a company for news headlines"></select>
+          <span class="panel-meta" id="news-source-meta">Loading…</span>
+        </div>
+        <div class="widget-slot news-widget" id="news-timeline" aria-label="Selected company news timeline"></div>
+      </div>
+    </section>
+
+    <section class="page-shell section-block" id="comps" aria-labelledby="comps-title">
+      <div class="section-heading">
+        <div><p class="eyebrow">04 / VALUATION WORKSPACE</p><h2 id="comps-title">Trading comparables</h2></div>
+        <p class="section-caption">Market cap and P/E update automatically after each trading day. Revenue growth and margins update with annual results.</p>
+      </div>
+      <div class="panel table-panel">
+        <div class="panel-topline"><span class="panel-label">RESTAURANT COMPANY COMPS</span><span class="panel-meta" id="comps-asof">Prices: latest close · Financials: latest fiscal year, GAAP</span></div>
+        <div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable trading comparables table">
+          <table id="comps-table">
+            <caption class="visually-hidden">Restaurant coverage universe trading comparables. Market cap and P/E update each weekday from the latest closing price.</caption>
+            <thead><tr><th scope="col">Company</th><th scope="col">Ticker</th><th scope="col">Segment</th><th scope="col">Fiscal year</th><th scope="col">Market cap</th><th scope="col">P/E</th><th scope="col">Revenue growth</th><th scope="col">Operating margin</th></tr></thead>
+            <tbody></tbody>
+          </table>
+        </div>
+        <p class="table-footnote">Market cap = latest closing price × latest reported shares outstanding (approximate). P/E = latest closing price ÷ GAAP diluted EPS for the fiscal year shown. Both update automatically each weekday after the market closes. Revenue growth and operating margin are GAAP for the fiscal year shown vs. the prior year; fiscal years that don’t end in December are labeled with their closing month. n/m = not meaningful (net loss). — = price not loaded yet. * = GAAP EPS distorted by one-time items. <span id="comps-company-notes"></span> Sources: company earnings releases, 10-K and 10-Q filings.</p>
+      </div>
+    </section>
+
+    <section class="page-shell section-block about-section" id="about" aria-labelledby="about-title">
+      <div class="about-index"><p class="eyebrow">05 / THE RESEARCHER</p><span class="about-monogram" aria-hidden="true">ZO<span>.</span></span></div>
+      <div class="about-copy">
+        <h2 id="about-title">Built from curiosity.<br><span>Grounded in the numbers.</span></h2>
+        <p class="about-text">Since I started exploring careers in finance, I’ve been drawn to sales and trading and equity research, and especially to the idea of building real expertise in a narrow group of companies. That idea took shape after a conversation with an equity research analyst who covers restaurants. He told me that after roles he didn’t enjoy, covering this industry is what made the work click for him, because it’s interesting and grounded in the real world. This dashboard is my way of testing that for myself. I’m most interested in how news and real-world events show up in these companies’ stock prices, and how restaurant groups move together or apart as conditions change. Keeping it updated is how I’m learning to follow the market in a focused, disciplined way.</p>
+        <div class="contact-row"><div><span class="contact-label">EMAIL</span><span class="contact-value">zachary.obell@outlook.com</span></div><div><span class="contact-label">LINKEDIN</span><span class="contact-value">www.linkedin.com/in/zacharygobell</span></div></div>
+      </div>
+      <div class="about-aside"><span>INDEPENDENT<br>STUDENT RESEARCH</span><span class="aside-cross" aria-hidden="true">✳</span></div>
+    </section>
+  </main>
+
+  <footer class="site-footer"><div class="page-shell footer-inner"><a class="footer-brand" href="#top">RC<span>.</span> <span>RESTAURANT COVERAGE</span></a><p>For educational purposes only. Not investment advice.</p><p>Market data provided by TradingView. Headlines via Google News, Yahoo Finance and SEC EDGAR.</p><a class="back-top" href="#top">BACK TO TOP ↑</a></div></footer>
+
+  <dialog class="company-dialog" id="company-dialog" aria-labelledby="dialog-title">
+    <div class="dialog-header"><div><p class="eyebrow" id="dialog-eyebrow">COMPANY DETAIL</p><h2 id="dialog-title">Company detail</h2><p class="dialog-subtitle" id="dialog-subtitle"></p></div><button class="dialog-close" id="dialog-close" type="button" aria-label="Close company details">×</button></div>
+    <div class="dialog-content"><section class="dialog-chart panel" aria-label="Advanced chart"><div class="panel-topline"><span class="panel-label">ADVANCED CHART</span><span class="panel-meta">TradingView</span></div><div class="widget-slot" id="detail-chart"></div></section>
+      <div class="detail-widget-grid"><section class="panel detail-panel" aria-label="Company profile"><div class="panel-topline"><span class="panel-label">COMPANY PROFILE</span></div><div class="widget-slot" id="detail-profile"></div></section><section class="panel detail-panel" aria-label="Fundamental data"><div class="panel-topline"><span class="panel-label">FUNDAMENTAL DATA</span></div><div class="widget-slot" id="detail-fundamentals"></div></section></div>
+      <section class="analyst-note detail-note"><div class="note-heading"><span class="note-icon" aria-hidden="true">✳</span><h3>Analyst note</h3></div><p class="detail-note-text">[Your 2–3 sentence analyst take will appear here. Replace this placeholder in the company card template in script.js.]</p></section>
+    </div>
+  </dialog>
+</body>
+</html>

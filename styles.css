@@ -129,6 +129,13 @@ h2 { margin-bottom: 0; font: 700 27px/1.2 var(--display); letter-spacing: -.04em
 .symbol-select { padding: 5px 26px 5px 8px; border: 1px solid var(--line); border-radius: 3px; color: var(--text); background: var(--surface-raised); font: 10px var(--mono); }
 .news-controls .panel-meta { margin-left: auto; }
 .news-widget { min-height: 450px; }
+.news-list { list-style: none; margin: 0; padding: 0; max-height: 450px; overflow-y: auto; overscroll-behavior: contain; }
+.news-item { padding: 12px 16px; border-bottom: 1px solid var(--line-soft); }
+.news-item:last-child { border-bottom: 0; }
+.news-headline { display: block; color: var(--text); font-size: 13px; font-weight: 500; line-height: 1.45; text-decoration: none; }
+.news-headline:hover, .news-headline:focus-visible { color: var(--accent); text-decoration: underline; }
+.news-meta { display: flex; align-items: center; gap: 7px; margin-top: 4px; color: var(--faint); font: 10px var(--mono); letter-spacing: .03em; }
+.news-tag { padding: 1px 5px; border: 1px solid var(--teal); border-radius: 2px; color: var(--teal); font-size: 9px; letter-spacing: .06em; }
 .table-panel { overflow: hidden; }
 .table-scroll { overflow-x: auto; overscroll-behavior-inline: contain; }
 table { width: 100%; min-width: 820px; border-collapse: collapse; text-align: left; }

@@ -181,10 +181,17 @@ function initializeCoverage() {
 }
 
 const MARKET_NEWS = '__market';
+const ALL_COVERAGE = '__all';
 const DEFAULT_NEWS_TICKER = 'MCD'; // company shown first in the news section
+const NEWS_URL = 'data/news.json'; // written by data/update_news.py (Google News, Yahoo Finance, SEC filings)
+let NEWS = null;
 
-function initializeNews() {
+async function initializeNews() {
   const select = document.getElementById('news-symbol');
+  const allOption = document.createElement('option');
+  allOption.value = ALL_COVERAGE;
+  allOption.textContent = 'Latest · All coverage';
+  select.appendChild(allOption);
   COMPANIES.forEach(company => {
     const option = document.createElement('option');
     option.value = company.ticker;
@@ -197,17 +204,75 @@ function initializeNews() {
   select.appendChild(marketOption);
   select.addEventListener('change', () => renderNews(select.value));
   select.value = DEFAULT_NEWS_TICKER;
-  renderNews(DEFAULT_NEWS_TICKER);
+  NEWS = await fetchJson([`${NEWS_URL}?t=${Date.now()}`]);
+  renderNews(select.value);
+}
+
+function timeAgo(iso) {
+  const minutes = Math.max(0, Math.round((Date.now() - new Date(iso)) / 60000));
+  if (minutes < 60) return `${minutes}m ago`;
+  if (minutes < 1440) return `${Math.round(minutes / 60)}h ago`;
+  const days = Math.round(minutes / 1440);
+  return days < 7 ? `${days}d ago` : new Date(iso).toLocaleDateString('en-US', { month: 'short', day: 'numeric' });
+}
+
+function renderTradingViewNews(config) {
+  const base = { isTransparent: true, displayMode: 'regular', width: '100%', height: 450, colorTheme: currentTheme(), locale: 'en' };
+  registerWidget(document.getElementById('news-timeline'), 'timeline', { ...base, ...config }, 450);
+  document.getElementById('news-source-meta').textContent = 'Live widget · TradingView';
+}
+
+function renderHeadlines(stories, showTicker) {
+  const container = document.getElementById('news-timeline');
+  widgetRegistry.delete(container.id); // stop theme changes from re-drawing a TradingView widget here
+  const list = document.createElement('ul');
+  list.className = 'news-list';
+  stories.forEach(story => {
+    const item = document.createElement('li');
+    item.className = 'news-item';
+    const link = document.createElement('a');
+    link.href = story.url;
+    link.target = '_blank';
+    link.rel = 'noopener noreferrer';
+    link.className = 'news-headline';
+    link.textContent = story.title;
+    const meta = document.createElement('div');
+    meta.className = 'news-meta';
+    const parts = [showTicker ? story.ticker : null, story.publisher, timeAgo(story.published)].filter(Boolean);
+    meta.textContent = parts.join(' · ');
+    if (story.source === 'SEC filing') {
+      const tag = document.createElement('span');
+      tag.className = 'news-tag';
+      tag.textContent = 'FILING';
+      meta.prepend(tag);
+    }
+    item.append(link, meta);
+    list.appendChild(item);
+  });
+  container.replaceChildren(list);
+  const updated = NEWS && NEWS.updated ? ` · updated ${timeAgo(NEWS.updated)}` : '';
+  document.getElementById('news-source-meta').textContent = `Google News · Yahoo Finance · SEC EDGAR${updated}`;
 }
 
 function renderNews(choice) {
-  const base = { isTransparent: true, displayMode: 'regular', width: '100%', height: 450, colorTheme: currentTheme(), locale: 'en' };
   if (choice === MARKET_NEWS) {
-    registerWidget(document.getElementById('news-timeline'), 'timeline', { ...base, feedMode: 'market', market: 'stock' }, 450);
+    renderTradingViewNews({ feedMode: 'market', market: 'stock' });
+    return;
+  }
+  const byTicker = (NEWS && NEWS.companies) || {};
+  if (choice === ALL_COVERAGE) {
+    const stories = Object.entries(byTicker)
+      .flatMap(([ticker, items]) => items.filter(story => story.source !== 'SEC filing').map(story => ({ ...story, ticker })))
+      .sort((a, b) => new Date(b.published) - new Date(a.published))
+      .slice(0, 40);
+    if (stories.length) renderHeadlines(stories, true);
+    else renderTradingViewNews({ feedMode: 'market', market: 'stock' });
     return;
   }
   const company = COMPANIES.find(item => item.ticker === choice) || COMPANIES[0];
-  registerWidget(document.getElementById('news-timeline'), 'timeline', { ...base, feedMode: 'symbol', symbol: company.symbol }, 450);
+  const stories = byTicker[company.ticker] || [];
+  if (stories.length) renderHeadlines(stories, false);
+  else renderTradingViewNews({ feedMode: 'symbol', symbol: company.symbol }); // fallback if news.json is missing
 }
 
 function openCompany(company) {
