@@ -1,14 +1,7 @@
 {
- "updated": "2026-11-25T20:47+00:00",
+ "updated": "2026-11-25T22:47+00:00",
  "companies": {
   "CMG": [
-   {
-    "title": "Is the Chipotle BOGO today? Yes, 5 to 9 p.m. local time on Thanksgiving Eve, in restaurants only",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPeGZhRXVTYzhrN0Q0RnpRMEdmaTlzR2xGcEZyRW1rUGo5UHB4T0loZFlvVWtLS01uOGhrSnQ3WlgySTRLcXBacGNxWXE1TVZqdkNTS3Fpcm0zMjY4UnRsVko3VWg1X0djWk1abkQ3STBYSkFaQl9MUEFVSmZYV2NlcVI3MzcwLW1YeDFDaHpIN0liTGVRTTBVLXZMV2FsTGtIaHhBQlZ3X0QzbzMtaEdIM2hnbFl1Zw?oc=5",
-    "publisher": "Nacionale",
-    "published": "2026-11-25T18:21+00:00",
-    "source": "Google News"
-   },
    {
     "title": "Chipotle brings back buy-one, get-one-free entrée deal for Thanksgiving Eve",
     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZXdKUmwtV1U4TWpka1kza3VUbkZ2RW5fM0RPYmxEeTdoa0pUdF9qbEpVTE5GV3RXUG8xUnZ5V0x0eE02cGZBOUF0RkYtN3B5b1o3Sm5QSUw3Ylh2UmpTUmF5WFc0LVBRcE1kamhWVjBIM2VuWWpVUDhfUGxBSDlTdjRCM2Rjc1VnN1prU2FoTGdFTHlUeTNkMXVaTnNDUQ?oc=5",
@@ -141,9 +134,23 @@
     "publisher": "Chipotle",
     "published": "2026-11-20T12:55+00:00",
     "source": "Google News"
+   },
+   {
+    "title": "Wrapped Chipotle Mexican Grill Tokenized Stock (xStock): Funding, Investors, Team and Key Events",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNFZjTkRjLVlxbWVpNkJ2aU81UTNRak4tSmVVTVMtSklvYWJZUFl0R2tVQ2gtMHR6YW14N0tBUVp1WDJjOXR6S1JrbmJCVFhFMWVwa2hYRmNRSG9oa0VjajFuSWhVbnEtSHhNRXR2UHF3emhEbkIzSm9WaXJ4YzVmSFFkM3Y2djMy?oc=5",
+    "publisher": "CryptoRank",
+    "published": "2026-11-20T03:42+00:00",
+    "source": "Google News"
    }
   ],
   "CAVA": [
+   {
+    "title": "Minnesota’s second Cava opens next week in Blaine",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOVWltd0tyRnhUaEY2MjBjd3FVVnpkUmhlZUY4MW4ydDFjcW8xTm9Pc01SWk5oTmNoMDctSHpndnV3YmlyVi1xZFpmaXBYWXU4UnJFWVp3LThuQkRhYmJURzVQeHlIVkFBVUMwUUFHT0x4MTFUc3BmMDh1QTZMS0FmRWR5c1hHV0s3a1RTMEJvODZ2VmVoLUxXX0w2QQ?oc=5",
+    "publisher": "Bring Me The News",
+    "published": "2026-11-25T22:34+00:00",
+    "source": "Google News"
+   },
    {
     "title": "CAVA vs. Monster Beverage: Which Consumer Stock Is a Better Buy for 2027?",
     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQN0hHMXFDQnJRSF9RdENHYmxpRGU3QWFyVVY3eWxGS214ekNSZUNRbzJTMFBVY1FERHRuLXFfa0lWRDdXekNLcW1HdnpIQWJCdmNlbUxqc2JNRU1yYXdOVnNhXy1PdXZKWndpM0JGM1N5MWthLXlUWi1CV3NLRGNoaWJpY0tWMTVQR0V1dzJ6a3ZiSnYtb0MyWHZvTGx3aU1zR25iRGdka3JvU1Iwa3VLeXk2LURsOVBfT0s1RDdyYmc?oc=5",
@@ -276,13 +283,6 @@
     "publisher": "TIKR.com",
     "published": "2026-11-18T08:00+00:00",
     "source": "Google News"
-   },
-   {
-    "title": "CAVA Group (NYSE:CAVA) Stock Forecast & Analyst Predictions",
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOcEE2UTcwQ1U3TXRlZUdkc0JsR0M4eWNYd3VTQ2JDS2Q4QW5rX3lNakllT09JbHA1Q3E4TTh3TzlvaHJNRFI5aVpsRUxIMmtfUzJpM1dNNUd6QldBYy1mLTBNY2YzMmM3YjV2TU1ubTJhaUphQVFNcWlCNDAySzdhOEpnOA?oc=5",
-    "publisher": "Simply Wall St",
-    "published": "2026-11-17T08:00+00:00",
-    "source": "Google News"
    }
   ],
   "WING": [
@@ -343,17 +343,17 @@
     "source": "Yahoo Finance"
    },
    {
+    "title": "Wingstop Planning a New Restaurant in St. Cloud",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNaWhLZnpJMGRLNFZVbzF1UHZFczFMUThyYXZBU0JyN3B3QklyaDJHdHZ2Z2RHdnFrYm9HYWVBLXlYNTFKTDhWbDUwVVMzRVR6TXluYVdWUUdISkZZd3hPdmpURGJBNkp3NHdtSEdiLUNtRVh5Qm5LemNkVmtER1pCLWtwY2s1d1p5alhFWUlORGo?oc=5",
+    "publisher": "WhatNow",
+    "published": "2026-11-24T00:13+00:00",
+    "source": "Google News"
+   },
+   {
     "title": "Ashanti Defends Feeding Wingstop to Her Dogs as a ‘Treat’ and Reveals Their ‘Very Simple’ Order (Exclusive)",
     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOOFVEVTVOblhaY1E4TkZBN1NjVFFUTkRLc0NNTHlpdlUzZWEtVlFTMDEwZ3NiRFBlTnYway0xRVlramplWElrNWFHNlBYSVJNSTN6U3hveUs2MFlxMjJNX3RjeUU3dFZMdDNqU3M5X1ZPNW1iYWlRNUxEWFZXSzhyZEM4UEcwaXo1anc?oc=5",
     "publisher": "People.com",
     "published": "2026-11-23T22:23+00:00",
-    "source": "Google News"
-   },
-   {
-    "title": "Wingstop Inc (WST.SG) Options Chain - Yahoo Finance",
-    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1uOW51TEU4MUxtNnF5Z1p4c3lLQ0ROYUxDV2ZTMjdySlRnSFEwM2VXanBtRERCekZPT0JCM1NhaElEb2YwbU9VT0d5Smd5Mms0eUM4QWRkZXYyT2ZoQjJ3?oc=5",
-    "publisher": "Yahoo! Finance Canada",
-    "published": "2026-11-23T18:44+00:00",
     "source": "Google News"
    },
    {
@@ -471,13 +471,6 @@
     "source": "Google News"
    },
    {
-    "title": "New restaurants open in OKC metro: Shake Shack, Chipotle drive-thrus, more",
-    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVnltVEJPank2RUZORlJHcElfMnkyd2NDWENHaWpPRkNQTkdHeUF5dXBTaTRRcUtxSGNMU2Ezd3J1WjExTmJmbW9OLS1peEhMTnF0SmR5NDlURmJlMlJySDFPdmg2VWZPU2hEd1JBcXRFVkd3Y2pCbkFXSW1rbVRMTw?oc=5",
-    "publisher": "Kansas City Star",
-    "published": "2026-11-24T11:16+00:00",
-    "source": "Google News"
-   },
-   {
     "title": "Shake Shack Holiday Shakes Are Back for 2023",
     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1LY1hYUFZsVTVzVlo3SHdVVU9ndDZwY1dIVG5OMkJ3NFk1dVJFUFEyOF90OVlPeGVKQmV3enM4dWZzWUZad01iSGFJSGR6S1l0cnJna0hucmh1VVI5aW9jdkZjWDlxTHF6SEhlbjFydEhXTVJEZTY4?oc=5",
     "publisher": "Williamson Source",
@@ -506,6 +499,13 @@
     "source": "Google News"
    },
    {
+    "title": "Dining room closed at Shake Shack at Willow Place",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYXFjd0FaTGNFUzRqZzBWdk5QMHZCVmNuM1pRaFExZ2VQQkpXYmxtSVVqWFQ3NFd1U0tjd3dSNnpINV9tVTZVQy1TYi13a0dDekpteWthVU5Sdy1pU0NzSzJzb1hPZ3Y3MlpfQVhSeHRaVThEcGMzN0tJc3lEQlJkSUY0WnFIcXlPVXk2WFBRUEQxZXozeEVEQnZINFIxYmhjN1dTV0EwdzJYQQ?oc=5",
+    "publisher": "Richmond Times-Dispatch",
+    "published": "2026-11-20T15:30+00:00",
+    "source": "Google News"
+   },
+   {
     "title": "Spotting winners: Shake Shack and modern fast food stocks in Q3",
     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdU9Rdk1hODc1R0xOaUI2SkhSOHI3TmhfblZUbVNvWXVjMFJLV3Y2Rmd0S0prTWlfZnhLQU1VQVNQenhfZlhrOTQyZ29kWkZaR0RDZjVyRkRCX1ZYSlRCS01aUE0zc1RLaDdzMVp5MDY4MkxPWHRrSnRXTjJSRGU0UWU2VzFSam9USW8zdjJ0dlFkdGNaaFZ2SWkwQW5XYnVHMTE0blFGQ1d6NER1YXQxemFRUWhOOWY0OUZtQkZhZzM?oc=5",
     "publisher": "TradingView",
@@ -528,9 +528,9 @@
    },
    {
     "title": "Shake Shack may be coming to Bend, city permits show",
-    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPcGRscnFXcDRpaWh1d2pFQ3ZqN3FNWEM3dmtOcmY1bS1zVjZwaGdkYWwzbmg4eXVMSF85S0lFVGNRUXVCckhYUnFhbDd1ZHVJZTU0RURQRlNmTHI3YjN6RnVXQUlrMjJBeU5VSEcyS1A1dHpzVGEzR2dGcW5OT3QzRFhjY01wTUF6a2pvVEhyekNFX3FTbTF5MFAzWnBJOVg1aFVwakEweHdzc0ZXWUVYMGpHeHRpNEZ2ZkxhVGwza1BuTklSTEcwWEVYZU5wZlU?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNQ3BCbU9LWWU2elNuYzNBLXdlOE13NXRQUTRVUzU3M2pJd3B1SWRoTERiLVdCcV9TekJVbVh0TkdmSnZ5NFdVM2ZjOXNfR2NsbFlPT09zMzl3ZGN1MDJqdGJ6S1JnaXoyVkRReUZEZlZJYnZlcW9WUU9lWlRzR0RSNmxTenpLUU1ORE9TZ3laRFo1TFhaUFJvcV9jNnR6czNON09UOTZ0dVVScmZGZndTVXpCODdJNVNuOXJlZlJFdndZZWJ0MEpKMVg1WTZVRVBjNE1QRUdoZUJ5VC1pR00tXw?oc=5",
     "publisher": "Central Oregon Daily",
-    "published": "2026-11-19T04:47+00:00",
+    "published": "2026-11-19T03:55+00:00",
     "source": "Google News"
    },
    {
@@ -586,10 +586,10 @@
    },
    {
     "title": "What Could Sweetgreen (SG) AI Ordering Mean For Its Customer Growth?",
-    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUk9CdDJoRm5kdWtDX08weU4zT2hmNWtFZ2FVekQ0UEFGLWxBanIwSzFETEJkeEtoREg5MWFGOGxGb0tsNFFXR2dXd2wtbEd3OGtyMHgtYnZDV3NnTlIxcldnMHJjU19mcWJNTHQyR1BqUHJWMFlzMDZWNTBZb3dyb1ZXM0UwM1U?oc=5",
-    "publisher": "Yahoo! Finance Canada",
+    "url": "https://finance.yahoo.com/technology/ai/articles/could-sweetgreen-sg-ai-ordering-071454829.html?.tsrc=rss",
+    "publisher": "Yahoo Finance",
     "published": "2026-11-25T07:14+00:00",
-    "source": "Google News"
+    "source": "Yahoo Finance"
    },
    {
     "title": "Sweetgreen Debuts at St. Johns Town Center",
@@ -634,6 +634,20 @@
     "source": "Google News"
    },
    {
+    "title": "Director Dawn Ostroff Sells 12,500 Shares of Sweetgreen Inc (SG)",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPa3RETmhRZW1lWEFaVXkteWljRlBLcXR4aWJ1aC15RTdrUV9XMHZ0ZEt1UTF6LTY4aks0bElUNEJtZjM1V2J5TWZXOTVYWC1ORDBoTUhWdEx5Q0JJNVpIdkFfMUJCdkZ5ZXNNS0J4WVJsN1ZMWkl1Mjk1VGpsc0tsUnFSVGJuSGZXSXhyUWJiNGV1cnRON09wamxqUzlDZzVjZHc?oc=5",
+    "publisher": "GuruFocus",
+    "published": "2026-11-24T00:33+00:00",
+    "source": "Google News"
+   },
+   {
+    "title": "Sweetgreen (NYSE:SG) Director Dawn Ostroff Sells 12,500 Shares of Stock",
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOMUNhYW9odE40dzlmNEhmRkItSW5DQTVBM0NaYVhac1BQbTUyU2VicmhaakwtQjQySk9ta1pXdlJRLTVkVnJ1V25CMVN5TXBNdWRnMFN6TzM0cDc4T3J0QjB3alpIa2lMVEFDNndmOVpEcnU5WXcwaXhlLTQ2YnBvNDg4YU9MVG95WUZ0QjdRSUpMcWNWdnFyeElEc0lwTnZUZkpvc2NFXzlNa0JXYnFiWGRaRGlSdEQ2RUhfdF9XNFM1U20xWHpkLTJn?oc=5",
+    "publisher": "MarketBeat",
+    "published": "2026-11-24T00:11+00:00",
+    "source": "Google News"
+   },
+   {
     "title": "After selling 12,500 shares, Sweetgreen (SG) director Dawn Ostroff directly held 25,370 shares.",
     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWUJCZ3ZuelBKSmlGdUNlYTNVbV9fOVdtYTZIM1FCUVhBZlZPaFZvRll5bXRQMGFaUi1iQlJLWFBHVlFxeGpzQ3IwT1RpYmo3bzFjc1VNZkNWczI5blRkRHFNbU1lZzdvZ2stSGhMbFk1aWhKdmJkV09OQTFxeWxsZjAzajU3SlU1T0tYaHBDem5KN3dKVXdzN1VZa3FiSHVhWWMzZHh1emdmUQ?oc=5",
     "publisher": "Stock Titan",
@@ -648,52 +662,10 @@
     "source": "Google News"
    },
    {
-    "title": "Sweetgreen bets on cooking pop-ups to promote growing menu",
-    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1fUWRkNEt0cWoySWpfUi1ILXJpNTZIZVhkcXBBZExHcTZiSG9TUDJBd2otM3dVWGliUEVOQTN3Y3ZueU1taWZOT3pEV19wQ1ZXbDJnQ3hyMGx1U1FJYWFqdXo2SWJldEN6MGVtMDBwcUkyckU?oc=5",
-    "publisher": "Modern Retail",
-    "published": "2026-11-23T05:05+00:00",
-    "source": "Google News"
-   },
-   {
-    "title": "Sweetgreen chief concept officer sells $23,732 in shares By Investing.com",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTEd6SFdLRjZEa0dUQjRmX3lVZ1JLdXp0UlBqYXRwODhSUnlHSW9QOU5WLW9mR1RKcmZiZTJnZUZRR1F0RTVTdmRqM2t2dUtnNko5QXpDTGtTb0pYNFZaQm9MS3lDb1ZoR1FVblQ3YjNKTndPVzhCZ0s2dWczQ1hSMVhqeXdSY09FRmdCQ09wazBreXZXaUlob2Rfb0lVbHpwRGdCSmMyOUlKQTluMjgxOHVJQzc3Zw?oc=5",
-    "publisher": "Investing.com Nigeria",
-    "published": "2026-11-21T10:55+00:00",
-    "source": "Google News"
-   },
-   {
     "title": "There could be serious money in being a manager at your local Target or Sweetgreen",
     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTl94ZVM3bnpKZFZUSmNCVlZTdHFmMnZXbnNPRFdENUl5X045YTBqTjZtSEtETUVNTzhIbXNrNWFkWGd5aDQ3azFCUlNoWWxDdjRJYXBzd1FqZXpVeHFwTjZ2LWdsYkNxZm5CbHZ2R1ZWdV92dzFOYXl2bDNFSkkwdndxNHdtNXFQX1lLTlRZbDROVGp1dS1LcnA0QjZQWVNiTkdha3ljZw?oc=5",
     "publisher": "Business Insider",
     "published": "2026-11-21T10:49+00:00",
-    "source": "Google News"
-   },
-   {
-    "title": "What’s New in Food This Holiday Season? McDonald's 'Home Alone' Meal, Cookie Butter Lattes & More",
-    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5wa3R1NDhCMHRiZmQxQ2dYbS1xZmNqNGFBVTJ5QTBaclVSWml2NUtwS3lMWmptbkRIUnhLbzZObTdqUkJfakhWMFpLZUV6TjkydlBMT3Q5cnpRdnhqS2NIeW1QS3JfUGhLRFBJQkpJa0lYSkxpclMw?oc=5",
-    "publisher": "PureWow",
-    "published": "2026-11-21T08:00+00:00",
-    "source": "Google News"
-   },
-   {
-    "title": "Form 4 Sweetgreen Inc: Nicolas Jammet (Director, Chief Concept Officer) For: 19 November",
-    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQRnpBbDc5dmt6dUdFTl9wcnpVNTg1Nm5USEYyNEJ3X1daakFXNlpldjdtNnl5S1RsOHBjYXdueG5jWmZBY0l3Z2Ntcl93YzVqV1FQbkROblZTZVhvSFBYMkw5Vnh2OGRKcjRWWTgxbjRjMmZJOFl2dFBvbENZU09lY2VBcTFQeDdnSnZkN25uMDBqSVA2dWRkN0pHcVdFaldIT2g5SzJUSmtDVFV0bG43aXdHcmpZc3VRM2VobkdXaEVOZVhJeTA2OEtKMndMUVNMcWFSTmtXYW5HcVJv?oc=5",
-    "publisher": "Investing.com Canada",
-    "published": "2026-11-20T22:58+00:00",
-    "source": "Google News"
-   },
-   {
-    "title": "Jammet Sells 1,860 Sweetgreen Shares in Tax Withholding Sale",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWi1Jd0ZWMTdyYWY3VFdiZUtPeTJvTFEycWM2cGdOM1pNVU9La1FsY2UzZlNJb2pRMk5EMXptOXp3V19vMWhxSDBmYzRDSnI1Z05rYU13SGNSQTRCZVpHZV9YdElLTUhSYXhWUFlCMU1EcWE5dzBPVXJfa0d5TmpIVmtyZmtOanJXbUZQNTFSbVBCUTdPYkwzMFhxUi1wbm8?oc=5",
-    "publisher": "kalkine.com",
-    "published": "2026-11-20T22:15+00:00",
-    "source": "Google News"
-   },
-   {
-    "title": "To cover tax withholding, Nicolas Jammet had to sell 1,860 shares of Sweetgreen (SG).",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdXZpS09uajlOSFpwSGUta2NhTmxkWl94eDV3NFpqc2FtRHBVNG1fR1phUkhTV3cwcUZzYWNzSnJ6a3dsUVJtdGJaazNnSk4zOHVsLXoyN2NkVGFwdWw0anlaaGNjT1B4ODF0a2pDUzg1bWQtV0xmbzBZY05UNWhwY20zQ291MkRseVNWN1kxbUZFZTBSNXVOR0JpSHRJa2tnNHVSX29sdWJFZw?oc=5",
-    "publisher": "Stock Titan",
-    "published": "2026-11-20T21:46+00:00",
     "source": "Google News"
    },
    {
@@ -704,10 +676,38 @@
     "source": "Google News"
    },
    {
-    "title": "Sweetgreen’s Dec. 2 conference chat will be streamed live",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQOXpCc1l6ZXlQMGJ5X0JuR3BIeldsR2NrZ0ZFNFYtZTM4SnI3bmx5MTF0Z0k1OVB2aUNMdFhWUmRvNXI5eURMQlVGbnp6WkxZWXg0dFllSlNfZVJZSjNDeDRFbVlFTktkUVg4LWxlYk9kcW9IZ0lOX05TWmpDRVBIMmF0aFRZTHFaQS1XTklwWXhTVmNBWWJONG11andpUU1jOUZQWU9nV3dudzZ0U2dhY253eEdRZXM?oc=5",
-    "publisher": "Stock Titan",
+    "title": "Sweetgreen to Participate in the Morgan Stanley Global Consumer & Retail Conference",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/sweetgreen-participate-morgan-stanley-global-143000366.html?.tsrc=rss",
+    "publisher": "Yahoo Finance",
     "published": "2026-11-20T14:30+00:00",
+    "source": "Yahoo Finance"
+   },
+   {
+    "title": "Sweetgreen or Chipotle: Which Fast-Casual Stock Is a Better Buy?",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPLWs2eGpaNm9adnhwVDFNSTg4Q21KWHNGcWtSRDRUZTgyX0Z1VFg1cDlMUjdnallkRlVxZDhoN1JvRnIxOUY5YV9tSUl2cmxqVGo1MEZueHNfWm9mVFVpTjFWTUlROG9zSEZwREFvQmxsbXBtbTBoSWNtbXhZQ2V1NXFET3UxY2VPbVVCM3N1YlR3ZUhsZzJ6V1FjeVdLQ0VXZm5NeA?oc=5",
+    "publisher": "Yahoo Finance",
+    "published": "2026-11-20T14:26+00:00",
+    "source": "Google News"
+   },
+   {
+    "title": "Sweetgreen launches agentic ordering in ChatGPT, Claude",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPR1V2eV9LVkkwVEZMa2JCUlBtbTJjWU9razB0SzdieGoxZXdQNlpmVXE4WXd3dmhzdElaQmNqeWs2SnljaGJJUTRzeW1OdUVUWVYxNW9lb01uSkswdDN5NmoxMG53aE93VU1pbFh1R2lNN0ZRa3E0SWcta1pMVkplaUZ1SE50Q1laaHg0Q0t6MkpLamVqb2pGMjg5Z25jbS0wdVFpc2NHZw?oc=5",
+    "publisher": "Nation’s Restaurant News",
+    "published": "2026-11-18T20:31+00:00",
+    "source": "Google News"
+   },
+   {
+    "title": "Sweetgreen launches agentic ordering, personalized recommendations",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQYzNNcTc3WFNyaDIwSnhqV096QWQxSlVUT1RPZFhETUxYb2Q2UXQtRm84dTJhUEpWREY0Q04tMWEtZGpyQnVwcktBelB6Mi05OFZ2WmdtVVRKYUdEbjl5M1V6QndQdDRfNUF4M3B2WDlDR0pYanF3WlFqNmdFa3QxTFNBTFh0LWZkdlJ0aFgteUJyMUxQM1E?oc=5",
+    "publisher": "Chain Store Age",
+    "published": "2026-11-18T17:02+00:00",
+    "source": "Google News"
+   },
+   {
+    "title": "In a First for the Fast Casual Industry, sweetgreen Launches Agentic Ordering",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNNUlDbllXdFV6MWx0azAtZ0h6Q2hmSE5Nd201S3E4enhXQS1hYml1RzViT3hobUpaaXNzeHktZl9LWFRqcTI3ZDNUY2toc0N3bjNBQzVHNUNPMG5FaGV4TWk4ZmZxbU8xQ2R5OWljMWM3TkJENTZVWF9lWkI1TkpYak45N3Rtd0c0N2oxNmdTUXotdmlyRjZIbDJyWFV3OWxGdE9RTWdQLXZaMGRvbC1NRXM1T1E1OEdWaGpJZ0xNcWNVR0h3SHh2SklEWTNBQQ?oc=5",
+    "publisher": "Business Wire",
+    "published": "2026-11-18T14:00+00:00",
     "source": "Google News"
    }
   ],
@@ -746,13 +746,6 @@
     "publisher": "Yahoo Finance",
     "published": "2026-11-25T13:03+00:00",
     "source": "Yahoo Finance"
-   },
-   {
-    "title": "McDonald’s Side Mission | Halo: Campaign Evolved | Halo - Official Site (en)",
-    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBWTWY1ZHFyWFBDTkpzZ29hekJpdG1QdTdON0lYanpQZ1BETURYX0ZFWXhONlcyY2t1MjVfRThSMV9BLU1PaW5xcUxueXItWjhtamhfS1RNMzUyYkJfMjdROGRRQ3NLbUU?oc=5",
-    "publisher": "Halo Waypoint",
-    "published": "2026-11-25T12:32+00:00",
-    "source": "Google News"
    },
    {
     "title": "3 Top Dividend Stocks to Buy and Hold for Decades",
@@ -846,6 +839,13 @@
     "source": "Google News"
    },
    {
+    "title": "McDonald’s Side Mission | Halo: Campaign Evolved | Halo - Official Site (en)",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBWTWY1ZHFyWFBDTkpzZ29hekJpdG1QdTdON0lYanpQZ1BETURYX0ZFWXhONlcyY2t1MjVfRThSMV9BLU1PaW5xcUxueXItWjhtamhfS1RNMzUyYkJfMjdROGRRQ3NLbUU?oc=5",
+    "publisher": "Halo Waypoint",
+    "published": "2026-11-24T13:52+00:00",
+    "source": "Google News"
+   },
+   {
     "title": "MCD vs. QSR: Which Restaurant Stock Looks More Attractive?",
     "url": "https://finance.yahoo.com/markets/stocks/articles/mcd-vs-qsr-restaurant-stock-133000738.html?.tsrc=rss",
     "publisher": "Yahoo Finance",
@@ -855,11 +855,25 @@
   ],
   "YUM": [
    {
+    "title": "Taco Bell franchisee acquires 28 additional restaurants",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTW4xLWg0bE43MHlCSG04eDRrMGVmelBlOEQ3cHlGWkZCNDdFdlFXRklTNGpYLTI2cTJNdnBka0gtYU52ZzZaVkEzY1pBNWJkYWJwQmVmdUF4NUl2VllvS1lNU2x4YTZqajVmSEtmUFpDcG5MTW1aVUljXzFCa3oxaEpTVjAzX2RQNmxicA?oc=5",
+    "publisher": "QSR Web",
+    "published": "2026-11-25T15:12+00:00",
+    "source": "Google News"
+   },
+   {
     "title": "ETFs Are Net Sellers of Yum! Brands (YUM) on Monday",
     "url": "https://finance.yahoo.com/markets/stocks/articles/etfs-net-sellers-yum-brands-110311028.html?.tsrc=rss",
     "publisher": "Yahoo Finance",
     "published": "2026-11-25T11:03+00:00",
     "source": "Yahoo Finance"
+   },
+   {
+    "title": "Why Taco Bell's Seasoned Beef Contains Unexpected Ingredients Like Oats And Cocoa",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSEppdnVTNmZtMExNX1NiZzRGZ0tiNXFKUHpZdlNrRkpzX0Q2aEZ0Y09mZzg3QlEyZ2pjVkJ3V01RWS1DWnFjRG5QT0VIb3Q5VnRBRG9fai1oRGd5SjR4LTRCaC1aNWNFRjlFMUlIdHA5bGo5TGxpQURtQlQ3eTVCbHMtODdNYUJlUUdnWmRR?oc=5",
+    "publisher": "Tasting Table",
+    "published": "2026-11-25T03:00+00:00",
+    "source": "Google News"
    },
    {
     "title": "What Could Lift Chipotle Stock Further?",
@@ -869,25 +883,25 @@
     "source": "Yahoo Finance"
    },
    {
-    "title": "New Jersey woman bit into her Taco Bell burrito, says she found something truly disturbing inside",
-    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNYmxCUlpQUDlaNC00OEtmLVEybmptMHdmSHlVeEs4c2VDcG9GZGM1dEIwbkN3b0FFWWhaVDJRMld6VWlOQ3ZQWTJjeENEV2dGWGlBSjlObE5GZmprREpzUVVGZGJaN0RSejBITkY2VWppUGdwekh1ejNvZm9tQ21jLTJlUU5NYkFjN195OTZKbU1uVUdTVklYUEZfaUk2NDlBaUQ0NkRrMkIwZVM2am9tSzd1THE0cjM2ZURQUW5jMmpzN2xiNDVZMWZUVk9QMllieHRvVTAyQdIB6wFBVV95cUxNZDluS3BWUjJYTk9ad05hR09OMXFXWXF6WDJSSnlUVjFuTmczYm11QjY2TWVhemNtempVeUg4VjA4T29qQzM0YmRnZG80dmNEeW9ZazRvVVA1cEVIZnM2M2VLSlZoQk00eVlKek55VUV2bzQyX0VXZTRYX3J1MG1scTc4ajZjeDVyOXUwUE5yMEotbzhPbW1RYS02M3liSVJfR29ITnE0cUZtemVaRktZcWFVdzNmcjM0aGZ0anJrT1Z3MWZOUlJpS3M1aUhRUmNUVFdudWdHc2I5WW13UUpndE1zeWVlRXRsS3B3?oc=5",
-    "publisher": "Cleveland.com",
-    "published": "2026-11-24T18:00+00:00",
-    "source": "Google News"
-   },
-   {
-    "title": "Kenya Flower Council (KFC) applies for SSCI environmental benchmarking",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRHJoenRwSUNPbVRuRjBSeUdsVmR4NWdTcDNMMTZwdHV0c2tLUHFvd0psT2gwYTEzdGdGb0FwSWdjaGRVMExEeW1CMkNMWDlKMDMya1A0SW1NSW1keUk2akNPcWtnSEswWWdGUzJzc0ptTVlPaGphekxaQkZlb3N3LWxuUTkzaTk3b0VsSkFCU19LdERCNzNKWUNudHBGQnYtZVVEV3JsTU9aRUU?oc=5",
-    "publisher": "The Consumer Goods Forum",
-    "published": "2026-11-24T17:53+00:00",
-    "source": "Google News"
-   },
-   {
     "title": "Domino's Pizza franchisee files for Chapter 11 bankruptcy",
     "url": "https://www.thestreet.com/restaurants/dominos-pizza-franchisee-files-for-chapter-11-bankruptcy?.tsrc=rss",
     "publisher": "Yahoo Finance",
     "published": "2026-11-24T17:19+00:00",
     "source": "Yahoo Finance"
+   },
+   {
+    "title": "Man looking for someone to kill stabs worker outside Capital Region KFC",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQa2FXeEJvX0JONndHREZWcXpoOW9fT2luRjR6VkxLcF9vRW5NUUNMVGxQSEVpcDZZU2p2TVNweHhXVTJ3aXVpRUduMjA2Sm15eEVhVW9Va3dCOVRia3UwcEN1LVlYRG93cGJPWTFsMk5WZmZ4TXdPY29XTllGYmlKMlB3US0wTXMyZlJkXzJBc3l0ZlZTWm5rX2xUUk1HYlNZdTZnME9tT000UXVLc1QwWVMzVnc3eU1waGpGMQ?oc=5",
+    "publisher": "NewYorkUpstate.com",
+    "published": "2026-11-24T14:27+00:00",
+    "source": "Google News"
+   },
+   {
+    "title": "Taco Bell stop turns into vehicle theft and police chase in Pleasanton, dashcam video shows",
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNWnpQNElsdEJFdTBTWWIzM3RIaFpPeGszOTR0OTNSM1dTT2FwVUE5ZUVFaHRUbTZYVXhSUDZiTlJUR0dfVEVpcjMwbi0xbHNCNWd6U1JQS0RCX0laZ3lWcW1vdjdRbnNPR29leHFVTUdMRkhHUVhDOTRUNHptbTRBcFVNRFRLMk5MbnZNbDlEaV9KV0gzcVcyS0pnX1FyQl9qZmp6Y1pqU3FwN2JNeG1zd0dRUHJCQmhKS19aTjVhWTV0RzRJNkdibnVKTll0UDZzLXdN?oc=5",
+    "publisher": "kens5.com",
+    "published": "2026-11-24T12:56+00:00",
+    "source": "Google News"
    },
    {
     "title": "KFC Offers a Fried Chicken 'GTA 6' Replacement Disc",
@@ -897,10 +911,10 @@
     "source": "Google News"
    },
    {
-    "title": "KFC Franchisee Files Chapter 11, Plans 84-Restaurant Sale",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQc2pDTG81QmZkRDYtczhFUXZYd3JDR183ZUc2R0JpcFhWV0x3ZzBtSi15NGx4cXVyblpMSkFZaURORzNRT3IydkxYZmphOEhnSEJnSEtOUVd5TDF6VEZjTkpqdzM2V1pHU1RYWmdSdmlmR21DSE40dGZkbTlqRkllYk5jS1pLZWxrMUFBUUpBeEtsSVJNc1djUzFjeUY?oc=5",
-    "publisher": "Yahoo Finance",
-    "published": "2026-11-23T20:17+00:00",
+    "title": "The Gaming Industry Ditchedphysical Discs. KFC Brought Themback. Made Of Fried Chicken",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOamxiazlSYVBXLUd5LTdwejR5ZzRlTzQxb1FPY0RqZmdDRFh6X1VyRTFFWmVWVG9zbzdiekhxMDRQSXBPZTdoN2UtU1RGQ0hxMVVxek5TVGliTlE2dWNlb1RDd2l4Nko4MnNadVZSVVZkWnpWanRXdzRVbkw5enNnZnB0dzFBdFVGOXo3c1BYaWRxX0ticjNoOXZjeXA5RlhEVHI4cDlIenlTZU0?oc=5",
+    "publisher": "Roastbrief US",
+    "published": "2026-11-23T22:14+00:00",
     "source": "Google News"
    },
    {
@@ -918,17 +932,17 @@
     "source": "Yahoo Finance"
    },
    {
-    "title": "Taco Bell Lovers Say This Affordable Option May Be The Most Underrated Menu Item",
-    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1iQ0JCdkZ1djRMc05iRHhRV2JGekl2a1A5dDBVYlM5eTVMN1NWRnVVM3FoZ0NDN1dkVzkzYmlUY29Pa2oyN192c1RISkRfUU1EVl92aW1kYTY5MVcxRndaZFVDQVFoZUlxS3pReXpaS1B3Rk5iUFFBT3ZGZFBLQQ?oc=5",
-    "publisher": "Mashed",
-    "published": "2026-11-23T14:03+00:00",
-    "source": "Google News"
-   },
-   {
     "title": "From the fairway to the menu: Taco Bell launches Live Más Open",
     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPQkhHVVlUM2dIWEhFS3FzaFhVNXFyQkxndUhWb1VRb0tBTmotdmUxc1lIZUI2b20wd3NQbjBHTU9KWUtJUHFCTDExQ005RzVXeUVMeHlZeERueFZ0WngxNlZRREkwbFVvd3o2b3FCOS1waXJUR1lNTFRUeEg0bm5JUzVKRGxsUmp0SEd1NlB4c0V0UzlH?oc=5",
     "publisher": "QSR Web",
     "published": "2026-11-23T11:00+00:00",
+    "source": "Google News"
+   },
+   {
+    "title": "Taco Bell Just Quietly Brought Back Its ‘Greatest Food Item of All Time’",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9OZU9lTm15UkhJTUV2bm1zdWhEZWx2dFRhZHl2UXAtQXpDME5PNjBQMTBxcWJuZE11RHVsaHlkYUo0cXkzdzItQTItRHhaQWxSeVF5Um9iMF9TX0FIR2tTNFBhRUdERHQ5OFo2b1JFRVk?oc=5",
+    "publisher": "Allrecipes",
+    "published": "2026-11-23T08:00+00:00",
     "source": "Google News"
    },
    {
@@ -946,10 +960,17 @@
     "source": "Google News"
    },
    {
-    "title": "\"Take Me Back, Please:\" The Taco Bell Packaging We All Miss",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1lMmd5SEthY1lXVXVyOG1rQjA2T0RwZGlHSEpWYk94X1l2aW53bzdjd3NiS19sMDRWamhDNERrYWlvWU9aS1M1eW9ITXhWUUFrdm1HNExiVEJHSnEwMkh4T1JLa0NyOE8ySkp3Qw?oc=5",
-    "publisher": "Sporked",
-    "published": "2026-11-22T17:29+00:00",
+    "title": "Man pleads guilty to 2025 attempted murder outside Malta KFC",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNb19aam05WllUZF9sV2pWZ1E1aWFzZGRRdzlNVlZNSVlYWXRwc2hpc0p0dkdOM1U5TEp5S3VITzlncGZPcG1FOXdMckt5NkIzNEhGTFpzZ3ZRUDE5ZmZZS0R5emlsdUI4cnVjWmJnbFhLOWtxTHJrNzRLVkVIQ0RmczZuRHE5NmlBUlp3MzluN2VyNWZROXVKNjFZaGJGME9Rd05n?oc=5",
+    "publisher": "Times Union",
+    "published": "2026-11-22T16:43+00:00",
+    "source": "Google News"
+   },
+   {
+    "title": "KFC offers disc-shaped fried chicken to sad disc-less GTA VI fans — KFC Spain’s ‘The Replacement Disc’ campaign delivers where Rockstar disappoints after selling $3.79 billion of GTA VI without a physical disc",
+    "url": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxQU2RSLTRpc0wtb2NOVldFWTFDXzNtZmYxZHJncmp3QkRGM2JpTm9Oc1lucWpZcnpHNXZNSXNKUDBkWDM5OWJWbUh5eFh6eTBJTnVnY0dsUTM1Tk05NUFMU2MxbzhVSmdEMjZiUmU2OVRENkFCNkdyLWw2Y1NyeXZWZlh1TThITnJrRVZHMHRUcF9rWklCa3pDVzhqS2hUbEVJMFVYeFoyR0NnTW1jbWdlQW9CM3g3UEQzbWRvUjd1UGhJTG9KX0xUd193eDdmejhmQUNXWlp3VllPaFVPSGIwUGRUaVNVZXpFTGxFM3c1cEJiLU1GVURtTnROdVJpbGptSTVNUmNObUtJczdEdlVPQ1JjWUZGc08zbFdVNnFhdlNLY0tKa0NtVWdyMm95WldNaHUxd0hBbFd1NzVZVDNPU3FqdVZoU3VISnRkQ2VCMG94NjVqSjhuT1hYdzROZFBsUE0tZWZ3?oc=5",
+    "publisher": "Tom's Hardware",
+    "published": "2026-11-22T14:18+00:00",
     "source": "Google News"
    },
    {
@@ -972,30 +993,23 @@
     "publisher": "Yahoo Finance",
     "published": "2026-11-22T13:31+00:00",
     "source": "Yahoo Finance"
-   },
-   {
-    "title": "KFC Offers Friendsgiving Feast for Just $20",
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZHpHVy16aEdQRFZqTGlnQU4xeDhTd0Z0WmtJbi13VUxJZDluYVRoUE9abl9RbnNZLXVqcm0yQTY5UHU0Mkx0a0hyTlRuY0F5dFNKSFc0NFN2dWtMZWVwck1CN1hZUVM2ZTdiTmJaZVFlY0Jqa1FJU3owSElZdUQtbVRKUQ?oc=5",
-    "publisher": "Mile High on the Cheap",
-    "published": "2026-11-21T15:32+00:00",
-    "source": "Google News"
-   },
-   {
-    "title": "KFC Is Closing Dozens Of Restaurants Across The South—Here’s What We Know",
-    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBZV1R3azZZTXVZUHllLTRsTHpwczY4OWRINlFfRElibnpHSWJ2bWV1Q3VGbDVKc0NXTlRYOExJZV94NmdzcFNjWG1YbnZtWXhZSHFoc2JyQlZicjBkZHpnODBxOVVJY1QyWjNhS1I4c0ZLUVNwMGUtTk5ob2U?oc=5",
-    "publisher": "Southern Living",
-    "published": "2026-11-21T12:30+00:00",
-    "source": "Google News"
-   },
-   {
-    "title": "KFC collapse hits Memphis: Bankruptcy forces wave of closures across city",
-    "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQRkVFalQteTZ1QVNRMzdsZGJ5VUJTc0t5VFpjQ1ZFdmJLSnpMa2JvWVIxNlRWSkg0Q2VYQWZiNVN2YjIydWlFOE4xaW1OYUNrSlh0aGFLSVRLQmN2STRLMWVFaDBVblhzWDNZYk5qS0JsVUYxT1lwYXJHeHR0M193NXk4ZHVQRTBxZWFfNy1IOHEyRGltcUFqaHdpRDlYSTVZUlR2OS0zMmkxSnFIcjdwaDhfX3htWHBGcTRHWF9VcWwxalhCN2FfajF5QklNYUQ1ekpvOFpFOUl4WHpYODE2WU4xZW5SakdZVFExZQ?oc=5",
-    "publisher": "FOX13 Memphis",
-    "published": "2026-11-21T04:07+00:00",
-    "source": "Google News"
    }
   ],
   "QSR": [
+   {
+    "title": "Burger King is launching a Peanuts holiday menu: How to claim Snoopy beanies, loaded tots, and collectible toys",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNUldJWkNNLS1yNHVKV3hNT3UwTzh2MGt4c1p1ZS13SFJkeTlsRWp0RUg2TmxkSHd2ZUF6MEFBeWxfaEJOUXNRLU43NVpGdm1kUUtraEF6TGc1ZHFhZElOMWpiWkhMU01ydlBXcm0yUkFfcjVBbkdIS19pM3gtdkV6VTJtU01ZcWphNEFXcG1tY2Q2ZUU?oc=5",
+    "publisher": "Mashable",
+    "published": "2026-11-25T21:50+00:00",
+    "source": "Google News"
+   },
+   {
+    "title": "Burger King’s Peanuts Holiday Meal Includes Festive Snoopy Toys and Merch",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5SdHRpTFd0cDEyTUJvSnI4eE5mMnhnRW9UblpaZGR6TDNfZ2tmd2Z5ckI3eW5QNnRfUWNlVzgyVXNQV2F3LU5GeHlpOHM2NWpjaGJ5NzZvWkVHdnZ4TG80V1BUV0pMd2tiRTJqWHlmV2Z4eHp1eDZpQQ?oc=5",
+    "publisher": "Taste of Home",
+    "published": "2026-11-25T21:14+00:00",
+    "source": "Google News"
+   },
    {
     "title": "Invest in Big Macs, Whoppers and Olive Garden Breadsticks for Passive Income: $90,000 Across These 3 Restaurant Stocks Pays More Than $2,600 a Year",
     "url": "https://247wallst.com/investing/2026/11/25/invest-in-big-macs-whoppers-and-olive-garden-breadsticks-for-passive-income-90000-across-these-3-restaurant-stocks-pays-more-than-2600-a-year/?.tsrc=rss",
@@ -1011,10 +1025,10 @@
     "source": "Google News"
    },
    {
-    "title": "Burger King is launching a Peanuts holiday menu: How to claim Snoopy beanies, loaded tots, and collectible toys",
-    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNUldJWkNNLS1yNHVKV3hNT3UwTzh2MGt4c1p1ZS13SFJkeTlsRWp0RUg2TmxkSHd2ZUF6MEFBeWxfaEJOUXNRLU43NVpGdm1kUUtraEF6TGc1ZHFhZElOMWpiWkhMU01ydlBXcm0yUkFfcjVBbkdIS19pM3gtdkV6VTJtU01ZcWphNEFXcG1tY2Q2ZUU?oc=5",
-    "publisher": "Mashable",
-    "published": "2026-11-25T17:29+00:00",
+    "title": "Burger King on Jones Creek catches fire, St. George FD says",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQN281M1dfVlV5UzZIblNGY0Z4XzVBMWpyVlpqZWc3SmlOWFJhR3JFYmtQamYyQkZURkMzQU5XNWsxVVZXVkkwMUc1OVRwWk1ZYXdwWHJJOWRWZURNV0R6Q1lyWXVRTVR4c2FpNXZXaTlMNUNwY0toWUstQUx6TS1Zb0dEY0tnUkVLQkw2Tg?oc=5",
+    "publisher": "WBRZ",
+    "published": "2026-11-25T15:47+00:00",
     "source": "Google News"
    },
    {
@@ -1060,6 +1074,13 @@
     "source": "Google News"
    },
    {
+    "title": "Soccer Legend Didier Deschamps Brings His Playbook to Burger King",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQRlhmOHc1RHpHOWVaT1JTU2VodXVpUlJjMHhEZGVPU2FsaUMycTR6Y2hiYkFsdlFDV2RCMFoxVU1MaFJ1NVlxcmxRS09XM0w2WVU0ZkVjSHBBTzlvX0N6eWJvUTlwek1GRTNuZXNXaV9yM0NUWldLdGxTaWgxUUc1dkx0VG1lZ1dqMHZiTEtoRU5QZw?oc=5",
+    "publisher": "Muse by Clio",
+    "published": "2026-11-24T16:34+00:00",
+    "source": "Google News"
+   },
+   {
     "title": "Popeyes And Chick-Fil-A Are Popular, But Dave's Hot Chicken Wins Customers Over With One Key Detail",
     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVVBwVkV3RHBhXzNITnh6NmQ5c3lFMDdrWGx2RFdQaVlZdS1sMUxlMWZtam1lNV95Y1JPZFpMeGg4Z3RvbTdrU01MbEsxZ3U0cFZpdVZSUjlMNExfY1cyM3pCdktvTzRRRVZCbzlTeVR4VGsyQU42ZXlReFZvTWk1bW9yU3BqajB5?oc=5",
     "publisher": "Tasting Table",
@@ -1078,13 +1099,6 @@
     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPXzdoOERKX3EwcUZtWWlWaXVEN3dMR1Zyc0RLQzJmal9mTG9QUWdsN3pNM1dxeFJ2SWYwd29Xa3gzOTdpVDUyVXlPWUd2SlotOE16bWozdzBmcVUzbzN0S1VRX0VYZWxMbTRDcGxYc1ZxT2laNWZBR2VqYjdWVGtoeHRoR0VxTVBEaVRrZnc0TmpCVktFbzl6WnBtQW16S2c?oc=5",
     "publisher": "KTVQ",
     "published": "2026-11-23T20:44+00:00",
-    "source": "Google News"
-   },
-   {
-    "title": "Burger King in Cortlandville temporarily closed after kitchen fire",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOOHgyTzFPNU1OVkg5YXpKenlwM0MwbF9oYUxNc3V0NFZtb2RiYTNNQk9YU2ZXbXdSVTBQZnhMa2paaTVfd3M1dFpSTWZVM3JMcV9iOHBsRzRhenExX3o1dU9YaGtpd29ZXzJUZEZnSndVWFVDdzlReTV4Qk9JN3J0djZhbE11T0I0a3BnRncxWjZpRlZOYU9rSHBaa3RlVVN5TlAySQ?oc=5",
-    "publisher": "607 News Now",
-    "published": "2026-11-23T20:26+00:00",
     "source": "Google News"
    },
    {
@@ -1121,29 +1135,15 @@
     "publisher": "MoneyWise.com",
     "published": "2026-11-23T03:37+00:00",
     "source": "Google News"
-   },
-   {
-    "title": "Popeyes Classic Signature Chicken Vs Spicy: Is The Extra Spice Worth Ordering?",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOb09BOUxIYWotZXpyc0VIMGZWVzJkX0Z2Tzk5djcySUROZ01nQUNLQXhCRG5pTm5ZQ0pPcmo1OVNzU0RHcWw0bGpCV0pwMHJvX0w1NnVCRXFDRS1sTEFSS3FBdEFHWFJocVVoQmZOd3BOdFdwNjNlZHZTX19seFB3NDY3ek5CbTN0N3V2N2xnX0t5U2p0em1JN3I1Yw?oc=5",
-    "publisher": "Tasting Table",
-    "published": "2026-11-23T03:30+00:00",
-    "source": "Google News"
-   },
-   {
-    "title": "BUNNY IN THE CITY: SBH Foods Popeyes Foundation 2026 Food Love Grant to PACK",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRUQ1Qm5WNTBodC16WjVBcVhtSjJYS2xHbGEtd1d2RUdjSXBpY3gwMkhVZ0QxTzlvS0taYWdqNGNhcHFMczNnWGNBYmxyNjlPb09VbjI0X09vOFFYRGVHZHRFNDhkR1ExV0xHWU5FTHBFLXhaVHhqeXFtNTF3dEd5dEY5eU1MVGxmc3hGOEh0b2xDQ1hPZElFSDEyVXdfcXF0bEk4Wk9JaEZ4TVlnaERQdnlwWQ?oc=5",
-    "publisher": "WJCL",
-    "published": "2026-11-23T02:13+00:00",
-    "source": "Google News"
    }
   ],
   "DPZ": [
    {
     "title": "Pizza chain franchisee files Chapter 11 bankruptcy with high debt",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNYV9OUkM1czJpRmZxVDVNNGdocWc5TERFbVh6Q3dVNjlrZU1pTWtfWTQwMHZxSUU4NkpIWHpxcm82MVZOTjBhQXdfcEFiYVl6d0hXMmVpMFFpQ1dlaUd0eXU0SW1ySmpRMm1VNkpfLTl3UFcxMjJ6Y3RZS1FmeWU0WmlXLUw4Q0ZNNFRaYmMydkJyeFEtaUJPUzlhY3BJRXFEdXN0Yg?oc=5",
-    "publisher": "TheStreet",
-    "published": "2026-11-25T17:00+00:00",
-    "source": "Google News"
+    "url": "https://www.thestreet.com/restaurants/dominos-franchisee-performance-pizza-files-chapter-11-bankruptcy?.tsrc=rss",
+    "publisher": "Yahoo Finance",
+    "published": "2026-11-25T20:00+00:00",
+    "source": "Yahoo Finance"
    },
    {
     "title": "Domino’s franchisee, DoorDash/Instacart, and Randy’s Donuts",
@@ -1157,13 +1157,6 @@
     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNnhQNmhIcmRrLTJiMFUtb2FfUm5NYnNPdmpTalF5UnlXbXVHa0NIX0ZBOWVkQU05T3hSYlpQX2lKVi1XM2xrM0NEYmhoNG1IQnIxVzFjblF3MGh2RGd1VjgwWGFQSWNEX2pncmRTQl82TzJxSTBZNTNuQUdZMmZ6QTRibEN2czg4M1Q3YURZQVRuX2VQZV9xckVhVDA?oc=5",
     "publisher": "Seeking Alpha",
     "published": "2026-11-25T13:58+00:00",
-    "source": "Google News"
-   },
-   {
-    "title": "Domino's Pizza Group plc (LON:DOM) Stock Rated \"Hold\" by Sell-Side Brokerages",
-    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSkd2YkpzNmhGcXRwamphTldwYjQzM25jQ0lDcGVfdGVzVUotbUlnZ2lhbVYwOXhDYlpTWnZKRTA3ZG9JRFdaTlQxRTlYaUpNbDRTUkpmQnRSck5WdW9SRF9na3ZqWVgzbDlVSXdMRE1tZC02eEhzZnZGbGV3VmxmeDdhV3NnLVc1UDB3dXRUU1dkVXNKVzh2UVoyLUF3YUJxVUI3N0s0NnF1aWhBRlJIajhYY3VXZXVrMVFuMWoyQlFDcG1ZUktwZ1lZM21VQ2QwaEE?oc=5",
-    "publisher": "MarketBeat",
-    "published": "2026-11-25T11:16+00:00",
     "source": "Google News"
    },
    {
@@ -1181,69 +1174,6 @@
     "source": "Google News"
    },
    {
-    "title": "Domino's Pizza Enterprises (ASX:DMP): Why Is Australia the Focus of the Turnaround?",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYUVJNUpja0tNZ0N0RktLaFpYb2VqaENLNjdYaXBsSEp4R05GVFU4aXBjeE9aQ2JUeE9LRmpTZnhnclZjYmRpV1dlem0yVmI1VHJVQVYzVXpBMG9QcEJIVGZkTXEyam5wS2RtOW9zTjh4LWxrbTh6TzRDNFFoWGVPTzNDdmJnVUEzWU9ZR21FWXJpOHNDWm9WSVRYUVVyTlh1TzQ3aU1yV1VLNkphejNvUkhSc0Q?oc=5",
-    "publisher": "Kalkine",
-    "published": "2026-11-25T08:48+00:00",
-    "source": "Google News"
-   },
-   {
-    "title": "Domino’s Pizza Shares Hit New High, But Can The Rally Hold?",
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQX1pfOTR1M0xNbGJwRnlFYjlBVGlDQmVuQ09MWWk0U0doWk1FNE9sVDYxSUZkRXhYQ0JianVMM2RhZEZUS1pIeVVXVDhHZlUtU0FoelNvMVBLQS15VkVzbUtRd3pob012bjZ2c18wM21vQWRSaEhkakxuTkZqTzB6X3ROWjVGYWt5UHRCS3BR?oc=5",
-    "publisher": "TheBull.com.au",
-    "published": "2026-11-25T08:10+00:00",
-    "source": "Google News"
-   },
-   {
-    "title": "Domino's Pizza Inc (NASDAQ:DPZ) Stock Has Average Target Price of $380.69",
-    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQN0tOQTZfQmIxd1hfRmwxS1lWTW1GNGRTSFljRDg0YjUyUk9tYTdpdTNGUVRSaF8xSFMwNDc4Q0Q3TDd0MzVqUHR0Ul9BdXU1NlhrR1lPSVhjTjdzdTVvSGR0OUVwNEYxSU9mR29OTW5ndkFYN2RyeW1pWTVPQzlSc1ZKWUg4MzlST1J2Y0VYbXluVE55dzB5Zjg5M2pBUnBsNEx0R0NOdFNBTzBpcGR2eTRrWk1oRWtYMFRWMXI5Q3NfTmJDTEZYQW9ZRWI?oc=5",
-    "publisher": "MarketBeat",
-    "published": "2026-11-25T07:42+00:00",
-    "source": "Google News"
-   },
-   {
-    "title": "Domino's Pizza Enterprises Shares Jump 4% to Top ASX 200 Gainers as Pizza Chain Bucks Inflation-Hit Market",
-    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPTi1hSGxTNWt4SHRIRVViNVR1X2tldEVLamE3NUFDcVNKcF9qUEtGQlpBNWtlcDg1eGw4T05wX29kNGx6aXR5OFFJbGlVTGpIU3VUYU0xckt4RGdrSDBsamljMkY5S0tUYXF6cjhkRlptM1NuVmMtQ0N1V0NlV0pSRGxYVFNPMUhlLWc?oc=5",
-    "publisher": "International Business Times Australia",
-    "published": "2026-11-25T07:04+00:00",
-    "source": "Google News"
-   },
-   {
-    "title": "Domino’s Pizza Enterprises (ASX:DMP): Can Everyday Value Reshape Its FY27 Customer Strategy?",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNLVNwTFRITy1xVjlONnEtVzBCcWhPSlpPU0JCZ0JDWDhrelVvRlI3UWREX3lSc01tMWVqekxUQ2FFT2V4ZU1xSnpUQnE2Vk51bU1qZl8tU1RhYmxTcFlNTWdKN3JUanV6NUQyV0VMZzJkNExjY3FxY09qME9wYzZ4YjZNT09IUmtjbl9YQldneUZVb0tnVWMtR1RsTXB1cC1pWTZrMDl1bFZxWHlfRW1TbWJEN1czSHY1N1padEVUX2M?oc=5",
-    "publisher": "Kalkine",
-    "published": "2026-11-25T06:48+00:00",
-    "source": "Google News"
-   },
-   {
-    "title": "Florida Domino’s franchisee files for bankruptcy, the third this month",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPT3I0SkMwaWYtMDF1Q2FKQmxZUVdILWVqY3VCZjBVZnllVkVKU3RRWFVGTEJxdUxWN3VFYzY2ejNGT2lRLVJadXZfeGFsenlrTGpSZ01jWDZrbXhHSUdRZjdBcy1zN3hZc0h3MHJ4ZWlrVTJTaUNlY0JhdmRPdjhob3ItUFJyUnFieG9yeVMtQmYzZ1pMbVcyQ2JWWkM1ZzhPcVVBbQ?oc=5",
-    "publisher": "Pirates and Princesses",
-    "published": "2026-11-25T06:06+00:00",
-    "source": "Google News"
-   },
-   {
-    "title": "Domino’s franchisees handed $15,600 lifeline funded by their own fees",
-    "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPYlpDOXJiV3JaVktmeW1Rak9HeWtPandHbWxjZ1BjaHFpeGJ1VjhPMG9KbWg3VjFWRUxwSmNoR01RYm1qdXROTGx4Z0VYWkFQZmFBbFFkeV8wbUxJSmlVdDM5ZFY1QzBnNTJyOTdnVXVGQW5VMXpMMWpTem84ajBBMTVHUHFQd0lRS0RndVBqVjdldjF1TzV6alR5UmdZT09hWjlZdWJZdFlfU0wzaFo4X2VndXFVMk0xQ3RuUjBfWlptSXRocXVnOE11RlBnSGdaWFozaVV2VVJ0emtJYnRTdUVPS1BUYVp5TUpIbW5hUmZKUkpmUEZUWXV3MXJzLVZQOE1WNzNfbWU0Vktf0gGSAkFVX3lxTFBCQWJSYllfeU1nWElKTUY5clJPY0EwWDE2NWhaZWp0X0x6czNnQ1A2RjJzOTFXU1VHdVByQ0dmMUdxeE15dHFxTUNoeWpLQm4tZ01ReGFjX1JOdjVHZG1mcFlWRGlhMl9EWnpYY3VVdkgtandJVm5zc2NqTkZEUkVTbm0zQ0hna2VEd2Eyc3poU01JMk5mOUNKblFmNFdsTzZUaktaSWVqcUhncGFLcTZJbDVhLUFqOFFQTl9GY0FmOGlhcktSejNrNjVaOWpmSWtsVTZnRmNWRTllVnlsV3I2VzRJdXVDU1VrUVdWeEpsYmV4N1hQVU05OGp2X3AzY1Rzc0FUQXhleG1pMTI5WWZpRGc?oc=5",
-    "publisher": "News24",
-    "published": "2026-11-25T01:47+00:00",
-    "source": "Google News"
-   },
-   {
-    "title": "Domino’s Pizza Enterprises (ASX:DMP): Could Menu Strategy Revive Its ASX 200 Market Position?",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZzVOS3NZdFlMOFFDUm13Zk1zZ3dvOGZDVGtfa0JBZU91SzN6VV9oTk13dlFPYjA1VjRfREVzOWFmNUNsVGJES3lOVWxTRDVRM25nd0R5SFo1NWpDOVh5Z1Z4NGFtTnVtRWFiUFV2d2V2VUQ2dGpkVkNvMXRBcWZMWUUwWFZWY0o4UVhJcC1BdG9WMHMtZkdlRnV6Um9Da1VfUTFJUXRVczRzdHcwQnRnXw?oc=5",
-    "publisher": "Kalkine Media",
-    "published": "2026-11-25T00:46+00:00",
-    "source": "Google News"
-   },
-   {
-    "title": "Domino's Pizza scores high for strong cash flow but faces growth challenges amid market saturation and competition.",
-    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNMEQ3cExNS3RwUU9VUVRYR09lQ0pmamkzWndHWVh4WEdVclhpcHgweHgzTnBsblNFcmNxN29qZjRzbkx1OUR5NVVqNmxXZFIzWHFZdmJCMVNvRWJTcWFWbU1oWlVpTnByRXlrb2JPcklvWmlsUlhYNC1XdkFFU3BydlJPZ0VkZ0k?oc=5",
-    "publisher": "Pluang",
-    "published": "2026-11-25T00:25+00:00",
-    "source": "Google News"
-   },
-   {
     "title": "5-Year Outlook: Can Domino's Pizza Deliver?",
     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZ3U1NFR3WFJBOTNoMVhqS2FobGI0X0VYRFFwTTVMa0JnWUs0ZEV1T2VZZjdYNkRoM2I4VG9EMFctS0RkRUhldzhpR2RMMFRBdHFVRmhVaGVVRldnVzVKZllvWDZWT1VKTWtJLXNBcTZMY1ZoUTZEVlA3R25xZ1o3X1NkSWZnV3BsaFlfY0k1UHgtaWxKN182UA?oc=5",
     "publisher": "The Motley Fool",
@@ -1258,6 +1188,27 @@
     "source": "Google News"
    },
    {
+    "title": "Did Domino's Pizza, Inc. Insiders Breach their Fiduciary Duties to Shareholders?",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPQ2tPemtpSm5MQy1peUxMcnE1ZG1IZDNBbVhaelhNS1F6dl9BcUJMQVF3Q2d0dWNSWXE2cG1hZjUwUWJ3MnlVRlRWVlhYVkdzd01nSk9XZGZnbXlweWExMGZRUGZocHNqM1VCa05CVkJGVWt6NmNuMmc4azVHVmdkRWg5bWJ1V2VDZXNqU2hJeTNYTFV6dGVqckhDZm5jczlhb1BuckllVXpodFJUckp0MTlpUW1uU0pkVC03bXluMmQyWndvTmc5N2JzMUs?oc=5",
+    "publisher": "PR Newswire",
+    "published": "2026-11-24T19:55+00:00",
+    "source": "Google News"
+   },
+   {
+    "title": "Domino's Pizza Inc (EZV.HA) Seasonal returns chart",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1CYkFudEhqdTRQSEJBc0NMMUFRdFJQaGZFOG92QnRXeS1YM3EwYm9qWGlZQ2FGRlo0ODY4eW5rTHZoMWNkN21rbDNiYU93eEhoNGdDc3JpZWMxMkFTcXVqVVNuMDE?oc=5",
+    "publisher": "Yahoo Finance UK",
+    "published": "2026-11-24T18:36+00:00",
+    "source": "Google News"
+   },
+   {
+    "title": "Domino's Pizza franchisee files for Chapter 11 bankruptcy",
+    "url": "https://www.thestreet.com/restaurants/dominos-pizza-franchisee-files-for-chapter-11-bankruptcy?.tsrc=rss",
+    "publisher": "Yahoo Finance",
+    "published": "2026-11-24T17:19+00:00",
+    "source": "Yahoo Finance"
+   },
+   {
     "title": "Why Is Domino’s Pizza Stock Rising Today?",
     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMUlwRWo3cm8xTkp2bnhvNkhhTVFtTUl1LVVnTHBnR3Z4UmxzVGtqQk5ISmFpcEtYLWtudkRJWFpvSjlTX1lDNjhqMXA4MXlseFhOZ1FPTFU2YkVBVzNhRjIyNGpQNEwtMjVNdTR0bGhjSmFHWVRaV1Y1VkQ1akpYcjVaMjJKLWowQkkxVWFVb3czQTNQcy0td29R?oc=5",
     "publisher": "Yahoo Finance",
@@ -1265,10 +1216,10 @@
     "source": "Google News"
    },
    {
-    "title": "Domino's Pizza (NASDAQ:DPZ) Now Covered by Analysts at BNP Paribas Exane",
-    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPUmRKUU5MZHhCS1RXek11VHp0eGl3Sm9lcThNLXFIZ3VDelB0ZVByTjVobTRpSUNpblIxWk9VQ3pNRXM0ZVI0X2RDNWdFX2FKUXlqQ3I1NjA3Und6M2JidXp2aURKMVJDWnBOd1R1cGJ6OGZySTFJN1MwdDBaNWdEWXREekNWVzBMTl9nYVBMYTRPNWFsVE9ydHFtNm9kRGFpY1NfTVBmajFHZXpoVjRYQkVBeWZVbFRkQVpmX1pwZW9iUlVCU2MyMklGNA?oc=5",
-    "publisher": "MarketBeat",
-    "published": "2026-11-24T13:19+00:00",
+    "title": "Domino's Pizza, Inc. (EZV.F) Seasonal returns chart",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9saGdfZkVOVWJIcjY1eTlkRURWc2tXSy1GWjZyR1lCNEppaDUyeUNxS1ZsUHZZcWNZUTl4WWxHcF9Kc1hpTFYyQl90dWpHZUxWakZhZ3hZdkJOSDF3Ynp1WE44WQ?oc=5",
+    "publisher": "Yahoo Finance UK",
+    "published": "2026-11-24T13:09+00:00",
     "source": "Google News"
    },
    {
@@ -1277,9 +1228,86 @@
     "publisher": "Investing.com",
     "published": "2026-11-24T12:13+00:00",
     "source": "Google News"
+   },
+   {
+    "title": "Man charged with DWI after crashing into Domino’s",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNSW1yTEgzMWc3T0gyUnFmVTZjUEVSY0hlZkltWXBPN2UyMzNtOVBnbzRiQ0FzbzI1ZnNSUzBDNW9RNFBUVXRlZW8xMk5TeTJJSzdSOGRXQWdWZ2RTUWFfczc3NjZFaUtORDMzWi12UlRzYklZVlFTTzN3eTVzSkthOW9YbW5EUWNmM1hrVzdON081U2tHYXdsR3ZybVlsdkkxdHRDaGt4anZJamFKTi1Sa1FjOUhoOEJyQTRoOVpaczJBZ2Zja3ZWenB6cTNzSzg?oc=5",
+    "publisher": "mydailyrecord.com",
+    "published": "2026-11-23T15:37+00:00",
+    "source": "Google News"
+   },
+   {
+    "title": "Domino's Pizza Inc Share Price - Share CFDs",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBaanVuYTV6Z1VwVlAtcU1BSG1ONWpkeVE5OGhrbi1RbzVVNDRBUUhITTE3S3lTS1hOb0FyUU9uWFc5YjllR3pVamh6YlhvenJiSXhJekdUTjgzcE8tZHhRMHR1Sk1CTUxqY3JPYUNB?oc=5",
+    "publisher": "FOREX.com",
+    "published": "2026-11-23T08:00+00:00",
+    "source": "Google News"
+   },
+   {
+    "title": "Domino’s Hires Former GYG Marketing Chief Lara Thom As Group CMO",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQU29MbDNUcUR0b0Zja1NGOGpEeUFzUjVMUDQwVGhOMTIwWUtlTWpubTF0Z2R5V0JUZklVc2ZCQ0xnYk1Od2NhMUtIQVplRWZFTGpvaV9iWjNIZlBGRzBYZlZNU0VjYzc2dS1HUURCcmJZdXBycXROTndyWFI2TjdQOGpxWkwwd3FscTNibFdQMkU?oc=5",
+    "publisher": "Retail News Asia",
+    "published": "2026-11-23T05:17+00:00",
+    "source": "Google News"
+   },
+   {
+    "title": "7 Domino's Pizza Styles, Ranked Worst To Absolute Best",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOLU1laGFIU1U4Rk1uSU1GY0hleFgxNWdCLXlWWEtWWDhYRjBZdlBfUXNfMWRCNnoyNzE3R2JqZmlta05fWXBJTmVOTHgwa2pGQTFWUVkxRkphYTlhOE1RLXJMSnBOem9yU1BwcnA3cXJ6UTdlc2ozdnZ1TVNpUWN1aHp3?oc=5",
+    "publisher": "Tasting Table",
+    "published": "2026-11-22T23:20+00:00",
+    "source": "Google News"
+   },
+   {
+    "title": "Executive VP & Chief Restaurant Officer Of Domino's Pizza Sold 38% Of Their Shares",
+    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQTHJ5ZjltLTgxRzZ0U3BKN0NxdDNuLVo3UEU5MS1LSmw1M1lLVllEaklrelppbjRBWlI4MVdUdVdKbnhVbG9jbTRGclBucG9NMnI3TmtOMmhkUGtnNFRRelMyXzVwT1BERFdGbmtlMFhESWcyQzdBb3pxU21oalFsaDQzMGs2UVB0M204MUJWM0FHVElzZzhoNXBOUFo2ZzlyZzFCRTdaVlJTZDY3NUtZXy1FaHQ0ZjNIT2RhWmYzRUpnektMZDZQbVVlSURPZHc5X3pkUnB30gHbAUFVX3lxTE94V1lDR3ZZek5yMmFpeklZOUVBZlNOMTJtNEJMdVFPcC1KM3FmYlRlUTJqRTdBb0lZc0RzcjRJelV6WUJFYVhsd2ZvRHpPaFl6aEcwMXQzam1iQU41MkJhUWNXeGdRcm5XUHc3cDlaQi1NTmxibmc2Um1RdWIxaXpHVXlGb29qWHNBeE5vMlBKb1gzUXhSSWIxRDJrdzBfWkxhMzVZMnVtbFpWTy1USDJiTnBSV080aUt3eDUzZVhIZXREZXlBTThQSDN6Mk5iZG9CSG1EdVljR2hUOA?oc=5",
+    "publisher": "Simply Wall St",
+    "published": "2026-11-22T13:08+00:00",
+    "source": "Google News"
+   },
+   {
+    "title": "Pizza chains are under pressure. GLP-1 use is only one part of the problem",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE13N011dHVFTHhsU2ZqdlhIUktCVTk0QWt6LW5VVkhMUUQ4Qy0xS3ZUdE0yMGx1MXFRNFFkX3Z2MC05aVJoM1lpUEh5SmtZVWdOSGhtOTlfZWM2dklSQm5lb2VuaE9ETDJmR3dqZ21BMWM0Yk1hSmVj0gF8QVVfeXFMT01JWkJ2cWpNUHRTRWpDQ215eGpvNC01TTlnYnV5bzlsNzhYTzBWMWw3MWpVUnNESEhLZXdKc3k2dDcyZHhsUVE2clk3N3ZsUkVCOGFtVnJjN1JIelFKMC1za1dIcGZVb3RtekZBVEpBU0tYM05NMTFpeUtuNw?oc=5",
+    "publisher": "CNBC",
+    "published": "2026-11-22T13:00+00:00",
+    "source": "Google News"
+   },
+   {
+    "title": "Domino’s Pizza may backtrack on support package amid franchisee anger",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbnBKWUNrOTZiRnpIc3I3TmM0TzZHQXcwaUdDelI4bE1lU2t0RmxDcjJXU3hhQlZOelhfNDlyWURTcGdIcER1a0h2TVNEVnZQNEJPWmp5clhsX2RhbFRoWXFwMV9tMDRnOWRZbjk2NUZmSkF1aC1MUDRVemk4dkJzVHNMc0JKX0FOVG5CYW5LOXZkS0tlYWpremFhWnYyeFNpVEdVZzFuNFhVSXNOX3lDWEllYnRZUW9FOGc?oc=5",
+    "publisher": "AFR",
+    "published": "2026-11-22T04:33+00:00",
+    "source": "Google News"
    }
   ],
   "WEN": [
+   {
+    "title": "68 Percent of Consumers See Dynamic Pricing As Gouging. Wendy’s New Lawsuit Is a Warning for Brands",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQd3A3ekhzMk5HMjNHaHRFa3lOX016bUNnR0NXb0haZnBjLWNoYk1BVWFOeHJvdE1JdVQ4Nzd4TDdhdDBmb3BGSGtRMVo5NTZaWWlWSWQxdExqS0Q0ekdmdHNQSG5WZHVYekxtSk5yUzdwQzdpVlBPT0MyM0lKRUxIcHViZ1RSQXB1aUZ6T0lxdEdGU3EwSzdoT2draGJtQ2dpWkE?oc=5",
+    "publisher": "Inc.com",
+    "published": "2026-11-25T21:26+00:00",
+    "source": "Google News"
+   },
+   {
+    "title": "Monroe man arrested with replica gun near restaurant",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOVW1CUEx1MDFQalY1N1ZQa0NmNkNqTDQ1RjNTekJSblBOXzhRaWxLUXI0dUdmTHhXZU15cndGLUxpZ0RvZTVFaVR4QnFDcktDS2oxRmdLOW1GTDZ3U0hiRGNxSVktYktzWkR0dUFjVHpPbnZjY1NSVTZkWUluQmVRSDYzSjdrbXo5MGdPWFRBZWhvNllfcklIRWY1Mk5KUXY4cGpYSjZoQmJLa0NFUWwwOFNjYzVBVFhRVEJOMVFvN1BkSlhqM2F5QWR3NVNmZw?oc=5",
+    "publisher": "Monroe Evening News",
+    "published": "2026-11-25T20:30+00:00",
+    "source": "Google News"
+   },
+   {
+    "title": "Wendy's Accused of Rigging Menu Prices Nationwide in New Class Action Lawsuit",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcG1OSUdZOVk5VzUyYzdfMjI0QUlRZHYzMnl1TjFsYURwVF83QVdoZWhIVlBBSlV6U3NDZ2VqTU40bE1ZSjBzQnctM2tfaF9rRW9IYlRuSDFiUjJJTUxHWnN0X1VfejllRGhNS1VQQnF3ODVQbWQzQkhNODh3RlRxVzlReFNCeDA?oc=5",
+    "publisher": "Complex",
+    "published": "2026-11-25T18:23+00:00",
+    "source": "Google News"
+   },
+   {
+    "title": "Wendy’s accused of driving up menu prices in new lawsuit",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5EVkxjejlTMUMwQUNKV0k3MndqOW8tWUVRUVkyQWxpa0I5aFZ1X2pIMDJoTl9McFB0RUY3djdJMU5NSWdEbWlhdndva3NRS0VUWHhKVFcyN1VEOTdmbTVNYk9lMXY?oc=5",
+    "publisher": "FOX 5 New York",
+    "published": "2026-11-25T17:15+00:00",
+    "source": "Google News"
+   },
    {
     "title": "Wendy’s Just Launched Its First-Ever Merch Store with Frosty Purse and ‘Where’s the Beef?’ T-Shirt",
     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOR3d2dzBaSEFaRFN1Q1FNSXY5aFRpUDhJR0JzN18zSUJfa09XOVphckswd3B1R1VINVd2U0dIRVZobEZsNTUtX2Y1ZU1ISHhzbm1TcDRrWXhEeVNDakIwbE9QT2dmMFRPNTJsUUtTWDl6dGZEQk9ZaFBMVmhsRkdCVk5R?oc=5",
@@ -1298,6 +1326,13 @@
     "title": "Wendy’s Is Coming for Chick-fil-A With Its Brand-New Line",
     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8xLUZQU01wVTRkVW5kYkFhdTR0RmJreUFzdFdGNWVtNjJwX2wwdVNPclMtWHpvMUpmRDlub3pGNXFjZm1EQm1FOGwyNG9mTWFGQ1VuYmpiand3Y2RBbUJSMjBxZW9KREdVb3hXOXZ3?oc=5",
     "publisher": "Allrecipes",
+    "published": "2026-11-25T14:00+00:00",
+    "source": "Google News"
+   },
+   {
+    "title": "Ayat Palestinian Restaurant in a Former Wendy’s",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQaDBFT2hsbXUyN1ptdXlfUUdMXzFNdUJ0elRBN2VKXy1vWFI4NnZhdF8wVTdGbDlNOVFTMVBzallXdmtUNXdvWHE3bnRvREEtR0FwQVYxaTVwaFNfMVVzcVlnbU9MVHI0NDNnUkhnQUQ0UUc3SkFudkZsYkpaTXRlOUNobk4zTzlod2VhWGJOVVhQUy1sZHMxdzlja1BLUFJF?oc=5",
+    "publisher": "D Magazine",
     "published": "2026-11-25T14:00+00:00",
     "source": "Google News"
    },
@@ -1323,17 +1358,17 @@
     "source": "Google News"
    },
    {
-    "title": "The Wendy's Company to Participate in the Morgan Stanley Global Consumer & Retail Conference",
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVDNHcHRFNkt0RURWRVlVRmhneGd3V0tET3o0blpkclRKRWdoVmtRNU5lWW9RLW10ZmlIdm9kX3dyRFczUDlyb29zWjdkWEtYd2pEdW9JSU93dzM4MzI3MWVmVFZneUVad2NiWG50aURmQTNFOWw0N1RpWVBkN29CR3g0MUZzcTlfNmxaQUJOY2NBTzJmYkp5RmRKVVZzTzNuYW85UjhCOHc3VFdBQlZPZ1ZHNV9heVlJRUJqSWZfRXI1dzd00gHEAUFVX3lxTFBUM0dwdEU2S3RFRFZFWVVGaGd4Z3dXS0RPejRuWmRyVEpFZ2hWa1E1TmVZb1EtbXRmaUh2b2Rfd3JEVzNQOXJvb3NaN2RYS1h3akR1b0lJT3d3MzgzMjcxZWZUVmd5RVp3Y2JYbnRpRGZBM0U5bDQ3VGlZUGQ3b0JHeDQxRnNxOV82bFpBQk5jY0FPMmZiSnlGZEpVVnNPM25hbzlSOEI4dzdUV0FCVk9nVkc1X2F5WUlFQmpJZl9FcjV3N3Q?oc=5",
-    "publisher": "Franchising.com",
-    "published": "2026-11-25T12:22+00:00",
-    "source": "Google News"
-   },
-   {
     "title": "3 Ordering Tips To Get The Best Wendy's Chicken Sandwich",
     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBhRkdVRnpaTGhJa1dYTFdvcjNmTGxrbFFBcmFCWXJKektoOUVqbm8wSWVpcHJMVEFCdmY5Z3RxX283WWpTTU9mZ2dNd3A0amItOGxaWE50UTkwZURGZkRJRzExSE1oMnZtaEJNb0V6UXY2anBNaWpmSzM1N0VJaUk?oc=5",
     "publisher": "Mashed",
     "published": "2026-11-25T11:43+00:00",
+    "source": "Google News"
+   },
+   {
+    "title": "California Wendy’s customer is suing the burger chain and the company behind its checkout software, alleg",
+    "url": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxNcDJjcE9EbGxqajlYeVQwZXNRQVpKYV9HZW1MOGwtdXVpQTZ0d1dvaFJwMkI0YXcxdEhCRWlPZDduMHh4VU1KdnFvRHhocjJCUENvb3hLSEpZYXk2Qi1mbmNZWjUwTXdFQVFOelIyNmI5OW9wQnVRU01DWVIxV0g0U01VMWdtLVhsVXFwV2Z6N1gxY2xUQ2sxUDBxOGJmSFJKVU1ZZkltYnVYVlk1UUlaRjBwaEl3Q09PejNmT1A1N1RCaFIzQW9IUzBUYlpvajQwOWEzSEMxZWVrOGIxYXJWOVpiaEJRNW1jVDZuZWNxWTZWYl9jOEtMWXZXTXBYU2lYZHlBY2dHQmlCVC1yZjFib0dQcDZTVkhRWkxvRWNhbERXaTRWUlFqZVQ3VlplWHpmZWZkUEZicjFsbDhETWw1dEdLcTRRdV9KYzM2bHV6czk4dFI4Y1p3RHF0UG5MbHIw0gHmAkFVX3lxTE9CSEhlOXdSMkR5V2NqeEtoUEZkM0QzcFNILW80V0tvcm1JUUYtd09ldFJ3R0VnczhuaGNqUEhXNUttX3d2UlJVZ1VYQW41bjNkM3FFam5hbTEwOUVYaVNzNlVraDN4dFRLRkpOQXFVMTZjQmFWMlE1Z0RJQ1lsbWRhOUUzcnNWbE9abGpKZEpfRFBidmNIOGlHN1JnTmxFNDhQWWVPMDAzeGpJRlllZXNDdllhMk9jODBYc2dVUjlzUFcxMTVjeWZaUVJUQ0RvVFVMTXVPYnlkT0JJdVlFNWQ0d2c1QTBCLVlYbElyTDBiVjJ4b1hxSEwwdnkxX3pTa0FnNXh1WUVOMDQ4ckdEM1p2cHdYSnlQclp4bTNKWU5Ja2ZIb0NzMDFSYUdFUGJ3UUdMa1NvNW9vSFNLTzlMOEhvSkZETjRwSkpuc0ZKdzlmdWYxTHJMbmplZjVWcEFkckdBS1J6SGc?oc=5",
+    "publisher": "The Times of India",
+    "published": "2026-11-25T10:46+00:00",
     "source": "Google News"
    },
    {
@@ -1358,6 +1393,13 @@
     "source": "Google News"
    },
    {
+    "title": "Wendy's, NCR Voyix Face Antitrust Suit Over Franchise Menu Pricing",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9tUi1tZGdqMmxOZnFHRGIwdHpGU04yUnl4V3YtSUJabG5CUjJpTk9oM2pqM3JUM0V0TmwzOUdqMG9vRUJrNTRKREllb3J6Nk1wWkRXSTEtc3RHUWNuSkQ0aldnVUVnTklraEdEZFRNQlZ1NU14UlE?oc=5",
+    "publisher": "BigGo Finance",
+    "published": "2026-11-25T06:35+00:00",
+    "source": "Google News"
+   },
+   {
     "title": "Why Is Wendy’s Facing a Class Action Lawsuit and Who Could Be Affected?",
     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNWZSeVVZc2tnWll4eDJQRmczMV9oSmdReklNZUZBRXpOWUNkdk0wSGFtQjR0dVV2NWM4NDAtN1otNUZjR29yTVpsbm84ZzVObmtOTWg1bGp0ckFDRWlfRkpBWkNrRE00ZXJsVVFCUDlienFmMXR3RU9lWHpaV2NocV9VOUR0MFk2TTVRV3lSYloweFhMQjdYaTM0ZlMwbWc?oc=5",
     "publisher": "Coinpaper",
@@ -1365,59 +1407,17 @@
     "source": "Google News"
    },
    {
+    "title": "What is NCR Voyix? The Aloha register company named with Wendy's in the price-fixing lawsuit",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPdjczN0VqN25NU0JsclV4Y25iLXpoNGhTQWRHYTFiTG5CY2p3RUhYVE1IZkY5b1diV3VPakdVSk9vd3MtNFZYZF9zMm5STkt0bE9lYXFxWlEyUWh0S0VoMDYwZ3ZBamVPTl95ODRsbHRMOUdUeDhxbjZiMVhlNnc3RkRYVW56ZjBsSFVqNmxZTGU4eHM?oc=5",
+    "publisher": "Nacionale",
+    "published": "2026-11-25T03:36+00:00",
+    "source": "Google News"
+   },
+   {
     "title": "Wendy’s Faces US Class Action Over Alleged Menu Price-Fixing Across Franchise Network",
     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNY0xhYWNaQjZBcUdaYWs4STUxR19WVmdEY1g5bW10WTNTdjNWemVETzdUZ000b2pLdXd2cGJqRWc1LU1SRUM2cjRjWnNpYjJHc3Q0RGpPTUl5cHlsWUszMnpJWk50a2s0d2drZjhyWkMzVndENHY4cmkyTEpTdnJ5aWtwSzV5NUJidWs4bVc0MWRvV3Atb2F2UTFFeFdJSHR3bWVtdkVrcFZkTUJBNUtVN3ZMT3JhLW1uNUQ3SkZ4N2NvalRBaEdzZw?oc=5",
     "publisher": "BusinessToday Malaysia",
     "published": "2026-11-25T03:18+00:00",
-    "source": "Google News"
-   },
-   {
-    "title": "Wendy’s has inflated prices for up to 10 years, lawsuit claims — weeks after McDonald's was accused of a similar scheme",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOOURmU0hadTdqSEx0N29MUi1aSmRZeUpvTDdUU1pMT1B1SjBvbjNqaC0yRDFYeC00NC1PNkNxYUR3N0dld1FwbXhpOFFfVVI0bVdUQnBRNFRhTWIySGxsMDFja1pxWHdfNVVmSDJJanlZVWJyRU44TmRnTFEzMm1GZ2cwMHd1SVJYQUJTNGk3U2FieWxSbnR2TE82bw?oc=5",
-    "publisher": "Yahoo Finance",
-    "published": "2026-11-24T22:30+00:00",
-    "source": "Google News"
-   },
-   {
-    "title": "SPONSORED The Place: Wendy’s Coffee Break",
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1XZHpjb0pzVE9tVU9tbG9ic1VUQ1NuYmxXU3NXVXZ4b2xiY1RFUmRmdXVrbjNSR09vd2VMaEh3aVVVQUtFWlJSNzZCNzNEU0hMQW5Rb3BDcHBIOVlCVnFkd2RPb0RocFRpQUJEVGdBSnV4YzRLaDFORtIBjAFBVV95cUxQQWRMYXV6VjVqNDhzN1JQUldZWHZjajkwUHlQR3A3RHluOXVYU21BZHpUQ3l1QVJrcHM5SWV2dEthbTVWMmJJUUZRWE9hRjZTR3Z2ck1tNDExSGJIMng1VURSWjJPeGg2VVVXbGhrbmFwTlN3eFhnU1ZhUC1BSkFsLWs3M2NWNHdDa3U2ag?oc=5",
-    "publisher": "KY3",
-    "published": "2026-11-24T22:01+00:00",
-    "source": "Google News"
-   },
-   {
-    "title": "CPI | Wendy’s Hit With Antitrust Suit Over Pricing Technology",
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNRno3NzlOSXNYTGp5RF9wRG05ODRXVmpzcy15ZVpFOFptdnlReDl0V0swd2cxYmc5dVlRSnJUY0ZmamdEMmxua2c4eVY4ZjFqRkVoTzUyX0lrLTJzd0F5Yl9WSmdPWkw5STMydFJNZFRGREpvMUR5VU95dndpNWR2Z3JGY3RJVzZrMVVFMFRQa2FnZw?oc=5",
-    "publisher": "PYMNTS.com",
-    "published": "2026-11-24T20:22+00:00",
-    "source": "Google News"
-   },
-   {
-    "title": "Wendy's \"pricing scheme\" inflated menu prices, lawsuit alleges",
-    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9YYWMweDB4X1pWSlUzWDFaUll2WHlUYU95M0drWGtlZzRkNGs0aHFLRTkyVUhpQXNybHdIS3BIVmVLVHo5RzZrRmpKMTlSUmFFWGZ5U1RzcGtHMDJ2OThhM2ZBcmpLWGh1M3NuZkFDbkVxemxVTUQ0SnF2RWtRZw?oc=5",
-    "publisher": "CBS News",
-    "published": "2026-11-24T20:19+00:00",
-    "source": "Google News"
-   },
-   {
-    "title": "Wendy’s appoints new chief people officer",
-    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQV1NlSGdNYXpIUUtNSjJpVVY2VWV4R1dmVm1JWFV6WDQ4YjZ1M19wdHY3Nl90YWhsWGRCRVRvbmN3b00zalBWNTZJSkx6MnJwYk01a2lhTGRjMjJNQ1JGWGM1SEdIRXZBSDRRd1lyeGxqYTNCbjh3SVBoby1tMnl4LTJ3UWpvR05Qbjdz?oc=5",
-    "publisher": "meat+poultry",
-    "published": "2026-11-24T19:24+00:00",
-    "source": "Google News"
-   },
-   {
-    "title": "Wendy’s conspired with software company to hike menu prices nationwide: lawsuit",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQnNfYXNaZlVqSXkwQThGaVZzWllkQW9YSDBuajlVcHNEOS16R1lBT3kzaEx6TU1fdFY4Ym1sN2wtS2h0SDF4ZjI3Z2lhZmtJQl9jb2loakxURXNQU2RZalZkTXd2YmZyRUxEazdqYU9faTFsMllxWnFDWnlnalJMdXR2NVdUcTFzS2ZQRW9rSjBFSXJVdnEtZ1BoTFBsQ1l5X0l4aw?oc=5",
-    "publisher": "Yahoo Finance",
-    "published": "2026-11-24T17:44+00:00",
-    "source": "Google News"
-   },
-   {
-    "title": "Wendy’s hit with US class action over menu pricing",
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOLWVEX1kzZFZYMFh6LVk4ZElSR192ZDE4NXBjX2xDd1NLdGdHUl82c0VzajVTajlLYUdZaWtiSFlQNU1ZR1FMeTJJdXFXdldObW5sTHhvQWU0Qm1EVk80QTJlU2tHeTRWbWc1OTVOczNzT05OeWtxUDBBZlp2TTRpSFNzVGtSUXV2NTg3RlcyUGZJMF9rUTZFbzNR?oc=5",
-    "publisher": "Reuters",
-    "published": "2026-11-24T17:09+00:00",
     "source": "Google News"
    }
   ],
@@ -1431,7 +1431,7 @@
    },
    {
     "title": "Revised $225K Papa John's Wage Deal Gets Initial OK",
-    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQcGoxUFktQXBVQ1h2ZVN3NFFNTDE3WmNqdDFqcVFvZmZITnZpOGpNTzY4d2F6RUhsUFJiMlVabE43eWV5R283ZTFEQUFpcGRIVDlDN2s5U3Zub3IyZDFPSTQ3UmNlbTdONWZ1aVI2eHE4ckJueWhkVDZpVWF5eFZCWkxmenJKSGx0Mkc0V0ozM1Fjek9H0gFWQVVfeXFMUGZCSjZpLUpTaDRTWHBoWTFyVWZ1ZDJBdEdsT1c3X3FOSUxtMVFweDRfN2FiOG5yVllwNVBhUlZIR00taERoUVNBQTVFUjAyb0pnRUFLZnc?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQYjRKUXF2MU9UaFFSanJpY1pCdHprZ09LU3FuT3J2WWJVNktoZi1xZlJpV0wwclhmMC1hdjZFYVhFTTFPX1lVVkxRdkdTSW9CU1o0SGlRdmtYekVreHotZzZSdElPUUcyeG9Ic0JMWURaZS1KR05xOXU1TERPemtTakZqT1lRMlhvRXBiamg3eDZxMkFuUDNma0NmTWhodUhOa19rVW54QWdYRFdDc3h3MVFhZ1VsRkp0RWpWOXhB0gFyQVVfeXFMTzRfbzhDYnlPRXBiTUV3YkF6aGNCNWRWY0ZTeWNlUXFfeThsWXVvOURFeHREaGhjWnczbWdhY3pTeGQxYkNWekEyZUVsVkQ0LXh2cUpETHR2SlUtbWhvbnZlNXVydmExaVdRREdXcXZQOFRR?oc=5",
     "publisher": "Law360",
     "published": "2026-11-24T19:43+00:00",
     "source": "Google News"
@@ -1445,9 +1445,9 @@
    },
    {
     "title": "StoneX reiterates Hold on Papa John’s stock amid sales weakness By Investing.com",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSEZ1VVVyTmF6cHpnc2N5ckt0ZE9kbUZQTGprZ19jTV9PazFVVzdHbm9ybjlIQjVSbEQxVUdfV05nN3AzYldwaEc0OXRBMU45bmFpQXlhRXJ0UExyclJYMndkTm5UX0tkTUxpdGxYZ0RqeWdyLXp3LXJ3YUtDTkJqdktnZy1ZYXpoX1g3M1pBZ0ZFSVF2N2xTSmR5NE1CdGVVcEhKZEZ2RzVyRk9VRW1KWVllWlFreUpYb0NfVExwZVg?oc=5",
-    "publisher": "Investing.com Canada",
-    "published": "2026-11-24T13:40+00:00",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPOGx2bTdiaDNnQkZTeTVLbmYtZF9sM3dGSlRCcXBlSnVmNHJvWVN2TGZrLUtQTkpHNHphcDE2Q3FwWDk3T1pna3dNWHVPUjVDRlI4Z1o4NFNYOTN4RnBmN29Oc1pTWVoxS3VvRlhGeGc3ZjRWdFVSWEpIOEtQVUtJVFNhZ3BVaDBEWDlvWkRqYjVLRE9zWFBQSWIwX1ZjYkVGUjVzRTlzdUNyTDJ5T2F1SllhNzN5X1AzY2hzLWc1c3Y?oc=5",
+    "publisher": "Investing.com South Africa",
+    "published": "2026-11-24T17:17+00:00",
     "source": "Google News"
    },
    {
@@ -1459,10 +1459,17 @@
    },
    {
     "title": "Pizza franchisee files Chapter 11 bankruptcy, chain cut 381 units",
-    "url": "https://www.thestreet.com/restaurants/cicis-pizza-franchisee-mulhern-files-chapter-11-bankruptcy?.tsrc=rss",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZGJ4QW5NWXhXTGpLV3ctV2xxMnB4WENRVmhTTlExT1IyMEYxR29UTWV5NERrQ09JbVN4RS1YUnFiOEtlOGRYVUM1SnRULWF1TzVKdG1xM2hxeGE1V0hhNFNNYkdjRjFJd2xPbnNpaVV3V3VSSWhlaFFKWkoyczlOdG5kVFJoZXVKeG1oQ3k4dDZPR2V2U1RWOXFoTW1OU00?oc=5",
     "publisher": "Yahoo Finance",
     "published": "2026-11-22T18:17+00:00",
-    "source": "Yahoo Finance"
+    "source": "Google News"
+   },
+   {
+    "title": "A Little-Known Supplier Controls 85 Percent of the Pizza Cheese Market. The Secret to Its $3 Billion Empire Isn't the Product",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPOEd6MGluRkJkNjBrQ25XNno0V1BpY2t0dEVPWTVtVnRLUFZYcDRLQkdocnJ6MW9OODFmSnU5alJDajE1UG8zVC1aSjhZX3RzaWUtbHkycENBN0RWM29OSE1OYUpxSXRocTVoakxsSzc1NjhjZlQtMEZyZ0JDaE9iaUtRamdMYWVmWURhYXNmNXVRSTVnTWtpajN5NDhFamEwUk9YSndOdXNaTXA1NGx3Y3NmY1BZSmx2dnBxSFlnbmZVSjg?oc=5",
+    "publisher": "Inc.com",
+    "published": "2026-11-21T16:10+00:00",
+    "source": "Google News"
    },
    {
     "title": "Wills Group Names Lance Tucker Chief Financial Officer and Executive Vice President",
@@ -1472,6 +1479,20 @@
     "source": "Yahoo Finance"
    },
    {
+    "title": "Papa John's International (NASDAQ:PZZA) Stock Rating Lowered by Zacks Research",
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPbjcyUlQ4dkQ3bmdBejNLYjFwX3lRckJnWGNsTFdGUS1HUklPU2tQQnBHQ2NHNnMySGxQVVZBTnM3RlBQSXhzWGFwZG9Sb2dUVFJ5NzlDMlJhUXpfRWY1dC1UY19lTXotZ1daRDRxRjZ2dXVsWEJEUWpTbkdEeXR3N3dyeC1xY1k1Tklsenl0dElJVFo0NE5ROUxySkVCczlUTm81WXllYTd6cVpYbzBtdnF6M3Y5eEVpZVo4bi1JWEQyb3ZsZHg0SDE4RjYtSGpRb200?oc=5",
+    "publisher": "MarketBeat",
+    "published": "2026-11-19T13:40+00:00",
+    "source": "Google News"
+   },
+   {
+    "title": "Papa John's International, Inc. (PZZA) Stock Forecasts",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNbHZlTlhhOC1paElVdUNoOGc4bWJEVElwSk9IbGRTLVFDRTNyYTRMeEhOUUJvaXhuZUM2MS1iZ24tbV92bjRBb1REUGN6RUVXU2xVWEVnMVVYcVNpWE1tcjdGMmVNNFZ1Ri1NdV9RV1hKckJ4dWVfOVdnbDkxc25GQVlzNmRZUDVIQW05MVJaRQ?oc=5",
+    "publisher": "Yahoo Finance",
+    "published": "2026-11-18T19:42+00:00",
+    "source": "Google News"
+   },
+   {
     "title": "Why is Papa John's giving customers free pizza?",
     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNMFRZUnlmYlZkSFIzWHFRTnZmcC1lMnlibnZIalRsU0FyLTdoWUh5Yjl0b080ZHdWUFUweTJsY1VfSFFybEtseHMtM2hyeDFSTlFnQ3k4UUJNRTIxdEtQTExBWkN2MzI4YzNNUDB0NGNpWjlqdElkUzduSHNCNjBqN2JTckdDYWV4UGZpdnc0QW5BanhUamp3cjhrMWxRdE5ZWWlwRlVMVHg2STVvbWpFSllfaDRvc0FhMEZ6S1FvYk5xSHFLdlJYdlY2aWNXXzcyd2Jqc0dqN3BqSGh1VnAtLVVxYWVtUQ?oc=5",
     "publisher": "The Mary Sue",
@@ -1479,10 +1500,24 @@
     "source": "Google News"
    },
    {
-    "title": "Papa John’s wants you to take a picture of your pizza. The reason might surprise you",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQ1pJZFcyejRva3R0TmdPajkzQ0U5Yk90QVVJYm9uQlYtM213ZmZKS19BNFMyZTQ2Q1JhMVhrN0lfWDFiYmhtU29JTE52YkZEbHBaZW95eXQ2WjhJbjF5alhlem45QzFDT0VWY1c2bjdwdnV3YzdUd0U3anl4eXE5QmgzTW91SlNIV09DZXlYV01JLV93dHQ4b0RVYzdFZWpmdGswX0toZnNicHlyQ2NJS0FCR3ZWblVSeXlF?oc=5",
-    "publisher": "Fast Company",
-    "published": "2026-11-17T21:10+00:00",
+    "title": "The Best and Worst Pizza Chains, Ranked by PETA",
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBVMFM5Q2FkTjNiR19EUWpYZzZNQ0M0c1p2eDBONXBld2F5c2hPRDJRR2otWUpnMTRIdGhJTUFOMkJQWGlqcUVOTFlVczFKaUctLTdFcjhTQnpBRm1jSWc?oc=5",
+    "publisher": "People for the Ethical Treatment of Animals (PETA)",
+    "published": "2026-11-17T20:34+00:00",
+    "source": "Google News"
+   },
+   {
+    "title": "Papa John’s Will Shut Down 300 Locations: Here’s Why",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQzI1TlhHWTN0QTJVSGFOYVBTRWMtZmI1ZlJTR0ZmdXpKdmE5Umo5bTZNSldZekFVZDN0UW5tNkFsYVlWTVR4V0lpMExGb2pNb0NtdzdxWkRDTEt2anUxLTBwajQ4UmlEZUlhTTV1QVBLNVZ1RnltaHlUd04zekFPTkVsTzQ?oc=5",
+    "publisher": "Sporked",
+    "published": "2026-11-17T16:02+00:00",
+    "source": "Google News"
+   },
+   {
+    "title": "Papa John’s Uses AI to Check Pizza Quality From Customers’ Photos",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRVVZQW9PVDZpcFF5Q3RCd1BIYm9EY1hPNFNqWU8yNXNvM2J5LVVaMkVzTTUybmJkNDFNVFRLUVhfSHpmNmZ1X3k5THlvM0xicVJucDQ5Y3EtSTl2a2xNSnNBeHhLUGxOT2dQeGVycnBGbVV4UXVrZnFqTXduS1NNZ3MwcVdBak9nTElsTUl6Z3R5QkFzNC1ybQ?oc=5",
+    "publisher": "Technology Org",
+    "published": "2026-11-17T14:41+00:00",
     "source": "Google News"
    },
    {
@@ -1493,6 +1528,20 @@
     "source": "Google News"
    },
    {
+    "title": "Papa John’s Will Trade You a Free Pizza for a Photo. Its AI Is Grading the Slice.",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNOVFfSEFIVVhDWXRVZElsNDNoVTJRRy1vVEFQbldwUXNLeWQ0aFBtcndoSXRyUnh5OXo2al9neTMzZUlQUGJDZzU4bFZhT2dldmJJak03SEFDV1Utak82WmU3OGt1MFc4U2gtLXBYWktvbndwZ0JiU1hjT3dKZkR2VFdyRURtSGxHNUdER3VINW5mMnZ0NVBtemRfdXdMZUlEaWRVVDZFS2xOTEVTTTNabg?oc=5",
+    "publisher": "AIM Media House",
+    "published": "2026-11-17T10:46+00:00",
+    "source": "Google News"
+   },
+   {
+    "title": "Papa John’s Turns to AI to Fix Inconsistent Pizza Quality Using Customer Photos",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPV0FYUnBOZExCSmh1Z2ljX25zMmVhLS1SRzRLTS1UNW93N2trVm54R3RCLTBObzVwR2JlNER0eFJYbnc5dVhXVHVfWUNpYUE3RGVXSnVsWXFNZmJ1QWdwQlpmblFlZGptT1NucWlFV3RsOUk1Y2hwbW5fNWRnc3dnTF9XYk5nTlZCRGg3Tkp5a2U1cmpJU08zVHhWSmlLTmZWV21GVzlRbDVDQzFDVEl4cUdTV1FQQTdSTDgybmNtTEdzOUkzQWc?oc=5",
+    "publisher": "Tech Times",
+    "published": "2026-11-17T08:00+00:00",
+    "source": "Google News"
+   },
+   {
     "title": "Papa John’s Wants Photos of Your Pizza to Train Its AI, and It’ll Reward You With Free Pizza",
     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOS3N4NzFDSEllVUVVNno1dm9sYmxzY04wNmlLSFE0U1hwZzY3M3VWZjVrSzg5VGFlaFZqazNrZFZ6TnczUGtQSVFHSDJ2TWp3NHd4ZTNDeE51bmhINXNRMFdFUmlxdjIwSUZ4TENFem1IaFdlYmZwOTNHZFItVy1sZWltZXREcjJ4Z1VjVl91em55RXV1UDBv?oc=5",
     "publisher": "Yahoo Finance",
@@ -1500,70 +1549,42 @@
     "source": "Google News"
    },
    {
-    "title": "Papa John's is using AI to grade pizzas from customers' photos as it tries to fix uneven quality",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOeTFWU3o4MXRfekFyRFpxYXp4U0pzaC1tSHNyTHRBMld4NmZkTnFJN1V3Q2pmbkVQTWtGd1I1M2d2cVB0RkFQQy1HN29EV0lpaktNaUR3VEoxbWc4ZWJVWEdlMTZxUXZmYnA1dnRmVXVTdTdjQjNsMDlVM2kwQTlRV1EyallraXdGQ0J0RUdSRkF1NUFyS2ZKakc0eWZqSWVrWV84YlpOUm9rMEFiNzhqaTNaS05CQQ?oc=5",
-    "publisher": "MLQ.ai",
-    "published": "2026-11-16T16:04+00:00",
-    "source": "Google News"
-   },
-   {
-    "title": "Papa John’s looks beyond in-store cameras to monitor pizza standards (PZZA:NASDAQ)",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQY0xCZkdPVWhwbTNfcWN3UjdNR2d0NTNCYk5kWXZSbXN6Q29sdTMxbWgzdG5IVkQySDFkRnlwZnFCLV82VDUxbkcyRWFibnM5Q2htR2dnckJTdkpHT2tsWHNFQmxYME5uRGVwZzVNMHV2b2JJMEc5OXlVVEZZdm1qaUx2NGRCWnhDN0FpV25IR3dXel9KN25fQWlWdFlva3NSdEZRSHZQZFA?oc=5",
-    "publisher": "Seeking Alpha",
-    "published": "2026-11-16T15:20+00:00",
-    "source": "Google News"
-   },
-   {
-    "title": "Papa John's turns to AI to check pizzas from customers' photos",
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZDZ6bDUtUllZZ3NDMkZuWTlEYXpvdlM2dXVaN05Bal92WV9zR000cXpHQ0JueURPcG01OFZnUFdOYzNYMEFpbUl2ZlN4Z1RzaW9hZEx1MFJPQ042eGhMUWRWd0NfaThqbmtBT0lmdkg5T001d2JnNXY4TFRQR043aHpYYzBFS282TGNUYkhJc1dSWnlwcE9jTGRR?oc=5",
-    "publisher": "Reuters",
-    "published": "2026-11-16T08:00+00:00",
-    "source": "Google News"
-   },
-   {
-    "title": "Leaving feedback for Papa John's can earn you free pizza. Here's how",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRlZmbHZLLU40a3Blbk1vMlRWU0lIRmJOMnE1c0xlT21MS0IwWWd4RVNLc2pPczREbGVfRWtMNE1OcG9kWHhhVTBLRGRqNmFvMEczR281Yy1mc3BsTVQxV2JRM1lwdmNTOFVxLUlaX0FaZ1AtMmJILXlzZ1M0VnhaRFhyck9CN1djbTczMDYwSDFiVVlUMkVUS3Bmc0pzU2dVRlM4d2gtcXpBRF9FS2xvanByYUhiMWxv?oc=5",
-    "publisher": "USA Today",
-    "published": "2026-11-16T08:00+00:00",
-    "source": "Google News"
-   },
-   {
-    "title": "Here’s Why Papa John’s (PZZA) Ranks Among the Best Restaurant Stocks With the Highest Upside",
-    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQb3YyRXV5ZXYySF8xWGRHbjVXUEdGcmlzMlU3S05scXdLaktHeXRCUGI1RHFFdGpfeUY5a293ZE8wdkxfMi13NGFTVlhKSlE5LVJxRjZmQlF5VDJ5OU9PUmRsWENhaUdFTzFrSm5lZkNoYlgzc2dTVzFOY1pYMVJwVUd1VWV5VG8yQUJ3eEJqX1BadUU?oc=5",
+    "title": "Papa John’s wants you to take a picture of your pizza. The reason might surprise you",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOLXItaFRRaXB2c19WNHBocVN0ZnN6Rnp2RGg4c2dLTkxpazF3eVBpa1dndEhLb3NLbV9zUTVSOTR4SkUzV2FzRHBadU9ESnJhWi0zYm9ZcnEtbnlxeC1LeGJOWHlZQzk5MW5zTGttUWwweTFDUWpKSWdJQjZRdEM1ZzRON1BLUzZ2RFdwaGs5VXNSN1c4aXhRb3ZsWU5xZw?oc=5",
     "publisher": "Yahoo Finance",
-    "published": "2026-11-16T08:00+00:00",
+    "published": "2026-11-17T08:00+00:00",
     "source": "Google News"
    },
    {
-    "title": "Pizza chain returns to Lancaster with free pizzas for first 100 customers",
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVjZXUm9PLXBaY1JiazNpN3BrMVNmeDJ3Y05veDl4QTk0T3hFRkZkUzIzOXJpN0NXVVVBYkVJbGcwZHFtVGtYY2djZ05UVkFCQjExNEgxMkR4ckFKdWROUVFPWXk3V0U1OG1ybFNXcHhNZkZxN0ZfTG9tNjY2clUwRVA0UFNJUWtXcnJsNVdTSjgxQ29vSFB6WERGdmVaaGpu?oc=5",
-    "publisher": "Lancashire Telegraph",
-    "published": "2026-11-16T08:00+00:00",
-    "source": "Google News"
-   },
-   {
-    "title": "What Investors Overlooked Before Papa John's International Fell 51%",
-    "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNRmpHaHBlU1NtQ0NUTkhTbTVlZk5IVzZ6OV82RjgycDkzMnNKZUVJTnN4azFYenI4NVBjOGYxOEt6d0gweS0tLVZVQ0lNelhXOE1KaFBFTXdzZlR5MG5TZ1R1YmRpaV9qOVlGT3ZGYlk0U1BHa2pvTGc0TUM5Z2owQ1JWX2NhemdZc2gzOFl2aXpUSUM3WFFBTDF1UURGeW45dFA4VkNpbGh6THB5OG4weHJ2MmpFRkt1U2dJd2EycWxxTGVvcnVMUGpWQmVJRHMxVW9IVGFIeXNneU1hRkgwSktVUHBveU3SAewBQVVfeXFMT1BzeDNZRDc3dXptUFhSTG9Xb0ZkSDlFT3RhZmF6S1h3eHNrWnRpZUZreFY4V0d5UENHRlRzMTNLQUtSN1A1NnhrOFFUMF81SUpTN3NvRmZKbWo3WUdVOUpGTEtLSWFkcTRMb2pGUFpmZ0lhc0lyT2UxMXhoV3FsZC1oaUtsOEx2dlBra0I2OU9Nem40bDBBanpleTRNaEM3a29vUjhSelVEUE0xQ2xYNDIxMTJoR2loMHd3eTloT2dzQVhpZkhFNE9qWVVGaGllY19LT09KZGt6dXA2OFduY19jcndKMENtUjZEem4?oc=5",
-    "publisher": "Simply Wall St",
-    "published": "2026-11-13T18:24+00:00",
-    "source": "Google News"
-   },
-   {
-    "title": "Domino's Strong Order Trends vs. Weak Ticket Growth: What Lies Ahead?",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/dominos-strong-order-trends-vs-144800760.html?.tsrc=rss",
-    "publisher": "Yahoo Finance",
-    "published": "2026-11-13T14:48+00:00",
-    "source": "Yahoo Finance"
-   },
-   {
-    "title": "Papa John’s Franchisee Files for Bankruptcy in Pennsylvania",
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTmpNR1Rrei1nVXhhV09YZ3hqZkszTG1VMm82TU9OSWdRblJxS1FIeTVnTURCVlBWVUVZZEFGNl94RVp0OG9LTGZ1XzNKdHZXMl91SnhtQ1kta0djSDU5aXVpb3ZmdnFQZkpud3NHdHhqMGNkYml2VjZ5V0FLNUJHYjJaZkRjRk5KcWpBOS1Xd1FPQV9NVi1YdnRrdG5QTDF1dlJOSHQzNy1GWWhFQ1BB?oc=5",
-    "publisher": "Bloomberg",
-    "published": "2026-11-12T08:00+00:00",
+    "title": "Phone eats first at Papa John's with the \"Snap a Pizza, Get a free Pizza\" promotional offer.",
+    "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNUWx2U1V2WEk5OXhSTW12Tmpaa1g4SHk0cDVoQkdGVWhoUEdpUzA5QjVFcHBGVGVEZDRCRVZXMjg5QXR1Rm1RZGVOcVJKU0RISG1JVmJzQ2JZRzNwVTJUcHAyNmctdXdUZ241Qi1CZXdFNG45bnVoQllqSFhTTWZHcDlPYTdvMkdmSmgwWFdyM0pHUVFJUFRGT05aY29VeklzdkFYaUVlOU9HRTNONUNOTDd5N004Yk9XSHdNZEZhUEZVdzlfYnlKdFE2VlU5Y0UxRHNzTlltVHE2blZFalhzcDBoaWIwNWdCZ2ZaTE9KWTg0UWYyamprVmdkbw?oc=5",
+    "publisher": "The Lufkin Daily News",
+    "published": "2026-11-16T21:54+00:00",
     "source": "Google News"
    }
   ],
   "DNUT": [
+   {
+    "title": "Krispy Kreme debuts new Christmas doughnuts with Rudolph, Bumble and Sam the Snowman",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOV2N4ejVkTkFENjZXQWZzZWFBTUdlVUR4M21sWWNJNjFtT3ZwRFFYcTRpM2ZLTXVCc3FiRl91anRfR1ZNVkFLTjFnWEdGYmtFNkdFN2N1YktzbDdxQVh1M29meF9oZ21aSG55YjJGYkVzdUNmQjQwU3pfNm5VVHpjQ3Utb1g1b2x1azBrdUZSQzZwTk4zVTFYYXR6dDh4VXFYaTVtbVlNRXJJd9IBrwFBVV95cUxNdWE1VDFZSjNIek5wWTEyVTJtYW1KeGh3WkFfYVRVQkhLM29HdXd5Vzh6c2ZIOFhkaFVKVDhOZGVHUFVhTnNkSmhCTktBOTNkdGlDUEZsLWgwdWtZTWdXV1pDWTFQM2Y4OS1UaHVGbmlFM0FZQWE4M0NLTzZaRlZxcXBTRWdfdHlDMEZOay1RM3NLbnBDZDRCQUR4dGxFeXdXc2lRV2ZCMUxHWVFrem5z?oc=5",
+    "publisher": "ABC News - Breaking News, Latest News and Videos",
+    "published": "2026-11-25T21:43+00:00",
+    "source": "Google News"
+   },
+   {
+    "title": "Krispy Kreme: Hidden Quality Underneath Messy Balance Sheet, But Not Undervalued (DNUT)",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPM2pjN1JIaWRneGhZdXNrVGdfTm9QNWZhWWROaWNlT29sSVlZemhaOUstWlZzdGI3Rm5DY1QzeG52ajc5V3JOQmc1R0xnQXl0cjNQcnZ4WmtpMldUNnV2VkpjNlJMUmc4bnY0cEtUZjNDNGYtVXJPYkxQWnYtb2JqTkZvbFZKdm5hc1JoWWhJbHpzdDFySC1PSDFMTmRoOWVxNktyWFN6UU9JbkVOVlh3OHpRNnRNMFZsNklv?oc=5",
+    "publisher": "Seeking Alpha",
+    "published": "2026-11-25T20:00+00:00",
+    "source": "Google News"
+   },
+   {
+    "title": "Krispy Kreme Launches Rudolph Inspired Holiday Collection",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQV2ZmaGF1QlhUUkw3dndKSlZ5MGoteEViSExydlJkYmtZMW1CZVJuV00xcUN6X3dncDA2bGg1M2Rud19feTF0VmNfRGt3VmpvSkEtVGJEMXo5amMxZ1d1T3Y2WENaT2JzdllKeXJScmZJYW9hSXhMSVFFdGZEZndSS2xPc3ozalhUVUFvWm53Q3VKZk8t?oc=5",
+    "publisher": "WFXB",
+    "published": "2026-11-25T18:33+00:00",
+    "source": "Google News"
+   },
    {
     "title": "Krispy Kreme unveils Rudolph-inspired holiday doughnuts",
     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWlZBWGNudWdadG85cE51a2ZKZ1FxLTNGdUZqOUtPRTAtVWNVTmxoOF9sbGN6cnBqR3p2d2pzcnZ0YzI1dUVTUm9oMGxwei1XUDNzVVZNTElRXzBNckZjVGRwVktNRkoxY3hqU1VHNk5vWjVCRWxRYkFQRnRoVjAwNXpvTEpvSXJxdTZkR0hqNEZuMGVPalRyTW1B?oc=5",
@@ -1572,10 +1593,38 @@
     "source": "Google News"
    },
    {
-    "title": "Krispy Kreme's Thanksgiving doughnuts are here and there are 4 flavors to choose from",
-    "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxONHJpblhVNG5oMm9KYWx4SUJiYTFDN0RycHZLWlVXamZlN05zMVVjcjlsc1BvTmdQQlFEb1ZSNHRLT1ZSR0FtbmZHY3NhajdVTy1ZLXRoWG9ZdC1tVkR0dWljWjFoYUllRG8wTjdQUlhIZ2UyVUpYZTJHMXRHQU5GVUJDbElGN1EyV0stbHRhcVdaTG5WZ2FVbXR2a3ppRFNOZGpfMUh2MnRoS3RsR2tmREx1dWxoSWRYLVlXZ1dITUZfTDRGS3NrWTBTWmFDSDJIdWpMMjVFNDAyNVRZSHh2ZFFzYnlIMkRwczBMSS1Ld3VXQQ?oc=5",
-    "publisher": "LehighValleyLive.com",
+    "title": "You don’t have to bake a single thing this Thanksgiving thanks to Krispy Kreme’s new holiday doughnuts",
+    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPRjJWR2hSY2lvZ1hPSFNPVTBENmYzVEE5dkNnckpMUVlQZDBMd0EyYlRUUlBEczU0Vk9renRTXzBwNjYxWU9UZ2d0Z090YW83QmdUVlBSa1JTbWw0cUdybmtfZzZxU3JJWXlXUEUteWdTb25TelVzY3hHbWpBV0VSczFISnVHQlpCLUctVUtDM05zYlZXZmhVUzEtTG5IY0RhazJhME1oTmNfWWdZQ0VuY0R3bXlEamtrQkVFN045TkgzWVRuc2tPUFQ3cVgtbUtTRHdDSUduYjhIU1pp0gHwAUFVX3lxTE5mZHFVT0E2TVJfYmpQVUZUbUlfVU9xaFZxVEdqOU1fWUJHbDRtMUVvaGdGWGdRNENnakVpeUIwR0NiM2VYSVlRTkhHYllFZHg1R201LUIzMlpYMUpFZ3NqVUs0TWZUNkFvR0JkeG83aGxKOEV4eDAyR1E2R2tqR3RvMU5oR211RWRZeFNLSGFhNkpYbTVJU2VONWJleUh6c2s2MHd6T2dNTmdXQUdqV3kyX29acFlVd2o0M0pucjJMMzR5UnV2ZEVhMnRpLVpHSGtfaDd6MjA4LWozVmZPbzB2VThRdF9wbEpyMkM2eTBFUw?oc=5",
+    "publisher": "Cleveland.com",
     "published": "2026-11-25T10:00+00:00",
+    "source": "Google News"
+   },
+   {
+    "title": "Krispy Kreme Has A New Collaboration With A Nostalgic Holiday Character",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE51alhMMW9uRW9jZkhFYl9WRzFMX3ZfTGkxZ1JKSS1uMDctVE5MaGprT1VpQWhKdmVOQU9KcVVPcGI5bEFGblE2TjAzWkl2WXNaZlZyd1MxNlBtWlhabEt6QTlJZ0JpNkYzZDJiag?oc=5",
+    "publisher": "Sporked",
+    "published": "2026-11-25T00:42+00:00",
+    "source": "Google News"
+   },
+   {
+    "title": "Krispy Kreme Launches Rudolph Holiday Collection: What's Included and When Will It Be Available?",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOUUFfUVlWZndpRlFZeDRVRTJsMi1TUV9vcmVKQlF6eVNVTVNyV2JSYTBkUTlaMlBGYlBwMDlqSjJ2am9WNm9jT1lhTWtKQWhmbkQxR05YZklBV1JWbHp6SHQzWDZVTllGdDZHUkFkSzA1c0R1ek5LUURWTW1POUZMRm8ydVRjWXlrN3FyMzhyMnZwQV9yS3BmcUJaN2tCQ0pSajhEbXFQQUotN1NJMTk3YmtRR01MSU5aOFE?oc=5",
+    "publisher": "Revista Merca2.0",
+    "published": "2026-11-24T23:51+00:00",
+    "source": "Google News"
+   },
+   {
+    "title": "Civil rights attorney Ben Crump joins legal team for family of teen fatally shot by Henry County officer",
+    "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOUGp5bmFBTzlMQk1zY19jNjJocURibWhDRWpjdnUyMWhDOTNKc2h2LU5LVGI5OWNIdUtUODVxcUJ6WEh4cjJuQy0yQlRZVjB6U2k5MlBxeWI4dFhaQXdqY2Z4bG1nR0EybnU4ekpZZVl5Z2lCNG4wSUFBUXltTERWNWJwNEFNOEI1Y3I3endoQjlVUjdIUENIUG0zM2ZKSGYweDZpUEd4SmQ1NmU3OFM3T18xdUhlZHc1NzVic09sbDBzLXlNX3hTUUl3ZkNNWHJyV21YaGtEdl9tM3R5X2pFV09qYjh0MXpLRGJRNjhyY3NCUHR1akFBQkdGQ1RDc1E?oc=5",
+    "publisher": "11Alive.com",
+    "published": "2026-11-24T21:31+00:00",
+    "source": "Google News"
+   },
+   {
+    "title": "Krispy Kreme's Rudolph doughnuts are coming Nov. 28",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbTBWZW85ZnlpSHlWZmhfS29BYjB3eXpqOVNGalJUNG9yb1N6R1Eza1RYZC1wUVRJQzZaeVJwbFBRaDF1N1dnUGdxMTVpNWFMV3ozaWhPN214dlJsWFFQUWxFRkswUnRGYU43YnZraWVXaE01SHllN05VUkd1Njh2LVFaMDR2Y1hITWpPMEJ2TG8?oc=5",
+    "publisher": "Yahoo",
+    "published": "2026-11-24T20:39+00:00",
     "source": "Google News"
    },
    {
@@ -1593,10 +1642,24 @@
     "source": "Google News"
    },
    {
+    "title": "Krispy Kreme's Christmas Doughnuts Are Rudolph, Bumble and Sam the Snowman, From Nov. 28",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1aYzRWWVc5aFBqbzktVFpwemdEM0NNZURHN2tUeFY5aWYyUHBxYy1PR2JsR19PR09OclpoTkstMWJJOHNQM2gxN2ZwU2NHdXRGd3Fsa0VOa3puSG9SRXlRZW4xM0tpdVNzTHl6azhpZmNObHpDLWp2c0h3?oc=5",
+    "publisher": "Haunted Attraction Network",
+    "published": "2026-11-24T20:02+00:00",
+    "source": "Google News"
+   },
+   {
     "title": "Krispy Kreme Is Bringing Rudolph To Life With A Brand-New Christmas Doughnut Collection",
     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZUQ5VWZTUTAxU1liMmlOZDhpeEhGaUxhb0xMMW40ZGFtdmw0bmhiWDlBYlZzVzhNSk9LMW41MzlsYzBrSlpfRHFjXzEzb0xNeGNVTHZkR3B3bnRUdXNrbWh5RG5peTZmOUV2aVNuTjAyNVQwdTBjQWNXM3c5Ync0MlgyYkRlVEZMN05zSWVIQ00yUGx0WFVUMDZBVUNQUQ?oc=5",
     "publisher": "Delish",
     "published": "2026-11-24T18:35+00:00",
+    "source": "Google News"
+   },
+   {
+    "title": "Krispy Kreme",
+    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQVVpUei1pSFRQT3FxYXlNVV84UFN1TlhYOEluVnZDSHRLTjZKd2hJWjJ5bjBtY2VBUFFKaG1NOFM1bFlLaWJKalJtWUhERmZDRTdlNTN6VDl4R1JwZm1UQUNycU5mQUJ1eG5YMkp2UlZRbjZnYjRnQVN5Q2pTRkN3TDd3bzFVZXJzcGdSZ014LXZBVjZLbWRwTGxuMjNPRWpiZkl1aHpjbW5XVFhhaUI4WGFlcE5CQVNWNU92cGcycEFhUTF6U0tmZWlGNFJHd2RQM3hiVEd4X1Z0M3Z0V2pQY05R?oc=5",
+    "publisher": "RestaurantNews.com",
+    "published": "2026-11-24T17:30+00:00",
     "source": "Google News"
    },
    {
@@ -1621,87 +1684,24 @@
     "source": "Google News"
    },
    {
+    "title": "Krispy Kreme's New Christmas Doughnuts Celebrate 'Rudolph The Red-Nosed Reindeer'",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVmlQVnFOUTYyZzA3THhLMmk4WW5ZLUJUMHJYYnJrV3pLSWp1YXBIUXN0dXBTeEE5SzJkWWJqNDZ5dzlTLTVNMUFERklGc1VJMXRKS1VvOGZsZDdubnNTWGRlR0dSVVdCMXdRY3hPTzA1aEpwUW5kd0ZoSDkzWWozYVlIS2ZNaVZwREVENW5vaV9lNE5rMWc?oc=5",
+    "publisher": "DailyVoice.com",
+    "published": "2026-11-24T14:59+00:00",
+    "source": "Google News"
+   },
+   {
+    "title": "Krispy Kreme is launching a 'Rudolph the Red-Nosed Reindeer' doughnut collection",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNTnh1ZWs4aFAtX19qNXB1eTZyMHVDTG1qYUZsTFB4WS1XbW5jNjQyTjlzUmxxQ0JqSWUxUVpzSEZEdXFqN3lQSl9ENnpqWElKQ0tYZ040QlJhQ2tMcmpya1I5R085ekc4eS12WjhCZVRjX0NRZW41ampyR2tsa3kxSzRyZWtYdw?oc=5",
+    "publisher": "qz.com",
+    "published": "2026-11-24T13:26+00:00",
+    "source": "Google News"
+   },
+   {
     "title": "Rudolph the Red-Nosed Reindeer gets his own Krispy Kreme doughnut collection",
     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcE1uYTNkWkRoWGdyWVR2ZnFmRk1vV2szMGNmREhueHo4ekpXcFNpTlhLVXhfM0pWNGU3RGNFY2llOVdxanFCZ3pqQnUxNy1MMmFYTXUzV1ZtWFZCNEM2UTJYT09oVUU3RFlGVjVpYVBDUHdLbDJRQ1R2NVRUekNGbHdhUUFVX05Ob1pLaGg5czBuMGZwUEFsSlE4Q1JtVkZPcUEyZXk3XzNsaDZCc2c?oc=5",
     "publisher": "Attractions Magazine",
     "published": "2026-11-24T13:08+00:00",
-    "source": "Google News"
-   },
-   {
-    "title": "Rudolph the Red-Nosed Reindeer® Leads the Way with KRISPY KREME® This Holiday Season",
-    "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPZXV1Y1ZKbEh4Mm1DMzZVRWtVYmh1REZ0UHg2aks4Wnp0bTkwMTlQLXlwU3BaQ0Jhek5KS0RMOV9FU3RETGM1YnVyUl9JQURscWw2Z28tUDNfMlBuTldRODhTaDQ2emV4cm1tTzRUU2xERUM0M254U3RiWGNxbDRHeDhFU2ZrR2VrenAzNDZkaDNEWkJQNlc5eEwzY21SOWs2TXZpeFhyTlNkNXo5TGp2NWpnS0htdjgwVjB5bjFnMHlDWFlGa093Nm5MUDVNYlFDbVVqZUZlZ2t6U0JkT2Y4cnh0RzVTckxTcEJ5QlowRGx4bkFTSFFzVXdIb2t5dE5wVkZSU3lMWQ?oc=5",
-    "publisher": "Rutland Herald",
-    "published": "2026-11-24T11:00+00:00",
-    "source": "Google News"
-   },
-   {
-    "title": "Krispy Kreme: An Asset-Light Recipe With A Catch (NASDAQ:DNUT)",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVW8tcksxNkNoeXJOYVJGQUZScGpqa2d3WndJSnhSRVlodWVXX2duOXdVSXJCSTBRYTRRVGNaOUtibk83SHYxVlN4c3Q4MHBhSThKZXhKcThvOFNEZFdhLWljODM5ekl3M3RXcmw3eHF3eWhCMkoxeXJUN3NWdlRLY0hZLTV5cERnWEUxLVEyS0NLUUFiNkJVSjlBeGxmTUp6Q0t1ckpEYXM?oc=5",
-    "publisher": "Seeking Alpha",
-    "published": "2026-11-24T05:04+00:00",
-    "source": "Google News"
-   },
-   {
-    "title": "Krispy Kreme’s New Holiday Doughnuts Are A Sweet Tribute To 1 Of The Most Beloved Christmas Movies Of All Time",
-    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOVDVLNWVXSWc5TEM1RUNqQzF4Q3dudFR2YV9NY3BrVVE0bzc3a2pfRk1pemFHSVhoZE0zYlRydkh0UnF1cXhVV1EyeTZhbVRxOEVJV0lEMi1QLVY4NURTZmk3aFdFb0FQbTFsbkZJdk0xaEFfcHZiVEREU3VfQS02LWF5bkNWZDhVYzVNVA?oc=5",
-    "publisher": "Southern Living",
-    "published": "2026-11-24T05:02+00:00",
-    "source": "Google News"
-   },
-   {
-    "title": "Krispy Kreme Is Teaming up With a Beloved 62-Year-Old Brand for 3 New Holiday Doughnuts",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZzB1Rm9Sbnd5ZmxCTFlGSXFZLXc5ZVI5SDU3Z2hYUlJOMlcxemFRaEZDd0pJUHNGUnVLc1RfcXp3UUFCRm1jZE5namUtcmlTblBGWVpTc05YUkZqV1d3UVM5eE1kbEpLamtYZ2RzZnlMZ3VnVzVrOTlqWk9DLW9MLU1NSThpY0J6?oc=5",
-    "publisher": "Allrecipes",
-    "published": "2026-11-24T05:01+00:00",
-    "source": "Google News"
-   },
-   {
-    "title": "'Rudolph the Red-Nosed Reindeer' inspires new Krispy Kreme doughnuts",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUzd6T0dZMWNNMTJaTU10d09EUjllR3hINlRYVlNpcDhkdmxnVWNHNVZQaW9fNmhDV3lQbG45dE1fbzhmbXdLR0tQc3ZwR2I4dWlOQWxBcTJRZjB1Rnp2SDVab3Jheldwcm9zRndwNVo1anBNcVB2Qy13TndackhZQUlyb3loSkczaGN0alZVQkJFaGRhLUN1NXIxU0lfUl9WZG1XRGltSE9DeHJYdlVIbHJWQ19fZUNTNUlz?oc=5",
-    "publisher": "USA Today",
-    "published": "2026-11-24T05:01+00:00",
-    "source": "Google News"
-   },
-   {
-    "title": "Krispy Kreme Is Bringing ‘Rudolph the Red-Nosed Reindeer’ to Life With 3 New Holiday Doughnuts",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRl85eGhBME1mdkV2MjRNTTV4RU41Y3M2U3BMM2ZVaHNPUm4xVmxGeGczSUJORmJOTFZRQ0xjNGNaOTZkaHFuS19GSy1ySmxORVdLZFhiYXhzT0g3LUJnMlM2TjB5WnFZc0E2NUZENGVUMTEtLXhtVWtFVC1jdDZlX1IycXNlZmQyN0xGdmNVV1RITUNpQ3Uyc2Z4eEhXanJhNjNreDAtR0V6UlM4RUhhR2VHOWZUekE?oc=5",
-    "publisher": "Parade Magazine",
-    "published": "2026-11-24T05:01+00:00",
-    "source": "Google News"
-   },
-   {
-    "title": "Krispy Kreme is giving away free Thanksgiving doughnuts today — how to claim yours",
-    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNaW1XSjRTVW1tRUxSQUJ4RnhXRGtBbTk5STlnVzJRSXFhazctMDZfSlZnTlpibWhVZVpJU09raXlvMmROU1REZmppWE5BMDM1cUFFU0FvVzhmSGFVY1JHUVdrNlp5NGpleHJHWENVYU4yQnVSVGV6dkJFRFVXaXZKUU9SSW5sUQ?oc=5",
-    "publisher": "Mashable",
-    "published": "2026-11-23T10:21+00:00",
-    "source": "Google News"
-   },
-   {
-    "title": "Krispy Kreme Japan has a new Year of the Ram donut and one more lucky New Year’s treat",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZkRRZzNjZ1JWNkNaNnlpd0ZpSnNyMXctUG9nRXhIQ2xCVklaNUtjZllBUmJEWWt1TG5teVdSV0ZGYkxJVzliLWkzWFJ5aGR5azZtemVJYjNyYVUtaFhaem5aSGoxUWw4czdhZGJXOHlSdktFc28zS29fZzl1R3pNNURQVDlkZGJYN004b2ktQ2ZhVGxiMXZtUk5TNnh2SE5xTUJzU2F1TnFmb1lSSUxEMDU5WmY4aHZ0N1FWVdIBwgFBVV95cUxOYk5Kbk1vVnhMc0VtbUVBZkRRaWY2V0I0QW9GSzRhNzB1aEJNbDJUejVSZHhTTDdVeGlDZURkV2FDaGRoclEyWDJIVHNoZkFKaGNURUM2YkdhV3NrbEFJeXZRRUNsZzZDNGRZMEtQRVd5SlJJOFVfZVlVdTM3WG10V3FSVDc4V0tSeWhaQnl3MFFBWGJldjFHNENraEE4c2dGa2xTVjhBQmx3bDg2RDFaUGw4bmEwZ2hFVlV1SXU1eHlvdw?oc=5",
-    "publisher": "SoraNews24",
-    "published": "2026-11-23T01:00+00:00",
-    "source": "Google News"
-   },
-   {
-    "title": "Talking Mz E's Heart Of Home's Krispy Kreme Digital Dozens Fundraiser",
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbHNGcWxxRW5mczIxWXVrM0hMMUNOUUJMRHhhT0lGaU5kbVRQamI5YmttdTh0TjlGeEY3enVCdnNkT0FTcmlpd0xKQUN0MlZnRnZlZEdBYWJGZFlHclZfZVctM1RKYW5teTRXWkthOFQ4dWR6V3k3blhvTzhFVDNzNjQ4YkxKTFh4OUYyT2g1Yjc4YlA5eENNLXkyNEMyejlwT3lPS1ZB?oc=5",
-    "publisher": "WTVY",
-    "published": "2026-11-20T20:34+00:00",
-    "source": "Google News"
-   },
-   {
-    "title": "Attorneys question police account of Georgia teen's fatal shooting; family seeks bodycam video",
-    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQUzJzQ2Z2WHd4N2c0WUNSSWtlZ1RCbzlQaExfNXVhNjBDZU9mMWZzN21OaEN3Z1oxajkzakVqVThFZDQwYVo1SzExaG1aVllUVzJfODN0VkpzUi1UWVJjOFJISkl4M2dQX1JieHV0TzY0MW01NWhGRGFELTEtdWxReEVpTzRYdTJPVWlOemRWLU14Q0VlY1pFdWlILUJQVzNfNWlZcExzaC0wSko5d3BaVjRRRVNmNjV6RG5QRlJyY1A2cUc1TzZ3UEhB?oc=5",
-    "publisher": "CBS News",
-    "published": "2026-11-19T20:02+00:00",
-    "source": "Google News"
-   },
-   {
-    "title": "Attorneys: Evidence shows teen was shot in the back of the head by a Henry County officer",
-    "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPck9YanhINTlUOU95anJqS2FCQkVVYnF1UlR4UWxtV19CY3AzRlpVNWh0VVg5RkttR3FNQjl6Tk5MVWNrUUlselZac2hwRnRQNDlqdEgxblVMMy1uTnZITGVMaEIwNDFxbmFXSHhocFM3RnFVM1ZYV2RmcHRlZkxiMVNKUGYzQmxBUUp5TncyUk9iOGxxR0djNjhRemNPUDM2WldtQm9XaVFhV1ZwOUNZN3ZtelNrbUxPOXlNOHB4d0pLSldGQS1NWENrLThVQnFqU2JhU093b2RyRUhIRmswaG9oVkwxRTNxalFiejV1WnRadnlFMHFZSg?oc=5",
-    "publisher": "11Alive.com",
-    "published": "2026-11-19T19:20+00:00",
     "source": "Google News"
    }
   ],
@@ -1714,6 +1714,13 @@
     "source": "Google News"
    },
    {
+    "title": "The Fast Food Restaurants Open On Thanksgiving 2026",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOYzkycFhIX05RMzB3Q3hLdE9IQWgwTjNwanRWUWRuWnRyN3oweHZfX2ItXzBQU21SR0RuSlNGVS1iaTBMUWFXZTBPU1RWYTVTLUFlVk1iWVR2LTJTTExSaHNjY3dtNktZbkl4N25naTVWcEw5a3NreEJGTlZVOVpEcWtB?oc=5",
+    "publisher": "Mashed",
+    "published": "2026-11-25T12:15+00:00",
+    "source": "Google News"
+   },
+   {
     "title": "Jack In The Box (NASDAQ:JACK) Shares Cross Above 200-Day Moving Average - What's Next?",
     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNVHRmTVRTYThoV2ZlOEIzMEtsVi1lLVdLOGp0cy1qcnFSMzFpbnV0VmViSU9oS3lEUl9oa1pkNUQwVlhxMkpqRzM4VEd3cnFLRGRGVzB4ajBRWXd1cGZKeDVOOTJDXzZ4Z01FbEZYX0pJaXllVHc0dGdaM3hyYW82dUdVNk5QMVFhTmlYWWJBWUYyYnd4cEhtYW1TSVBfcDEyMEVoSDE5SEZLWE4xY1V6OHBQY1lTSVpzbHFCZENJUmpza1J2Zlc2bEZxaXVBaldmSXptaWlnbw?oc=5",
     "publisher": "MarketBeat",
@@ -1721,8 +1728,15 @@
     "source": "Google News"
    },
    {
+    "title": "PERFECT TEN",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9Md2FtTUt5RG5XWDFxeElHT2s1dXgxMmZGTUw2TkJjMzFUOEgzeHFHVXA1bGJzTGVtbXk1bWJQdUtEOXFxSVRIbUt6VGVfWDRmOWhKcV93?oc=5",
+    "publisher": "Herald.co.zw",
+    "published": "2026-11-24T22:01+00:00",
+    "source": "Google News"
+   },
+   {
     "title": "Jack In The Box Operator Says Colo. Co. Flubbed Job Listings",
-    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBGazBFOXh0eFpDUDlGbnJxYnFReGhFNlg1VmdfLWViRnVtZldyd2h5LXgtcU14NkJWMlU5NmdRQVlLSExWamhRWEhQZTFiWGxOc3ZiUFNB0gFWQVVfeXFMUEZrMEU5eHR4WkNQOUZucnFicVF4aEU2WDVWZ18tZWJGdW1mV3J3aHkteC1xTXg2QlYyVTk2Z1FBWUtITFZqaFFYSFBlMWJYbE5zdmJQU0E?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOS3FORnpoRktuajE3ODlHcTJiYTBxS1Nqa3RuRXdvZ1puVGtSdDBnUDkxTGhYbnhHQXJiVE91Y1B3aWR1aU9RazFlR2VuVW1tSmwtX3k1WTlyV2k2T19jeWNkMEN4MkFRall3cmR5VWl0Y1JtbGVJWkRuVHdoTzd0SlVwaWRmX1Z6bTNJZmo0UlZWeUpQLUdzdHlVUWYwUUZLZ3VVcWdXY25MQnNfNmhYU1dleFRiS0Q3WUJV0gFyQVVfeXFMTmJfZUdRdWNiTFVHVEpxTmU2M0thakd6SkVad1pxRE92eGZpc0w0XzJqclN4RWNud21SNjdVX0Zzd1RUTXhwbTUxbkY3R3ZiRTRvMkY2UU9aMTA3c2p0ZzB0Nldka0NlS3ZPbndmSFYxeVNB?oc=5",
     "publisher": "Law360",
     "published": "2026-11-24T01:19+00:00",
     "source": "Google News"
@@ -1749,24 +1763,17 @@
     "source": "Yahoo Finance"
    },
    {
-    "title": "This Southern Chicken Chain Delivered One Of The Best Fish Sandwiches Of 2026",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORjdqQ0Q2dW9jS3JSdU9tUl82Yng4aENlbzFUSzFyLW9KX3h2ZHJ2MzlremFzWXJjSDU0ZEFjNlJidG9YUWZoY2NET21BYWZZaUtRZ1pXblhWVTZQRjdZUmpabWlKQXlRQmoybzFqbUQxNFlFZE9UNmtRWlZMekI0TUdMR3drUUktUmtiVGhuVmYwYWp4QW5CUUk4NHdwQmJER3ZieTl2Yy1Vdw?oc=5",
-    "publisher": "Mashed",
-    "published": "2026-11-23T17:03+00:00",
+    "title": "Nursery confirms permanent closure after 18 years",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOYTM5dEJlQWZWVXBhNkhBeGtlcGFZVTM2NmQ0VDdNbng4THVkcXVLNHE5ejRaYVpLLUtQOWp1cE95TGJqS2hvRHFfcGhVWExmX01TeU5MdnhKWjFkWDN2WWlUXy1kdWZyQ0JfT0x5ZEpQODdzUFJwbnBRWTN5M3BQcHNNNWNtRnZjU01nTVJXT0F3bjhHRWVKSm0xQUhqQ0k?oc=5",
+    "publisher": "Watford Observer",
+    "published": "2026-11-23T16:43+00:00",
     "source": "Google News"
    },
    {
     "title": "REVIEW: Birmingham Royal Ballet: The Nutcracker",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPcFlPQlBMMFpxNHA5T01fQXgzSS02ZDRTTU40TVJOR0I4eTFhcTI3a2FuN3RrdG5wdV83Rk5TZlM4ZC02eU5TN0NuekNib2w5Y3Vwc3Z3OEE2T05vUFRONFBhdGpxTndkcXZ3S0VYNHV1OXJEbHNybUJZZkloWU5wc2NhREEyWlQ0R1dEN3NRNGt1RlZld3VsWkhNR2VDbWPSAZ8BQVVfeXFMT3BZT0JQTDBacTRwOU9NX0F4M0ktNmQ0U01ONE1STkdCOHkxYXEyN2thbjd0a3RucHVfN0ZOU2ZTOGQtNnlOUzdDbnpDYm9sOWN1cHN2dzhBNk9Ob1BUTjRQYXRqcU53ZHF2d0tFWDR1dTlyRGxzcm1CWWZJaFlOcHNjYURBMlpUNEdXRDdzUTRrdUZWZXd1bFpITUdlQ21j?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWWVEMWgwWWtIX3U0OVFFNEZGemxwNUcxMDhWcXFwdmdsekc4bEdheHdCTnN0aFdSZzlOWG9xYlg3WTJLU3FtLXNuVWxmWjl3SWJuRTlhUFZBT1psUGt0TnFzWkoyM21mUGFvR3MwM1NIZTRxZGJ6VEhSWHVBSnVaeGF4T3IxcDFCakNzWl94M1JCTm96OEJF0gGXAUFVX3lxTE5ZZUQxaDBZa0hfdTQ5UUU0RkZ6bHA1RzEwOFZxcXB2Z2x6RzhsR2F4d0JOc3RoV1JnOU5Yb3FiWDdZMktTcW0tc25VbGZaOXdJYm5FOWFQVkFPWmxQa3ROcXNaSjIzbWZQYW9HczAzU0hlNHFkYnpUSFJYdUFKdVp4YXhPcjFwMUJqQ3NaX3gzUkJOb3o4QkU?oc=5",
     "publisher": "A Young(ish) Perspective",
     "published": "2026-11-23T11:18+00:00",
-    "source": "Google News"
-   },
-   {
-    "title": "Weekly Recap: CFO Transition and CEO Succession",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSXQzZ3ZqUC1HdVhoSnI5OWNmdl9aS3ZnTmljVmZrb2NWS29MTUhreEx6clhpOGRUVUs5RU54SmxlMmFKbWI2d0FoTllab3ZKeDRfZTdybWhPV2lYMWJNNWVhU3BnWlFNWTVCbnZpYTQtb3d1VTlVVDczNWdXcTFnY0NqcDRiMmtNQ0NVOGthdjNaaXdybG5mZlRmYnhVLVkzQWU0VE1VTVI5U3It?oc=5",
-    "publisher": "TradingView",
-    "published": "2026-11-23T11:00+00:00",
     "source": "Google News"
    },
    {
@@ -1774,13 +1781,6 @@
     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNaFpHTHg1bXJpdEJETXY1dXczQWswLVpSX2dnZUk2NEZ1dmdURncwRGh2SmhWRmE5aUdxZk5SNnFfTEk3OUVnS0x6U09GeXVkLTduZFpkWU9QZjZHbWZObmRwSWZ6M3ZUT3dWV2lXWHo1QlBFdi1FQnNwMkRCV2F2TDFEcTdYQ1lTeXBKRExoU3RSX2hlZF9iTG1sdk1ZbGVlQy1BclkxZ1lJOVFoSEN5YmNjUWtWZlBqUEwtOHNlalZjRDdaa2lmWnp3?oc=5",
     "publisher": "Food Safety News",
     "published": "2026-11-23T05:09+00:00",
-    "source": "Google News"
-   },
-   {
-    "title": "The Idle American: Jack beyond the box",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTGJ4eFhULW9oRnlSb3o3RjBKY1UtY0xmU3Q2eE45WFZBTGpUdnVFRGFtRU1CcWViZ2ZKaGlQQWJUWHcyUXJDbmdDckt0YUUtM1ZaWWRVSF9LZ1o0cXYxQjhBMGZYSmtoQ0g5blREOVZjWjktLW91R2tkd3B6Vzk0UFJQUXY?oc=5",
-    "publisher": "Mansfield Record",
-    "published": "2026-11-22T20:24+00:00",
     "source": "Google News"
    },
    {
@@ -1798,38 +1798,10 @@
     "source": "Google News"
    },
    {
-    "title": "Jack in the Box Assembles a Doomsday Dipping Box for ‘Avengers: Doomsday’, Complete With Mutant Marinara and Collectible Magnets",
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1zZ3QzRzZ5MVg2X0dxVHZoclpiaWFPV3pxbXNlMzdzRUdHZkJ5RWIxSFhWRkt3NGxaNWtqdUNoeHFra2hBM19POVJxWG9vX01PUkE?oc=5",
-    "publisher": "IMDb",
-    "published": "2026-11-21T15:55+00:00",
-    "source": "Google News"
-   },
-   {
-    "title": "Jack In The Box Inc (JBX.SG) Seasonal Returns Chart - Yahoo Finance",
-    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0zSlFPVzBuTnQtN2RFQldHaWJRR2lTbG1LQUYyOHhia0V4eVJOdTFEUW9yYXFJckhBeFphZTFiNkxPMk85WEhIcmVsdlVEUFR3aGVYd1p1cXBjLS1yeDU2UWFvOGg?oc=5",
-    "publisher": "Yahoo! Finance Canada",
-    "published": "2026-11-20T20:56+00:00",
-    "source": "Google News"
-   },
-   {
-    "title": "Madcap Puppets Presents: The Velveteen Rabbit",
-    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZVFJTWtsVnBvN21mQUxsQ0RvbHh4a2cyU21jb1kxTmE2TFNucmRyM0dteTh3Qk44V0VKdExOOXBfU1l6eGNRd2lTLWsxRFVMdURRWHp6SF9xVDZQem5aeGxWeUFZTzkzajFRNGZpTk9USVRiT043RnFaaXpVbE9zTE5KYmRjUGVHOG5JUzVOWHZOMVpCdVhhbkozeUNDbWhKN3MtQ1FRRkRkNF9uSm03OWxPWFBHWnFqUDlNU2ZuQTl5dw?oc=5",
-    "publisher": "Cincinnati Enquirer",
-    "published": "2026-11-20T19:28+00:00",
-    "source": "Google News"
-   },
-   {
     "title": "U.S. election response must temper expectations",
     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNOTVSVkp1MHdmY2pWVTJHeml6LUpWU2FoSFprX3d5RS1qeDVkd3g2S0FQSllDajIzWTFuX0cweUc0MER3ZHlLS3VQOW85U0M5VHduSjBwUWNPQzllcnVMOU94Y2o4QTIwcUFZZmtGblRLOXdza2NrM3RHQ0tyN05iamRxUkRneVU?oc=5",
     "publisher": "The Western Producer",
     "published": "2026-11-20T17:39+00:00",
-    "source": "Google News"
-   },
-   {
-    "title": "Five years makes a world of difference at Bread in the Box",
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNX3pxX05WUWRIOExNOHVIUUp4RXRzaUxTcWd5Qm5iWm4xUmxnY0lmZkQ0dnNVR29oN0tjSVlGQXIwUVJrZGtxLU80VzVEcUozbVl6enVWdUNiZW4wQmpKSUFneHpNT0dXbkVEQXhFcXZCVVVOeTRNR1FSOXc5RlV4emowNXN6NUswSmxsTndrTGQ1SVIzR0Y4SmttNXQyZw?oc=5",
-    "publisher": "Bake Magazine",
-    "published": "2026-11-20T14:36+00:00",
     "source": "Google News"
    },
    {
@@ -1844,6 +1816,34 @@
     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQdTZ5bDNWWXV6Wm5iLTZqWkhLZ29PNGJrV1Z6YnVlTzEtTVRxeDNMWXpTQkEtajJjR016bnJ6WXRXR2xFclhfazZWRHpEd3pCVFBSYXFGOTFMVlNXR2l2V2Ztb2l6Uk9URVdCbHhQc09KSmxXaGVVc0RQMXJyQkFpelRHS3JCRDN6aGJFTHRFalpOU0hfZjZuVFBzM2lTMGdsVUI3aGlQcWRoSThtREVYVG1aYnBaZnAySndyaWxURmRicUxUWWIwcXN6SktNRDJY?oc=5",
     "publisher": "citybiz",
     "published": "2026-11-19T20:21+00:00",
+    "source": "Google News"
+   },
+   {
+    "title": "'RHOC' Lynne Curtin's Daughter Alexa's Mug Shot Released After Drug Bust",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBWaDluMmFEWFFHWjBtTGM0Z244TDJYbkVIME5UaFQxemRnSl82bHFLV2F3c295ZEFkSk5sTE4yU3NFTjAtaDlpN2FNcVVtSThkSUFUY0RUZ2lBZ3ZMM296a2F1V05wOTB3dmtVN19kd2RKLUF6Zjlv?oc=5",
+    "publisher": "TMZ",
+    "published": "2026-11-19T19:10+00:00",
+    "source": "Google News"
+   },
+   {
+    "title": "Wills Group Names Lance Tucker Chief Financial Officer and Executive Vice President",
+    "url": "https://finance.yahoo.com/small-business/articles/wills-group-names-lance-tucker-143000721.html?.tsrc=rss",
+    "publisher": "Yahoo Finance",
+    "published": "2026-11-19T14:30+00:00",
+    "source": "Yahoo Finance"
+   },
+   {
+    "title": "Del Taco and Marinela® ‘Shake’ Up The Menu With Creamy Gansito® Snack Cake Creation",
+    "url": "https://finance.yahoo.com/media-advertising/articles/del-taco-marinela-shake-menu-130000389.html?.tsrc=rss",
+    "publisher": "Yahoo Finance",
+    "published": "2026-11-19T13:00+00:00",
+    "source": "Yahoo Finance"
+   },
+   {
+    "title": "Fast Food Restaurants Open On Thanksgiving 2026",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOV25qVDVJQXFiSTJEYTk0TVl6SWQyNlIta3JNWGxvbVFvLVNVOTFERDFfSWlHT0FSM3NvQ0t5SW5pV0RybTJiRDNmb0d0NHVSUFphSjNlR054dUxWRnpNbGxiQ2hYa1ExS3UyMFdDeTdvWGZ4cWZhd0RzaFdLRkVjQ1lNeGNzd0gzQWJJM2lB?oc=5",
+    "publisher": "Tasting Table",
+    "published": "2026-11-19T12:25+00:00",
     "source": "Google News"
    }
   ],
@@ -1878,17 +1878,17 @@
    },
    {
     "title": "Starbucks explores sale in Japan, its fourth-largest market",
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQ0UzN29NSUFzQUpxaE9jYWM3RDdmMGVxM2w3dV85T0pSdW51QktpRzVtM21jVUE4bUlGd1hoSWZjTnRYYjdNNTVDWjUxM3JnVUc2S29rUWw5Mm9zbkNXU1FDRE1rb2oxV0xPUW42alQtOFRMUzhrX3VNTm1zMmdHMmt3RFBTM3IxMEVmUHZOeThwNEVKVmxJcERlVXMxWkVTR3Nj?oc=5",
+    "url": "https://www.proactiveinvestors.com/companies/news/1102459/starbucks-explores-sale-in-japan-its-fourth-largest-market-1102459.html?.tsrc=rss",
     "publisher": "Yahoo Finance",
     "published": "2026-11-25T17:48+00:00",
-    "source": "Google News"
+    "source": "Yahoo Finance"
    },
    {
     "title": "Starbucks Weighs Major Shake-Up of 2,000-Store Empire",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZXUzS3hEbjY3STRvZHpuRHRCbWp1X1A1TzdPbjFDRzVzb1h2OWJnR0hIRUFmVnRBZUtpaWRzUjczQ2kyT1RKRTR6MXFKSGlxbXBRZWdyOXpfOFNBeFRCTmt6M21TX1ZmUzNKc1BkY0thUDBkaXg4SDdvLVI2a3hGUFR1TEtMc21tbV9vdGwxVFRSNHNuWkFFckNVTnpPWnZjTkdoLXRLQUN5aTZyUlNvd1kzQQ?oc=5",
-    "publisher": "TradingView",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/starbucks-weighs-major-shake-2-160108496.html?.tsrc=rss",
+    "publisher": "Yahoo Finance",
     "published": "2026-11-25T16:01+00:00",
-    "source": "Google News"
+    "source": "Yahoo Finance"
    },
    {
     "title": "My kids love Starbucks & Swiss Miss but I impulse-bought this European-style cocoa machine",
@@ -1899,10 +1899,10 @@
    },
    {
     "title": "Starbucks Weighs $3.1 Billion Sale of Japan Business",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTGFVbExDa1VFNGp0V3piOFlLbmpoZmZycUgyX19vUnJKbU1TZXRmb2g2cGNIODNLclpLZ2x5VkRDb2RhX2ZiYlZoSUwwaVFkbkhyZktweFl6ZFpSNnB5ZWlsS1VLZVRPWElaU0xrTVJ2UWhoZ3BoVjUzWkRSV1MxdHZaVnRpaFp1WjFXNHd4aUM1REU2WFA5R2NIbEVxd0ZQdTJNd2d3VkhBSzE0YXFrUg?oc=5",
-    "publisher": "TradingView",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/starbucks-weighs-3-1-billion-130029316.html?.tsrc=rss",
+    "publisher": "Yahoo Finance",
     "published": "2026-11-25T13:00+00:00",
-    "source": "Google News"
+    "source": "Yahoo Finance"
    },
    {
     "title": "Starbucks taps banks to explore sale of Japan business",
@@ -1947,6 +1947,13 @@
     "source": "Google News"
    },
    {
+    "title": "Starbucks just unveiled a limited-edition FriendsWithYou merch collection — how to buy",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9uNWg2UkNpX29yYy04Z0pWTWJOWUc1cm5sNDB6TFpJZmhxSlZYRUp5S2RZXzJnYUIxXzBKRmtHSFZudGxCQ3pVYkZkakRsTW9Wb2Y3dlE3UkpZT0RnNDFEQjdFYzVqOGtrSF92RVhNRGlqRGJyT2lkV0drY2JuLVE?oc=5",
+    "publisher": "Mashable",
+    "published": "2026-11-25T08:20+00:00",
+    "source": "Google News"
+   },
+   {
     "title": "Starbucks Japan Launches the Potato Soupaccino, a Half-Soup, Half-Cappuccino Winter Drink",
     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZm1BdkJTNkpHQkJLc3RyRzE4VFJhM1NETWVKMndIY09BSzJnMjhBT0R3Q05IVC1iSEc2anJad3dLRDNPV3E2WmN0ZjVQTEExTHJuUnRpSTAzTFNvMHF2b0kwTUVtdkpURnE3SUlxVkdZZ3JFaWhyRWhHMF9RNFNmejhlUUh0bTRj?oc=5",
     "publisher": "Hypebeast",
@@ -1955,10 +1962,10 @@
    },
    {
     "title": "Starbucks weighs sale of Japan business worth several billion dollars - Bloomberg",
-    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNWTZJWGx4b0lLYnQzZXRSX3JIc2Q4cHdlZ09YenJfNnVOOHJVTmZPS2h1dHRRS2dJSG1sVzh4WVE2QUJLSEdfN2Q4OG5HYmdDTXp1X0xQSDRlWS1hcnZjdTFKT052aU9ndnhKeVV1UlRydGJiVDRSU2FVMjdudEpZbEtRU2E3TUNKcGw4VVFjVjRRck1pQzRrWHlsakNGWW9UTGtlbWhpNW9qY25ySDFaaEhVa2NXbFR1OThjRXJnV005R3FKNHlaNEJ3MjlDM01KV0Rn?oc=5",
-    "publisher": "Investing.com",
-    "published": "2026-11-25T06:17+00:00",
-    "source": "Google News"
+    "url": "https://finance.yahoo.com/markets/stocks/articles/starbucks-weighs-sale-japan-business-040718275.html?.tsrc=rss",
+    "publisher": "Yahoo Finance",
+    "published": "2026-11-25T04:07+00:00",
+    "source": "Yahoo Finance"
    },
    {
     "title": "Starbucks: Visible Improvements, Yet Little Room For Error (NASDAQ:SBUX)",
@@ -1979,13 +1986,6 @@
     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOaGVqYTNHbEpzSThlMkJETDJCX3RwQmM0X1cwelNoQmFTSW1wdGZERlliSU8zbkVKaWRNTjFoZ2RjSk03eUgzTnpOY09GSHZhQzlrdU9vSTFjNXEzNGFndjdKNkNxRUQxSGdKSklWaDZHT05lYlJDZUdfRWtvT1dVdnBNd1hEZTl0VU9oNnlDeXg0RkNsMnFUYmlJZGp6d3RkaUlZbUR3?oc=5",
     "publisher": "Contra Costa Herald",
     "published": "2026-11-24T23:42+00:00",
-    "source": "Google News"
-   },
-   {
-    "title": "Starbucks Made a Tiny Change to Its Checkout Screen. A Behavioral Scientist Explains Why It’s Backfiring",
-    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQUkMtNW45SkgtVGFGbnBpemUtTzhwOEtSdzFhek41WUluTjJUd0NZNFlqY1I4UV9NRjAyQ3c4aUFDakxJN21QSGp2Mm5YenpRd196X1B4ZFpxQ3lrazVvMzlVQzJBdTB6V2loZU82aVh2VG5hcnlURTdMeGVQOHJPQXBuTmxfZEdSaUtmX2FIMDVTU0VNMjBLa3JJeC1yYTFBS1ZzRzNfMTFCQWNEbWR3a0RlQmFHU2VTYklqdkpCeHRkeXh3ZFI4SDA2VnRjLThxSnVjNTNoenlBcVk?oc=5",
-    "publisher": "Inc.com",
-    "published": "2026-11-24T21:41+00:00",
     "source": "Google News"
    }
   ],
@@ -2231,10 +2231,10 @@
     "source": "Google News"
    },
    {
-    "title": "KeyBanc raises Darden Restaurants price target on Olive Garden momentum By Investing.com",
-    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOYnVYalZJVWY2NnlraDdGMjRwNkVVMWhqaFpuT3RxbEVILUxwa3FxQ0JpUVZuNTJpcXZiUE5fdl9KM1B6NjZfaWhTLTFZZURoWG4yT3hvN1FBLVBmR3E2SmVrb0MtZnJxenVjOXAyc2Nsd0REUjFyT0tsZVNCNmRvYk04aHNiNXlkZ2JoRWthOWZ2OUhaMmkyQUxzYkh5R0pSckU5bTB2YTdMXzdvbm9jYTlQbnJlLUlqdjVzLXZXTGVKR2FibjJiM0dfM1g?oc=5",
-    "publisher": "Investing.com UK",
-    "published": "2026-11-23T11:54+00:00",
+    "title": "KeyBanc raises Darden Restaurants price target on Olive Garden momentum",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNdEFrVVMxNzg3eW1OOVlsLWsyNXprMUQxUEVxb2JrQnFLRXQwVnBEdUFkN3ZhMWFKYmNBclFEMG9ZaS1zbVVvV3czME5nZXBlQldUM0tvV0tobTh6eVYtemhTMnFZTWNXb1pveW5BS282ZkNpZGlPZTlJNmEwR0hEcXRJQ0JfTzc2bFZxUlZ3X3RqblB4TG9BNmNaVlRTbGlaRzdoWHl3a2VxQjFlUmpuWGpoaHZjb1EtaGFtdU8xZ1dxbnZzVWNGV0NHbw?oc=5",
+    "publisher": "Investing.com",
+    "published": "2026-11-23T12:06+00:00",
     "source": "Google News"
    },
    {
@@ -2459,13 +2459,6 @@
     "source": "Yahoo Finance"
    },
    {
-    "title": "Chili’s to Bring Back Merry Maker Margarita for the Holidays",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORFA3cmMzQnZHSXhjRTlaUmp3UjdhUnVMZFhlRjFfY19rR2ZNRVRKRHFBVWlidUlXZTdGS1FweEF0NlYxbkJMaUJVY0xzZ1lrbER3T1kzT3FKSWFxakd4MkZZU0pMYWM4MUgxRXhUMHg5cmRlNTdwWmh6MUhobGcwYndHYjlnc3JGT2ZMRDN6bHlDWFFtYUZMYUZuVGgwb3NKLUlZNg?oc=5",
-    "publisher": "FSR magazine",
-    "published": "2026-11-24T12:33+00:00",
-    "source": "Google News"
-   },
-   {
     "title": "Buy 3 Restaurant Stocks Ahead of Thanksgiving Day Amid Macro Headwinds",
     "url": "https://finance.yahoo.com/markets/stocks/articles/buy-3-restaurant-stocks-ahead-122800023.html?.tsrc=rss",
     "publisher": "Yahoo Finance",
@@ -2515,6 +2508,13 @@
     "source": "Google News"
    },
    {
+    "title": "White Castle lands in Dallas with a slider vending machine",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPb3R6WEFGaWQ0X1U0NDZFcUVMMm5FMy11YmhPTTU2c1RGNE1HdVJOWS15NGZPSEZpaUNIdVFUNXFiWUZPeUhTMWZ1OE5lUmxBa3Ztb0VRYlFQbkZZbGdBdjdoQmZacmRxakRJS3JZV0xCalR1M3ZPWXBBWkxMSVJJNlhqanlDRlg5bXhaYWdXY3NMekhhRVBFNUJLYzF5S0d6dVNiaUpIenVNNkktN3dVY2lB?oc=5",
+    "publisher": "Dallas News",
+    "published": "2026-11-21T03:09+00:00",
+    "source": "Google News"
+   },
+   {
     "title": "Hope to see you tonight at Chili’s! 4-8pm #nmspecialolympics #fundraiser",
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBOMlpPYldiUjNKVGVSSXVOalNUTE1GdFpWOXJXRTlSTkhiTHVpclpvdU0tRFlnYU10ODVuZXIwX3J1eUhsV3NoU0RjYmJRNV9JcFE?oc=5",
     "publisher": "Instagram",
@@ -2527,13 +2527,6 @@
     "publisher": "Yahoo Finance",
     "published": "2026-11-19T22:33+00:00",
     "source": "Yahoo Finance"
-   },
-   {
-    "title": "New Mexico agencies hosting Tip-A-Cop at Chili’s in Clovis Thursday",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQjlld1hQSnNHSmJEYkc3c1czbnluNDJ5WHk4dkItdENjLUpyUWEwYUF0YVNfdVBvQXhwNUVKa0V3b25XV0hvVWVieEVvQWxvaWNhNnZpNDROek5QMVRQWVBZTkNWR1dMcXlfQ1ZfeVFGYXFsYU9LbjZLRVFqUk14T2xkYXdFeFU2bEFMamRvR0lCMktjVXh5Z3R5S2hRSUgwWVVHOQ?oc=5",
-    "publisher": "KFDA | NewsChannel 10",
-    "published": "2026-11-19T20:52+00:00",
-    "source": "Google News"
    },
    {
     "title": "What Moved Cheesecake Factory Stock?",
@@ -2550,6 +2543,13 @@
     "source": "Yahoo Finance"
    },
    {
+    "title": "What chain restaurants are open on Thanksgiving?",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOS2R2VWJDakN4YkFyejJ6UG9sRjRqSmtKME5RNzh4YXktYUlrdE9NQm4wN2dSLTA3S29zakxZMXRxVk8zb0dpME9CbUVuY2dvcGpyQ2NOSkNYdXNzQUZlVG9KQ2hscDh3cmk5ZXhRVDlicF9EckRIWmlGXzRnTVQ0UkJnLUlISlh2WGNzUlh5clV4ZFlkX2tDNl9mVzJhTE1nSnpjUWhoYi1fZE03RGhBZw?oc=5",
+    "publisher": "USA Today",
+    "published": "2026-11-18T09:24+00:00",
+    "source": "Google News"
+   },
+   {
     "title": "Does Raised Revenue Guidance Change The Bull Case For Brinker International (EAT)?",
     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMzFScFEtVEtsZjJ1cjZQcDdacFZZQWxiaVZvU1BsdjJrNW80RllRMjhScGp3RUxyVUYyeGtvRW91NzAxdllHTjMxaG9Cc0hhekZ4aGVicTdFUDhGR3QzN0tTRE5oV2R2X2pjV29nb3J2cXY0bmhaUUpHSlNuMnRoVmVSUEZTdF9ONUtRYlVaS1Z4bWpUSjltOU90Zi1TYjh4M1E?oc=5",
     "publisher": "Yahoo Finance",
@@ -2559,24 +2559,17 @@
   ],
   "CAKE": [
    {
-    "title": "Which restaurants are open on Thanksgiving? What to know",
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQQU9GZHcwRFRZTzBjRUZwZDk1SzF0REdlMUpNcm9sTDVDOW1obENkS3gyamI0YnlvQV9ORDZUbWNQSFhaYTdybEkwREJzX0lfTHpYS05nMTM3ckp2YVJjTDl5VTlPRG9saTZkN3pkTEVlS3FyNldRMi1FZlhuYmJsX0tiS25MSndhb2RHMGxrSXo4ZVpTRkVBb3I5RmlPeUd1X195MDMxZVZCcGxRWU5MVzVDd0s4TG9XYjJJazk1ZHFRT3l5?oc=5",
-    "publisher": "USA Today",
-    "published": "2026-11-25T12:03+00:00",
-    "source": "Google News"
-   },
-   {
-    "title": "Marshall Wace LLP Sells 1,103,594 Shares of The Cheesecake Factory Incorporated $CAKE",
-    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPNTdMYXNJR0RZUm9DYXAtZTJOSFJtZW82NFI5UDVOQzJNUUZBMkpSUVEwQ0tQVlNxZEYtWV9pSkV1cG5aSmk2UndMdE9HbG9SbWcwMEtLVHk0VWx4MFBFRTNoeUg5MUJHWFJDNS1vaFRLUmhxdm9fVFRYWDlYTEZjd3lXVjJFZUt1b0lFQlowdmRSRXdKOExiblZYZkpuSHdRSm41SkRwbFgtazltdWQtc0dlOXgtTTNIRmQwc2lfaXBGTm1iaVFvWXhuQUhwNmZCZUVyN2oyYWpEVVk?oc=5",
-    "publisher": "MarketBeat",
-    "published": "2026-11-25T11:31+00:00",
-    "source": "Google News"
-   },
-   {
     "title": "Cheesecake Factory Sees Younger Guests Fuel Sales as Flower Child Expansion Nears",
     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTjBSSjlXcVFISHpBVERkaHRlVHFuVGczdHAtYktkbEtZMVNCWE83TlZIZEdLWlU0TmFRc3ZJMElVVVo4cGZ4UkpVMmRTTGdjMmJGOHFMdS1MZ0p5XzMwTVJVU3NqTm5UZEVlNmpvX3ZGRmdvWGZUWXMxWWtVQWYwSzJVVUwwOUloa2hua1d5eGFKdmNCV2Y1SzBHYTVkZ3pvWlBUYktB?oc=5",
     "publisher": "Yahoo Finance",
     "published": "2026-11-25T10:12+00:00",
+    "source": "Google News"
+   },
+   {
+    "title": "A restaurant critic eats at the Cheesecake Factory to see what all the fuss was about",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdXlQZDF3RTA2cXp4a3FrZlZIMmYybG4yZEJ2OVRVWnZmaDVTT25vMTNaVjBWNnhRV1VRVGRWRm9kY3JJbUJEYWVCWW53b2NNVUhJc1ZRT0Zsc2JTLWxEY3Y5VnJlRURHdnFzZkFfWUtDM2dtNVZnTGR5ZGxPVDJ5S2s0RmhVTllHQVp3YQ?oc=5",
+    "publisher": "The Boston Globe",
+    "published": "2026-11-25T05:07+00:00",
     "source": "Google News"
    },
    {
@@ -2587,39 +2580,11 @@
     "source": "Google News"
    },
    {
-    "title": "Cheesecake Factory Gift Card Bonus Runs Through Dec. 31",
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQaU56cHZ6elFMbnBNc3dqNklpcWdhTDc2M0I3UXZvaU1FRFhINU9NWE5CU3hrMFNETTZWLUNZS0gyaTZSbThCLU52bnA0MEdnRXpMXzJDODV1am1NRFNud1VFU2VoWHU1M2lIOVB5bGF5NkJsTFRkTEtVTXZ3X1pXcmkwWHVLOGtCT1d1Y2t3MA?oc=5",
-    "publisher": "Wilson County Source",
-    "published": "2026-11-24T15:19+00:00",
-    "source": "Google News"
-   },
-   {
-    "title": "The Cheesecake Factory can’t get enough of the Gen Z ‘Tuscan moms’",
-    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNTkRpT2Exa2IwWGFfUlBsb3V5MWpjZDVfamlmTHE2R1ZZUGxRN1JFUlRnNWhvTHl3YTR1c2lRLUdfWjdJZ0ZWajFKRjlUQnFqX2ZzZkRDVTN3MHhacDR4amZuSnBGbjVZZ3R0a1hoOGJjV21DdmhRX3dyeGhWNzhicEdhd0g5bm5tZi04SmVwamdmR3FYQ3FpTl9ob0s3RV9GX3R1Rmg2VzZoT01nRlhRandjQjN4VnpBYVc5eWgxVVJPOXpGVXZ1dDBEQUo0MzlxRnJDaTdn?oc=5",
-    "publisher": "Toledo Blade",
-    "published": "2026-11-22T12:37+00:00",
-    "source": "Google News"
-   },
-   {
     "title": "Target, Biotech Lead 5 Stocks Showing Strength In Brutal Market",
     "url": "https://finance.yahoo.com/m/0f048bc5-2209-3ee9-8c8a-f4c95d167c07/target%2C-biotech-lead-5-stocks.html?.tsrc=rss",
     "publisher": "Yahoo Finance",
     "published": "2026-11-21T16:10+00:00",
     "source": "Yahoo Finance"
-   },
-   {
-    "title": "Cheesecake Factory (NASDAQ:CAKE) Stock Price Crosses Below 50 Day Moving Average - What's Next?",
-    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOTmVzM09xbmlTUFd3ZXRaQXpxOUlMV1RZWDNHNzdTMVl4My1FQW1rUVNMQW14UmlZdVozMGgzalRpT0swTHFtRGlWNDJQVXpuUGRTUXhsTG9ibU0wRTdNYjVhNU1rREFYeVRIanhseWtNQTlsZWVleWJhWnFCaVlmVm51MTFfQXlrY25VanBtY2xvaUV6SmJxWDR4N2VZdHNJZ2VHamFDZzdjZ2ItZGhzcVdBUjNGX1ZiSjhyQzNmdnVyTGh5SVJrMDRDLXpxc2ItNGxCWThDVnh1dkRHdlVhSUdPQQ?oc=5",
-    "publisher": "MarketBeat",
-    "published": "2026-11-21T10:59+00:00",
-    "source": "Google News"
-   },
-   {
-    "title": "The Cheesecake Factory Incorpor (CAKE) Stock Forecasts",
-    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQmFFWUh5YVZONHpSVVBMX3RteVNGeF96cDVBZ0ZXQWRQRU8zNnkwTWFmR0JkS3lfeGFCYUFxdGZzcXYwOFpCM3J1X2UxR2xLREFCUkFMVkRUbmlGTW5vMlJqOGpFZ2tRenRUMmRoc3AtZTlvenFuM0V5SWhISC1ZM3ExbnBHODE1YjBJQg?oc=5",
-    "publisher": "Yahoo Finance",
-    "published": "2026-11-21T05:17+00:00",
-    "source": "Google News"
    },
    {
     "title": "Dow Jones Futures: Techs Tumble, Anthropic Dives After Ugly Market Reversal To New Lows",
@@ -2637,16 +2602,23 @@
    },
    {
     "title": "What Moved Cheesecake Factory Stock?",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVDZmT1drRHJnS2R4dFhDR212dlhxcGpRclhSTENEWWMtTFJGU2YxV3lVN0xobm50LUJyc1k4dFluTkNScW5fb29VeHhZcEtocnBrODJyOXN4YXlQMmtWaEx5WkMyR3hlVHBVOWR1Wi0wMGpvUEptYW5hZmNGOUQxa3RjLVhjalJHY09jaVdFWHBHQ082a1VheENCU3g?oc=5",
-    "publisher": "Trefis",
-    "published": "2026-11-19T12:23+00:00",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNLUkwdm13YS03dHZISXRjNzFUN3FGQVgydm15ZWJNTENVY3NYRUJkaEc5RmsxSmNGYTdoWDd3SVhyWmZwVHdObVA0dktqQmVySUpsUUZIazUwME91QlgtdlpqUlBVRmtnZ0FIUUx0WTVPbEVvYng2d2tVcWRRUy1pb1pLN1BMYVpBUWpWS0Z2OHhFMXpndnpZYmJ0dw?oc=5",
+    "publisher": "Yahoo Finance",
+    "published": "2026-11-19T12:45+00:00",
     "source": "Google News"
    },
    {
-    "title": "Cheesecake Factory confirms the three holidays their 218 US restaurants will remain open for diners",
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPUDFnYm83ZURtTUo5ZGliLWx6X3B6SjBEX09hUmZMbnZIc2VYdUhrTWFIREUzcFlsNHRUQnV1bTgzMFZHRWpwazE3V01MSS1GT2I1N0d0NWM0YzFjTDR5YzBlcnUwYkgzT1d4VFd4SE51b2RGczI0Q29ISmxyazF3S21WSQ?oc=5",
-    "publisher": "The Sun",
-    "published": "2026-11-17T14:31+00:00",
+    "title": "The Cheesecake Factory sees a big opportunity in delivery",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQc2RncTNVcGNNb3ZXYkQ1aTB4U1JYSE9Ta09RemsyTEVhdWtENHV1ZFJwc3dTWGlyLWltM0ExZjB0a2xuLXZsOUhOdGxEcldlSTktVmVTc2xYcWNMcWFRZEZuSk1BeDdJOGhRbzlZTUpDa0R4Skh5NExwRmN5dTJRUGNKRW5UNUJGR0J4SmNaYW55bEw1RXRnczdhQQ?oc=5",
+    "publisher": "Restaurant Business",
+    "published": "2026-11-18T19:27+00:00",
+    "source": "Google News"
+   },
+   {
+    "title": "The Cheesecake Factory rolls out holiday gift cards",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSmg5U0J0ZFZCQXcyOGR6d2Jkb3hoVExwS2ZoRGM4UGQzX0VlUTJ3TlNpODlaYnEtS3BRRFFFV1hhak5wTVlfVnZmTXlLYTcxVEptTm9RZ0xsTjU1b3JiSm9HMHhlVnRqQzlQdkRhV0UzMzZqU3hQb2xBM0p1enJGZHZsSi1YdEZLTzduR05YUVBzRkhK?oc=5",
+    "publisher": "Bake Magazine",
+    "published": "2026-11-17T17:17+00:00",
     "source": "Google News"
    },
    {
@@ -2685,18 +2657,46 @@
     "source": "Google News"
    },
    {
+    "title": "The Gourmet Burger Chain That's Owned By Cheesecake Factory",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWWRKbnFxdGc2ZGNaamxuaHJONzBzbkRUVjliQlB2SzRPcHRoTFdvR1p2UFRwVnhoaGtSekZxZ0tLRHBib09QU2hTY0xUUGRoYUVJWEgxbUc0a3lZeXBmWXMxc3hYRHlpczhhNmNoc2VjU0cySUZDZmxrdy1MYTFRaTdqNUUyOHpJZllkMUhrdkNsYV9P?oc=5",
+    "publisher": "Mashed",
+    "published": "2026-11-14T08:00+00:00",
+    "source": "Google News"
+   },
+   {
     "title": "Baron Small Cap Fund Exited The Cheesecake Factory (CAKE) Following YTD Rally",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/baron-small-cap-fund-exited-151855474.html?.tsrc=rss",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNcjRiNDZ1QzRXSnhwVWVGM0FiOGlicW5pSXRZRk1xZHQyakVraHprbmdlUXJxdGxrWWl2SVFJcWN0Snc5azcxRlNxMDBVTWpzX3JFODB2OWliREpkckRiVFBweEpKUFBvOXdKQkNtMU1zM3dETUFvNWtMQzVYTGJmU3RNcFZZcHhhWjZpTkZITC1INm9Cd0Fz?oc=5",
     "publisher": "Yahoo Finance",
-    "published": "2026-11-13T15:18+00:00",
+    "published": "2026-11-13T08:00+00:00",
+    "source": "Google News"
+   },
+   {
+    "title": "Olive Garden Vs Cheesecake Factory Fettuccine Alfredo: Which Is Actually Healthier?",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVnVxcHNSVmtXVVktS3d2YTRkamRCeE9MTDBKR1Mxc3o0U0FFTmsyOWRKVDFTUGt2Tk5URVNqVW5oWk53Z1ZWd2FSTnJJUU9kRWJUNWlGZ2ZJWDJ5RWZCY0pCWXBDQThMMnJlNl9yMzZHd2hXYjlwVnB1bFktLVNyZlo2TG5XSnVfOXo3dDMyd2pQUjY4REQ3WW16Vmw?oc=5",
+    "publisher": "Tasting Table",
+    "published": "2026-11-13T08:00+00:00",
+    "source": "Google News"
+   },
+   {
+    "title": "Will Cracker Barrel's Stronger Cash Flow Help Fund Future Investments?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/cracker-barrels-stronger-cash-flow-134400761.html?.tsrc=rss",
+    "publisher": "Yahoo Finance",
+    "published": "2026-11-12T13:44+00:00",
     "source": "Yahoo Finance"
    },
    {
-    "title": "Is Cheesecake Factory (CAKE) a Solid Growth Stock? 3 Reasons to Think \"Yes\"",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/cheesecake-factory-cake-solid-growth-164502549.html?.tsrc=rss",
+    "title": "Has Alliance Laundry Holdings Inc. (ALH) Outpaced Other Retail-Wholesale Stocks This Year?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/alliance-laundry-holdings-inc-alh-134002586.html?.tsrc=rss",
     "publisher": "Yahoo Finance",
-    "published": "2026-11-12T16:45+00:00",
+    "published": "2026-11-12T13:40+00:00",
     "source": "Yahoo Finance"
+   },
+   {
+    "title": "The Cheesecake Factory Makes Holiday Shopping a Little Sweeter With Special Gift Card Offer",
+    "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxQTUZ3ellTUktIVmFhY1dTZnRyYmJBQW1YcjB5WkQxVzJfRTNzaGxwMVJkaVRzQjFOZlVFOTZ6S2YwM01uQ29IOGlLMlJocG96VnVfbFlDWG9uUm1hSmtXRmtMQmpsaGxuQXpoWUtuU1R6RDdLNGVJOUlBREJsMjZLSDJ5Y1EtakNJOUpINEpleUpwdWUwdUtGWklIcnl0Y0tGd1BvSXgzMHlsZEhxbXMwRXd4T3VqS3lldGtaM3ppQ2E4M1QyTGpMSTA4clNrUFZMSGtMaVZtNmRGQllBUURCRUV2cV82amRFcGNmVzVkRDluRWhld3REYWN4eFNabTlQZDlHMDZ2b1JqWkc4czJ2QW90ellCNWlYRUFvT0JjbkZQbG5jcGJvNmliVQ?oc=5",
+    "publisher": "The Cheesecake Factory",
+    "published": "2026-11-12T08:00+00:00",
+    "source": "Google News"
    }
   ],
   "CBRL": [
@@ -2711,7 +2711,7 @@
     "title": "Cracker Barrel options signal 9.3% move ahead of earnings",
     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUGtZbFplSEs5YXdudlZDYkF6azNHd1VCLWdMbWNFVXRpT0VrMzdCdzJrVXpxV0dkWTF1WjRhc1pYcXNoaDFJTnZfUjF3elMxNDRQa0ZMOWx4dm5pd08yMXlaVktFLVNucFc1VjNDclo0ckJObnczT3MxamRJbjFHa1M5S2psLVlVeDFYMUFUSU5aalZYOFJOU2lzMUdIa05HRFNOMlJETEMtR0llRjA0NUFfSGNhdlp1?oc=5",
     "publisher": "Investing.com",
-    "published": "2026-11-25T15:48+00:00",
+    "published": "2026-11-25T15:52+00:00",
     "source": "Google News"
    },
    {
@@ -2720,6 +2720,13 @@
     "publisher": "Yahoo Finance",
     "published": "2026-11-25T15:34+00:00",
     "source": "Yahoo Finance"
+   },
+   {
+    "title": "Which restaurants are open on Thanksgiving? What to know",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQQU9GZHcwRFRZTzBjRUZwZDk1SzF0REdlMUpNcm9sTDVDOW1obENkS3gyamI0YnlvQV9ORDZUbWNQSFhaYTdybEkwREJzX0lfTHpYS05nMTM3ckp2YVJjTDl5VTlPRG9saTZkN3pkTEVlS3FyNldRMi1FZlhuYmJsX0tiS25MSndhb2RHMGxrSXo4ZVpTRkVBb3I5RmlPeUd1X195MDMxZVZCcGxRWU5MVzVDd0s4TG9XYjJJazk1ZHFRT3l5?oc=5",
+    "publisher": "USA Today",
+    "published": "2026-11-25T12:03+00:00",
+    "source": "Google News"
    },
    {
     "title": "New Strong Buy Stocks for November 25th",
@@ -2793,9 +2800,9 @@
    },
    {
     "title": "Is Cracker Barrel open in MA on Thanksgiving 2026?",
-    "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPNHpMWnpTVEVvTzg0RXhxS0VNTUZDRWc1YVFDcUJfWnN5TEpMd1lKT0pTdUNvcTNfWEVxVDVjVDRuRjNMa0JabG5MVGFwZGZGTmFocExKLVJpbnQwWUd3VDZtWUhsRG1FMnhfQkhNRk9TdnRUYnNBU2J4Z3pQRXRxUl8tUHg4QXBuakhpRjVXQzQycVVXc0FqOEpURG5ibDVBQWc2Z1JUSHBrYjUxWXp2T013QVYwQkZsaDVzZmZGSHJKcGZSSmtRLXNhZGRRYmFrdnB3YkVEaWQ2c0ZhWVZPWHZLTkNwSDBUWF90LS02NTEzemZFdDB3c0tPYVV4WWJXaTFxRHA2bzJHNnJqYlV0MQ?oc=5",
-    "publisher": "Cape Cod Times",
-    "published": "2026-11-24T16:58+00:00",
+    "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNbnFMOHVBLXFieXJmWFdlb3BiQUpHV1V1cE8yclpzNlBSWTZMMENCWmUtSTAyVjVYdl9DVDFwQjNtdnk5RDZpbnhzRFFsS081bTUxQUJQMjUwZk82NUZoU0h0TDF1SWFxZzIyYWNUeUx6elJwSVJXcXpzdzllbWZMRTZob3J4aFBCZFRBOGE0ZG5lX202Y1lxZ285dmUteXFzaWRwaDBBZk5xRktCcWN5UW93b25IWmxZOFlQS1h5d2FOM2huOHRkWE5RSHVQeXJDU2cxS3MwQ0lIM2dCempvOVJKYXRkZkFKTWx3cExBVWp1bnY1NU5EVFlQZ05CRWN4STlwY0hiUXkwLWs?oc=5",
+    "publisher": "Worcester Telegram",
+    "published": "2026-11-24T17:02+00:00",
     "source": "Google News"
    },
    {
@@ -2803,13 +2810,6 @@
     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRk9lRlB2TkEzSUR0cVpZNl9YU21Ecm81eTZ6V2Rya2hlcXkxS0IwT1hLNkpKa3JCV3kwcXpoMVVUY3BQTlEwNldsN2dPS3RkMEFCSW4wM3hQQm52elV4ME1jQmJ0ZXlGZ2hlYkhFa2ZXREV1Zld0RUpLZHlTelFFZDQ5YWVHeFQwM1FZXzBIWktZd0dPRUlv?oc=5",
     "publisher": "41NBC News",
     "published": "2026-11-24T16:49+00:00",
-    "source": "Google News"
-   },
-   {
-    "title": "Cracker Barrel Old Country Store (NASDAQ:CBRL) Sets New 12-Month High Following Analyst Upgrade",
-    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQdTdkbnRJXzR0eGlhbkNUSFNCc1A4QzM4V3VnY2xCWU1qU2tkX3YzSUNMall0b2VQMnB6X3VKNVdRcVUzQzVGTjJQTUlrNHlhQjFiWnNJbDNFVFNKdFQtWVQ4dTJLdURwaUNZb0tRLTZCZlhDdWNPdW1Ka1NUUjRkbm9zS3NVZjlMOHUyUV8zYmlKc0RIdGlic1ZPd0lXY1dDcmdFNENQc1laN0ZMX250VDVlbFRrdTRtakdETkdsZVBmalRKU3pmQmoxM2hyaC04ZUlfRFFqcjN2X3dnTTRBRHhJalY4MWxX?oc=5",
-    "publisher": "MarketBeat",
-    "published": "2026-11-24T15:24+00:00",
     "source": "Google News"
    },
    {
@@ -2828,10 +2828,10 @@
    },
    {
     "title": "Buy 3 Restaurant Stocks Ahead of Thanksgiving Day Amid Macro Headwinds",
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZVBFeGtUdEF1RThYNDJ0SDdIWThRbmRkYTVUU29BR2poUndrcGkxcnFsaWcyVk1OcTBBYUZsV2ZoRy1sVGR0ZU9kQnpNeWlVMU02OUJwQWQzanlSZzV3QTBUTGV4TUpkZDhfUVRiYU1uY25DaDdUSHdnNjhsWkY3X0d5VEhlSW4tdWl2bFVKemswRHVxRndQMDBYVGR0aHBsczBKaTBCTE5Yd0dJWmhsckdOVHpYTzU0Y2V4Q1ZZWEhnaEw3?oc=5",
-    "publisher": "TradingView",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/buy-3-restaurant-stocks-ahead-122800023.html?.tsrc=rss",
+    "publisher": "Yahoo Finance",
     "published": "2026-11-24T12:28+00:00",
-    "source": "Google News"
+    "source": "Yahoo Finance"
    },
    {
     "title": "Cracker Barrel vs. Texas Roadhouse: Which Has the Better Country-Fried Steak, According to Diners",
@@ -2942,9 +2942,16 @@
    },
    {
     "title": "60+ Outback Steakhouse locations to be sold after franchisee files for bankruptcy. Here’s where",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbFctT0FJR24zbmVMTUVqVTN4MjRDLVhEMENORmRBXzBIZFl3YTVfWE5rUXdFNEkwN0xtaEJMVnlOWUVvTHJUN3A3emdqbnd1clYwQTcwdzZSRVYtVUVKRmczUDQ0V0hBd05haWhrZDJKa2xycHkyU2NLQWpQWGxzdTdpckJ3Q0tTdFhKOHRIWU02UGJfMjA1VnRkb2N3bGg5bjFjNlhmb0pSeHRDYmgxZkpacGl6dw?oc=5",
-    "publisher": "KY3",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQ2ZtQ09UUjV4SkpRd1MxWnJmcGVVZjQzaGdnbEhMU0tUVkhMV0JKSE9kWm01TVNTUUV3cmhkcG12MFZ6RjlScmsxTWdQeUdZRUk5aVI5dHdRWmtndUpzYjBQUXNBbXY5aDdGRUMxRmlvTXZtMHZ3enVBMExESXhDTTBwZXZNTURTa2Z4LUdCdVQ1ZDRFTGlVblBsU3lfQ2RVLWZNUGVQamNRbC05VGwyNUljc3Bmdmc?oc=5",
+    "publisher": "KPTV",
     "published": "2026-11-08T08:00+00:00",
+    "source": "Google News"
+   },
+   {
+    "title": "Outback Steakhouse Owner Raises Profit Outlook as Chain’s Turnaround Continues",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZWptSk4zakUtMHFockFXSUxIcTdnN2wwQTFZRXBuWm1wMVRBZVRfMjR0M2JMbjJNbkwxVC1YendKRm5hVTdiSnNOUm52S21KcnBQZ2Y3R0VrSGVDTFBTNVVFaXdYWEJHV2p6OVZWVWJMbjZIX0FPZU9sdVR4VTJyUGJ3QWdrcnRHN09DaHNMbU51LUJmSDRWdjRZWjAzS0V0M1dENVdjVHJnb0NxR19sMk5FbTFNdTRVYk9yTkh3V1dFUQ?oc=5",
+    "publisher": "WSJ",
+    "published": "2026-11-07T08:00+00:00",
     "source": "Google News"
    },
    {
@@ -2974,13 +2981,6 @@
     "publisher": "Yahoo Finance",
     "published": "2026-11-06T16:14+00:00",
     "source": "Yahoo Finance"
-   },
-   {
-    "title": "Denny's Looks to Assure Continuity After 30-Unit Operator Files Bankruptcy, Plus Checkers and Outback Operators File Chapter 11",
-    "url": "https://www.franchisetimes.com/franchise_news/dennys-looks-to-assure-continuity-after-30-unit-operator-files-bankruptcy-plus-checkers-and-outback/article_18fd2b32-035d-4c0f-b29d-8118c2e74f05.html?.tsrc=rss",
-    "publisher": "Yahoo Finance",
-    "published": "2026-11-06T15:30+00:00",
-    "source": "Yahoo Finance"
    }
   ],
   "DIN": [
@@ -2992,20 +2992,6 @@
     "source": "Google News"
    },
    {
-    "title": "Don't want to cook? Florida restaurants open, closed on Thanksgiving",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNDc0RkhheDRTY1gyajh6VVpwVDJkNFd2RUxwd0wzV0RKX1FhLWx4RkZYbEZ3ZnFRcHR3Xzg3S3dEWmJ2MmNic2FyLTcybWFyOFQ5WjRiSDhQMG5wbDlTSHZmaG01M1hERjBjMWdvek94QjZUQmk1WkNVWXFYaFVjekh5QkxDblA5eklWRkVWUUJMSklTdE05NW5nZTRDRDNqdEtLM2I5aW1vMEZTdmc?oc=5",
-    "publisher": "The News-Press",
-    "published": "2026-11-25T15:37+00:00",
-    "source": "Google News"
-   },
-   {
-    "title": "New IHOP Opens in New Smyrna Beach at Former Denny's Site",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQ3RPTDk3TDN0aXBLTUFqeXN0Wkd4UGFLejJBeWRkZFRtMUxvRFY1VUVTcVNyX1lhNU9IbE1EUjR0ekF0WmpIalV5UmxzQjlNRTZOZGlHVnkzMnpBbW10dUFmTDZKWWtYUGl6ZVNzaUJhNVV1amYxTUQyRUNzaVNpZHczZVFFTGlFV3o4UHNhcTNXV1cyV2EyR25zeENvTEE?oc=5",
-    "publisher": "Hoodline",
-    "published": "2026-11-25T14:55+00:00",
-    "source": "Google News"
-   },
-   {
     "title": "Which restaurants are open on Thanksgiving? What to know",
     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQQU9GZHcwRFRZTzBjRUZwZDk1SzF0REdlMUpNcm9sTDVDOW1obENkS3gyamI0YnlvQV9ORDZUbWNQSFhaYTdybEkwREJzX0lfTHpYS05nMTM3ckp2YVJjTDl5VTlPRG9saTZkN3pkTEVlS3FyNldRMi1FZlhuYmJsX0tiS25MSndhb2RHMGxrSXo4ZVpTRkVBb3I5RmlPeUd1X195MDMxZVZCcGxRWU5MVzVDd0s4TG9XYjJJazk1ZHFRT3l5?oc=5",
     "publisher": "USA Today",
@@ -3013,52 +2999,10 @@
     "source": "Google News"
    },
    {
-    "title": "Biz Beat Roundup: New restaurant planned for Central Park",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcC1QYTVSdnRCNWpCZEZfQm5BMFhlX0lvZTNPZkI0MkF0VDZUTENhUk1lSE1rY19hZUJQMWFXUkRFdUdmQ2hjdnpDN2podG9qLTd1M2MtNGlyZDVsbE5qQjdmNW9UX1g5WTJWM0RHaDRWYm40MFdLNDBhZVhsR2hyWUxCTVM0aHJlZGhIQ3lFN0F5MHoxUF9ZYmhJMENiRUZBbzk2aXpPME5lNF95?oc=5",
-    "publisher": "Fredericksburg Free Press",
-    "published": "2026-11-25T11:45+00:00",
-    "source": "Google News"
-   },
-   {
-    "title": "Dine Brands Global, Inc. (NYSE:DIN) Stock Rated \"Reduce\" by Wall Street Analysts",
-    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQcTlmNzY1MlN2OUlmQ1Z2cHoyd250UkRsYjY1WTRvZHBQNWdodGd5b2N6MjNCaWxMcFFSbTdTWXBtSjJRTkEzckhkR0x5aGRVaUwzYnl4VHo1X2pBZnpqV3g2di1qai1sQXMwMVhRT05UZnFxR1hrUURaNGdicGxSQ2w1dG93cGFkbkkxQUFZVXN2RnNfYzI0a2s3bVFwT0xOM1VGQm5LbjBNYmx0WnlJaDZReFFVSGlCNjEtbVo0YXREbXd6MTY1SFplQnpXTkxiVEZ2Nw?oc=5",
-    "publisher": "MarketBeat",
-    "published": "2026-11-25T07:42+00:00",
-    "source": "Google News"
-   },
-   {
-    "title": "What restaurants are open on Thanksgiving 2026? Cracker Barrel, Denny's, Waffle House and more",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNY1htRzM4b2tXeUItUWJ2OTRzREl0Wk5GdmZXdk9lRUcwYnNoU1hMWHBVUkJKUGtCRVplX1VmSUxSRWJWX0txRHhvN05raVU0b005SzN5U18zaW9vVUFwNzlXekFXZVF4ZzVjMWc1MHgtampZTnNlZFBDNWhldDhXQV9Gd2s5RnBxWmVmZC1rNm9CeUZHeFd4dndpVmVDXzctSDNJTlgyTndGVUt3bWtyemNjcjVaSlpITGhB?oc=5",
-    "publisher": "Nacionale",
-    "published": "2026-11-25T06:18+00:00",
-    "source": "Google News"
-   },
-   {
-    "title": "IHOP holiday mugs on sale",
-    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQbzVxQVkyckd0UVVjMU1CeC01d2JrQWRWZ0tadEdhMXpkZ25hQVFyQlBFOWtFVl92X2UzLThmdzJxaXlUNjdEbHlia2M4WVQyaUxnWDdTZkVfM1VVUmsyWlVuU2N6QVpvYnlvTzZpTjU0WGxRMXNkWGdUc2NMcVBKWTdEY1phdw?oc=5",
-    "publisher": "NewsBreak: Local News & Alerts",
-    "published": "2026-11-25T01:50+00:00",
-    "source": "Google News"
-   },
-   {
-    "title": "Arkhouse Management Co. LP Trims Dine Brands Global Inc (DIN) St",
-    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPTC00SHJ3LXNEZ0x4OWxMTjJ0c2ppbXBaX2xYa0JrSWhiZktpTGhoeFFoaU52bnA1anpIdzVIQ3AxTFRrbThIYzdVeWcwQ2hBOGV1ZTdTTHVadFBRYmRzTTFUZTdwX2t0a3U4cjZpXzZmYUxUNlM3RDdCYVFtS1NSOWdSbHZEQmdHVTBsZGFUeWpFTTNiRVJBRlBWTnR6Vnc0NnM5RlNJX3JYN1ZETy1kRWF2bTJVVGtQU2pfWFF5N3RCakhDNkhhYXFlUS1XTmJtZGxiTUpuSmxRdw?oc=5",
-    "publisher": "GuruFocus",
-    "published": "2026-11-25T01:31+00:00",
-    "source": "Google News"
-   },
-   {
-    "title": "One Person Hospitalized After Reported Stabbing at IHOP in Houston, Texas",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWGktUzNOLWJPWHJLSGlfbUhnNFh0Z0VlMGtOMWFtUHczTlJEVk5BYUZzOVFKNG1GU2N3SGpwUHFTRGNOMkFvX0h0QUNwaDAtX2Y2ODlheWVaMVhtdUN5emV1aUxvZDl3V2JMSzZxbk1YNnZlZHdLd01ZUWtSR2EzYkdMTFR2TDdyaURoUFo3bUJHNWowX3BQYnl4eUJ0MzJnZHlfQk15RWhacHdPa2Z1TDhmTQ?oc=5",
-    "publisher": "cedarnews.net",
-    "published": "2026-11-24T21:51+00:00",
-    "source": "Google News"
-   },
-   {
-    "title": "Applebee’s New Holiday Cocktail Features Dr. Dre & Snoop Dogg — No, Really",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOb0NHSjdkM2MteURmalFhOWtSUG1KU1hCNmdWbUV1Q3hIWnNYWWlEUGFOWlloZ2FTSlp0WkcxM1VoOXZZVndJWVlBVzZibkRDWk0xMzR6aWRLUUsyZllfcnVKdnhWS2dfLWt1YVk3Q2RMaXlDVVhTQlRzQUt1N0xjUTM2LW91eXJObUZ2NnZxVDEzeDN5Rl94TV9lNko?oc=5",
-    "publisher": "Sporked",
-    "published": "2026-11-24T17:01+00:00",
+    "title": "Applebee’s and IHOP will open, share a building next month in Dickinson",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOYjZwTWEzcGtpYkEwUHFZU2s3bUNseW1HRzkyNjRZUkpEUlVZMGNjcGlsR3V2U1F2T0xMQldPZ0tuX2dyQmtyMGhDUWZGaHUxVnpOaHZYR2FNclQwUXZHM3BNZGNwVWdTMThVSmFmbnNzZm9ZWWppRVdCQ3JLeGZ5UE05VFUzRDNpNXhQV3VDVDZ0ZE1LLTRkMkVNONIBrwFBVV95cUxQaEV6ZllLQlpCNHFTNS1PTjZYZ0sxMld0RHJaUjFWMjJrVmxENTlZcWotYjVZczItd0h6bGlvOXlSd1cyWk1rRHpZN2NtSGg5VDZ3Z0Vja2FiM0o4WTM3SGNjbUVwTXlkd25ka1Zhd3FFLXhuRGNKUzV2T3BTaHFKUko4NGRBNVY0Vy1McmVwV2FHQXhLTVBJdXZrQy1ZLWFRS2hpNmVWV0tib0gxM21J?oc=5",
+    "publisher": "KFYR-TV",
+    "published": "2026-11-24T18:53+00:00",
     "source": "Google News"
    },
    {
@@ -3076,38 +3020,10 @@
     "source": "Google News"
    },
    {
-    "title": "IHOP vs. Denny’s: Which Chain Has the Better Breakfast, According to Diners",
-    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5uekZPRDZPUUFYYjBXXzZBU3h3bUdoalNzc0dMMVNvVzItMDNCLVV6LXlfV2RVYU5ObFdzNXJhN1pFSGlOWTlaSWI1TjhBNXFaTnhtWXRENVkzblBjZmpIbFNNMDhFVG8?oc=5",
-    "publisher": "Eat This Not That",
-    "published": "2026-11-24T11:03+00:00",
-    "source": "Google News"
-   },
-   {
-    "title": "Springfield restaurants open on Thanksgiving dish up more than turkey",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRkI1UHlLMjJUU3FrcUhseXZhZTJvVHdjM2dXOTZ4TmhQWXA4QzVTZXVFR2pMOERWMTdMMUFMcFoweW5IbEZmZEJqR0tCTEkxZV9fTTZfU3czSXFGZXdHQXI1aXJMckZRU3hGRS0wLW1ZUnc2WFpIcGUyQXpENTFLY0djZmZNVm1VMDZ4eldaa3BLVWJSUGVFR1FjS2hXR2tTWFdKYTVOVDFOalhXcXBSNVlvYTdkOG5DVlp6Z2dXVGc?oc=5",
-    "publisher": "Springfield News-Leader",
-    "published": "2026-11-24T09:55+00:00",
-    "source": "Google News"
-   },
-   {
-    "title": "IHOP hops down to New Smyrna Beach, opens at former Denny’s",
-    "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxORG1zNjBVR3dGRllaRTRrelU0QV9ZVElRUFI0ZUswdmQyX0ZSQ1pQR2licDBseExpd21IWlVmVzlkaWxOOG9lclloSjYyUGxmSWcyNDZaU0hlX0JUbEVNRWNEZFVtSnpXODkwWjFyR0d5V29oa0stWnJ1MUdVVVNoaUdOOUQtQnJhdFp4NzJtZmgxY0dmNE9PbG1QcE44TlZPendTSk00TEhjYndGelRlS3k3bC1XVWo5Sk1sM25QYTNJajBrNkVFQ29OTzRYZXNmRVpuQWFVRUFrN0VPZmpraGF4MXBOTk16eUlB?oc=5",
-    "publisher": "Hometown News Volusia",
-    "published": "2026-11-24T05:00+00:00",
-    "source": "Google News"
-   },
-   {
     "title": "Restaurants open on Thanksgiving Day 2026: Where to eat this holiday",
     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOeWhQLUpEZHpPU0d3cmltbE5DbndGLWZmN2F5a2JiUUhmZC11dVp0djU2T3dtTHRzeGlsQXZDTDBINlBlTXF0U21tYTNCcWRMM3NYRzBhX2hSSmJic19Fcng1NFE0OV9wTlFDSlRsVEtpXzR1dklyQ19RU0RGQkVHanJ6NjRNU19JcG9tY1VXNU1UUdIBlwFBVV95cUxOUFhidm42TTBjdEsydEgwOC1uMEx4aVQ0MnRBenlZWEZDbkRzYTVUT1RTZVhkMjNkbTlPMVYtWHZ5WFdzc0dNV0FGX0Z6dkw3ZXRxaFRhMHl3MHRRbUdFcFBUeVdUeDRBZXl4NU84Z0ZyaGFqUjFGMTFsdWdTZHZIcE5KN0l1OGhiU0dsSENmUFRHN0w3bWRV?oc=5",
     "publisher": "ABC7 Los Angeles",
     "published": "2026-11-23T22:56+00:00",
-    "source": "Google News"
-   },
-   {
-    "title": "IHOP's first holiday mug costs $15, and each restaurant gets 24 starting Nov. 30",
-    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOSF81am44VHJZTzdSTEpsYTRXX3VKVW9NQktpRmZBT3pScllIc3hXMU1KVEE4UnRmZ0VmTHV1TlRORGdhRXJrMU1YakJCYmZFYXVGcnc5UHBIVzVOYl80ZTVqRVkwUjRZWmRFRWZRNXNFSnZ1eWxuR19FMXZmb2lMa3djWTRWZXBvb2h4Y2R1U2JJWmdqX1g0YXhhMzlnSnJZQ0w5dEtVUGprcTJlVDlfVWFhWjNTUXhjckQ5Z3VnLWxaUzdwNG9NUG1XYjVPYzRqejRsVk1pMGc4Zw?oc=5",
-    "publisher": "NewsBreak: Local News & Alerts",
-    "published": "2026-11-23T22:11+00:00",
     "source": "Google News"
    },
    {
@@ -3119,9 +3035,93 @@
    },
    {
     "title": "IHOP to Launch First-Ever Collectible Holiday Mug on November 30",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVDhlNjVmcXpsZEdyNlRUaWtZNGdaX1hsaGRhc3IxUW1pQXZtM19UZ3lJV0txU1FmOHZPSEIzWmRhQzUycW1fRGNHWDhJMUdxRWoweTNITEN6SGQ3NWtrQUZjdjdDbjA4ajE4NG1xc01CX2tWeFpPdGtjWVVJVEVIcjAyUkZqWTkxSnlvdHM3S1FfZjhHempYUEZ2YkU?oc=5",
-    "publisher": "Yahoo",
-    "published": "2026-11-23T15:32+00:00",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMXFIbmU5YV83Wi02OS1aTno4T29rMXdXZnNkTTlpSldtN0dROHpNSlBIYVZ6OHdzNUxGMlpWdGpmMHhmLUp6a1Q0aXZZcm1sc3NXOUk2d205YUF4bzVkaGpBaUVOWkJfbVpDczU0M1dDYU9XN0YxaVZtSG0wb0NVZzdrWHVQV2JOUHVYaE12aEt0UmtMdTlHZDlkblp3VkpvSjV1MXI3bGRMWEE?oc=5",
+    "publisher": "FSR magazine",
+    "published": "2026-11-23T16:32+00:00",
+    "source": "Google News"
+   },
+   {
+    "title": "IHOP Is Releasing Its First-Ever Collectible Coffee Mug—But Getting One Won’t Be Easy",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUmNDS0xWV28tQ2ZiZXdyVDJtcFktTDNWS3pCVTVGcnRGTkdMNF82SHE3dGNfZUhSWEhacXNUSzN4V2FTOWFVVkk1Tm9TYXV2azN5QjRrdV9jZ1dNMTlaVXNrYTlMdV9SSmIwWW1wR1FFU1RkYldwRHRnTm9DOE1WMjJpSDRtY2s1SjhKU2pTem1saV9SRXc?oc=5",
+    "publisher": "Delish",
+    "published": "2026-11-23T13:23+00:00",
+    "source": "Google News"
+   },
+   {
+    "title": "Pasadena’s Dine Brands Holds Its Dividend at 19 Cents a Share",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPemd2V0Y4Qms2Q1VzeDlqRmlEUkJDMXhMV0xmMGJLMnU5OWJXTHJ5Ulg2cERYQW5iSVAzNWxXRkd4VTlLRGR5QVN0VTRDby1BSWNRZ0JHYjVBZzdZWVRFWm0tdTZtOHlSTTlNRTg5MWZ5NHBiajRDb1h3UURBNUdra0ZJWTdpbk4zZURqVWtYczVJamptcjdiUXNSVVA2WDA?oc=5",
+    "publisher": "Pasadena Now",
+    "published": "2026-11-23T09:00+00:00",
+    "source": "Google News"
+   },
+   {
+    "title": "SSCP-Owned Applebee’s in Texas, California, and Virginia Raise More Than $14,000 for Folds of Honor; Surprise Veterans With Free Bud Beers on Veterans Day",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcERmOFFQWFhYSkw5UTBpQVNRalhmS2h3VGdxZVV5WUdlTUVRcTRFMVRHWi1EN2xPVERaQlZNTEVvMWVGRXd0Um82OGxGWUtZa3NUU0JyQzEwU3NxWEVsRmtwWExyRkVmOEZQcHdxRmJ5TFRfYlN3bmpnZEdMb1dCcUR2NmZXRmNTS3d2aW04Vi1qWHpCeWlIeVdra1UtdzRqSXdlZEdmUGhEZlh6?oc=5",
+    "publisher": "RestaurantNews.com",
+    "published": "2026-11-20T16:45+00:00",
+    "source": "Google News"
+   },
+   {
+    "title": "Dine Brands Global Declares Fourth-Quarter 2026 Dividend of $0.19 Per Share",
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPeGpHbjR4YzZsTzVITkx2WGdmUGxPRlNiTldiNGg3N1hUWEthQUxKcnh2NjNJS3BqYXNDQVRDaXhKZi11LTlqdzhJVG0tdzZqZ3NFWEljVEg4bUFMeHZSQVdyWTF3X0RoeXE5X0YzRnBNV2xyQ3Q5QmlEbHRxaWFxeW9rVzgwalFzVEJWWlF2SFc5RUp4NHFfRURrLVpLbTFXdF9iaVMtcll3REFocjFXRU9vdzhXVmdlQlRaWmtLaFV4czJzYnBETEtYbHpPdjVsS1E?oc=5",
+    "publisher": "TradingView",
+    "published": "2026-11-20T13:23+00:00",
+    "source": "Google News"
+   },
+   {
+    "title": "Dine Brands Global, Inc. Announces Fourth Quarter 2026 Dividend",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/dine-brands-global-inc-announces-130000568.html?.tsrc=rss",
+    "publisher": "Yahoo Finance",
+    "published": "2026-11-20T13:00+00:00",
+    "source": "Yahoo Finance"
+   },
+   {
+    "title": "IHOP and Applebee’s open under one roof in Alexandria",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPbWlWbWdMWklIVWNuZXZDZ05adWtwX0FnUGRRZ21hRzFPTjg1Nkw2VVF2M1JvTmdiY2xTTlVENUtINXVtYlVJY1N6ai1PdnNLQUxqUWRyeWdzVlZ5bUw2OHVkR2RwUUtTa1NCcE9DdlJvR1hyRXVrU0J2TzZ1MFpZelhESULSAZgBQVVfeXFMUDVYQ1c5aVpQd0lYWTZkLXN4S0pIZE1kcHI5YW5MUzJUckNBSENQMFNRZndCVl8wYVFNbHZUNEthNm9HZ0VfYUphTzdfenJSMUFQdlVyeXk2SVJ3cy1QQ0dZdE10UUhBanBDS2g0MlB6Vkg0c1dJc00xcmtqOG0zeEZLSklDbFFUVm1vbjZfZjN2V0psa1pTemU?oc=5",
+    "publisher": "KALB | News Channel 5",
+    "published": "2026-11-19T22:14+00:00",
+    "source": "Google News"
+   },
+   {
+    "title": "5 Best Orders at Applebee’s, According to Chefs",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9GMUVKRVZkUmlCSnVfc19sNlVTZk1CX2hzekdOVnBwejNNMzg1aE1LZjNoaTU1dEltMTIxSmtqUzlmeUZ3UndyeE5MUGZfbGhTYVp0ZTdyOWdSWjdkbWREQ2ZFUHJqelBreWpaVHItTGpmLU9yZEh6cm53?oc=5",
+    "publisher": "Eat This Not That",
+    "published": "2026-11-18T13:34+00:00",
+    "source": "Google News"
+   },
+   {
+    "title": "Applebee's could be taking over Houston suburb Tex-Mex spot",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOYms1cXVZdm9WLVltbktOQk9PLTRJdkFtTzBwRkRabXFXb3h1VlQzT0VEQl93NUprQ1R6d2dCd05fQTBJUGtTOWpITDV6WmVhWnlqTmhPMFhrcHhzOVBrcGQ1dzdnRGVleVdOSmVmZHdjSks1QXNrM1ZyRXdZa3laN25fSWtQZw?oc=5",
+    "publisher": "Chron",
+    "published": "2026-11-17T19:37+00:00",
+    "source": "Google News"
+   },
+   {
+    "title": "Applebee’s Brings a Frosty Twist to the Holidays with New Cooolio with Don Julio Margaritas",
+    "url": "https://finance.yahoo.com/media-advertising/articles/applebee-brings-frosty-twist-holidays-130000356.html?.tsrc=rss",
+    "publisher": "Yahoo Finance",
+    "published": "2026-11-16T13:00+00:00",
+    "source": "Yahoo Finance"
+   },
+   {
+    "title": "Applebee’s unveils new holiday margaritas served in collectible snowman cups",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOU2lGWFBFc0hfNzc4TzNzem1XcVZtS3hqalZqalE5RzdsQUNqY0NyTGI2T2IzNnY3ejE2QmtLM3pFOElRRG1UemdsdTg5ekMyS21IZ0FJcE53bnk4X1Y1cGFRY3N0bjVDeVJLemdrcHZzZ01qZWJoOVpDbzZjT21ETGpxZl94OV9qV1NkbUczQzRxX2R1RDNxWFVTUEFaOHlzQ0NhNkJ1NzA0bEJ5aHUybmVXb9IBuAFBVV95cUxPal9QRG03bUw0UTR6OVlxU0ZGT2Y2ajR3YlYyVFFUQzJPWE12RVJMSjBrT0JvcS05LThNQWRMWnRCeWpha2ZzRjkyNFFSSDNTMUcwamJ2UzQ3LXZpYmVaWjN3VmZ5NkJHLXdaeGVSNmdFaDB0RVBaS19fT1Q1Yml6RGZZNXBJLWJzMUUtbVl3LWlzVHlhX09vMTA5RHhoME1qVGREbk1PbXJXMUhsUVk3dEpPUnd5V3JM?oc=5",
+    "publisher": "WWLP",
+    "published": "2026-11-16T08:00+00:00",
+    "source": "Google News"
+   },
+   {
+    "title": "Dine Brands Goes Big on More Than Dual-Brand Buildouts",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUnduaTQ1cTlIQ3VBandyV3hWTDA3MkVqbHFQT2E0UjBFUFc5MHlMamdWVWtCZHlPd3U4YWxORWJ0OTRxRHE5eGZlelRFemF6R0FyRE5NTUJyQm5KQmtQa0RWRUc3bE1kR2RHY1dveklaUUNzeFA0UW1tRG9RN1oxSzdYQUdHSUh3emJBZQ?oc=5",
+    "publisher": "The Food Institute",
+    "published": "2026-11-16T05:19+00:00",
+    "source": "Google News"
+   },
+   {
+    "title": "Prospecting: Dine Brands Expands Menu Innovation At Applebee’s.",
+    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOZUFSdF9lNVhYQTZUQXNDRzdkYmZHNDFWNkRwa0pVYlVESEhBUmV3NjZPM0dIbVM1WnpfOW1rMUFMZzA4NjQtU2lYNFNfeTJ0RmROMm1JLUp6QlhpWTlPdTJIQVo1ZklVVDQxNFA3WktKdXhEZlYzNDRpdFR4WUZSSzk3OVctM0gyVllXWDR0dzdzV3lBR1VMc0xWdUlpSmk2Q3hSeUxKWmFlTlh2bGdhQWxtQ3lPTVBKdGQ4bWZ0SFFZejhVdnZwWV9XMGxfTmNKRlVOQ05tblZ5S1NX?oc=5",
+    "publisher": "Insideradio.com",
+    "published": "2026-11-13T09:00+00:00",
     "source": "Google News"
    }
   ]
